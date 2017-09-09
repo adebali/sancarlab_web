@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <!-- <test msg="Merhaba"></test> -->
     <h1>Publications</h1>
     <pubmed id="28798238"></pubmed>
     <pubmed id="28607063"></pubmed>
@@ -16,13 +15,11 @@
 </template>
 
 <script>
-import Test from '~/components/test'
 import Pubmed from '~/components/pubmed'
 
 export default {
   name: 'app',
   components: {
-    Test,
     Pubmed
   }
 }
