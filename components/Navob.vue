@@ -4,7 +4,7 @@
     <div class="Triangle Triangle--one"></div>
     <div class="Triangle Triangle--three"></div>
     <div class="Triangle Triangle--four"></div>
-    <div>hey</div>
+    <div id="mymsg">{{ mymsg }}</div>
   </div>
 </template>
 

@@ -1,18 +1,44 @@
+const webpack = require('webpack')
+
 module.exports = {
+  // css: [
+  //   'assets/main.css',
+  //   // 'assets/main.scss',
+  //   // 'node_modules/foundation-sites/dist/css/foundation.min.css',
+  //   'assets/app.css'
+  // ]
+  css: [
+    // { src: 'foundation-sites/scss/foundation.scss', lang: 'scss' },
+    // { src: '@/assets/scss/main.scss', lang: 'scss' },
+    // { src: '@/assets/css/main.css', lang: 'css' },
+    { src: '@/assets/scss/_variables.scss', lang: 'scss' },
+    'bootstrap/dist/css/bootstrap.css',
+    { src: '@/assets/css/app.css', lang: 'css' }
+    // 'assets/css/bootstrap_dark.css'
+  ],
+  plugins: ['~plugins/bootstrap.js'],
   /*
   ** Headers of the page
   */
   head: {
-    title: 'adebalilab',
+    title: 'Sancar Lab',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Nuxt.js project' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      // { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css', integrity: 'sha256-itWEYdFWzZPBG78bJOOiQIn06QCgN/F0wMDcC4nOhxY=', crossorigin: 'anonymous' }
+    ],
+    // script: [
+    //   { src: 'https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js' },
+    //   { src: 'https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/foundation.min.js' },
+    //   { src: 'https://cdnjs.cloudflare.com/ajax/libs/what-input/5.0.1/what-input.min.js' },
+    //   { src: 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js' }
+    // ]
   },
+
   /*
   ** Customize the progress-bar color
   */
@@ -33,6 +59,15 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
-    }
+    },
+    vendor: ['axios', 'jquery', 'bootstrap']    ,
+    plugins: [
+      // set shortcuts as global for bootstrap
+      new webpack.ProvidePlugin({
+        $: 'jquery',
+        jQuery: 'jquery',
+        'window.jQuery': 'jquery'
+      })
+    ]
   }
 }

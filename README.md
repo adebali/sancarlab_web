@@ -1,4 +1,4 @@
-# adebalilab
+# Sancar Lab
 
 > Nuxt.js project
 

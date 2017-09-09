@@ -1,8 +1,22 @@
 <template>
   <div>
+    <menubar></menubar>
     <nuxt/>
+    <myfooter></myfooter>
   </div>
 </template>
+
+<script>
+import myfooter from '~/components/myFooter.vue'
+import menubar from '~/components/menuBar.vue'
+
+export default {
+  components: {
+    myfooter,
+    menubar
+  }
+}
+</script>
 
 <style>
 html {
