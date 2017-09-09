@@ -69,5 +69,8 @@ module.exports = {
         'window.jQuery': 'jquery'
       })
     ]
+  },
+  env: {
+    gmaps: process.env.GMAPS
   }
 }

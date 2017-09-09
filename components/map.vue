@@ -21,7 +21,7 @@
 
   Vue.use(VueGoogleMaps, {
     load: {
-      key: 'AIzaSyDMDt7c1vNAS-T6LDma69DKsuZxVjV-_eI'
+      key: process.env.gmaps
     }
   })
 
