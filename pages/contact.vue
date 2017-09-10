@@ -34,16 +34,16 @@
             </div>
         </div>
       </section>
-      <!-- <labmap></labmap> -->
+      <labmap></labmap>
   </div>
 </template>
 
 <script>
-// import labmap from '~/components/map.vue'
+import labmap from '~/components/map.vue'
 
 export default {
   components: {
-    // labmap
+    labmap
   }
 }
 </script>
