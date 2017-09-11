@@ -1,19 +1,55 @@
 <template>
+  <div class="row">
   <div class="footer0">
     <div class="container-fluid"></div>
     <!--footer-->
     <footer class="footer1 wrap">
       <div class="container">
         <div class="row"><!-- row -->
-          <div class="col-lg-3 col-md-3 white-text unc-logo"><!-- widgets column center -->
+          <div class="col-lg-4 col-md-4"><!-- widgets column center -->
+            <div class="col-xs-4 col-sm-4 col-lg-4 col-md-4"><!-- widgets column center -->
+            <ul class="list-unstyled clear-margins footerMenu"><!-- widgets -->
+                    <li><nuxt-link to="/">Home</nuxt-link></li>
+                    <li><nuxt-link to="/people">People</nuxt-link></li>
+                    <li><nuxt-link to="/research">Research</nuxt-link></li>
+                    <li><nuxt-link to="/publications">Publications</nuxt-link></li>
+                    <li><nuxt-link to="/press">Press</nuxt-link></li>
+                    <li><nuxt-link to="/contact">Contact</nuxt-link></li>
+              </ul>
               <!-- <img src="/img/ramsey.png"></img> -->
+            </div>
+                        <div class="col-xs-4 col-sm-4 col-lg-4 col-md-4"><!-- widgets column center -->
+            <ul class="list-unstyled clear-margins footerMenu"><!-- widgets -->
+                    <li><nuxt-link to="/">Make a Gift</nuxt-link></li>
+                    <li><nuxt-link to="/people">Lab Album</nuxt-link></li>
+                    <li><nuxt-link to="/research">Chapel Hill</nuxt-link></li>
+                    <li><nuxt-link to="/publications">Publications</nuxt-link></li>
+                    <li><nuxt-link to="/press">Press</nuxt-link></li>
+                    <li><nuxt-link to="/contact">Contact</nuxt-link></li>
+              </ul>
+              <!-- <img src="/img/ramsey.png"></img> -->
+            </div>
+                        <div class="col-xs-4 col-sm-4 col-lg-4 col-md-4"><!-- widgets column center -->
+            <ul class="list-unstyled clear-margins footerMenu"><!-- widgets -->
+                    <li><nuxt-link to="/">Home</nuxt-link></li>
+                    <li><nuxt-link to="/people">People</nuxt-link></li>
+                    <li><nuxt-link to="/research">Research</nuxt-link></li>
+                    <li><nuxt-link to="/publications">Publications</nuxt-link></li>
+                    <li><nuxt-link to="/press">Press</nuxt-link></li>
+                    <li><nuxt-link to="/contact">Contact</nuxt-link></li>
+              </ul>
+              <!-- <img src="/img/ramsey.png"></img> -->
+            </div>
           </div>
-        <div class="ol-xs-12 col-sm-12 col-lg-6 col-md-6 unc-logo"><!-- widgets column left -->
-          <img class="img-responsive" src="/img/UNC_logo_white.png"></img> <br />
+        <div class="col-xs-12 col-sm-12 col-lg-4 col-md-4 unc-logo"><!-- widgets column left -->
+          <a href="http://unc.edu" target="_blank"><img class="img-responsive" src="/img/UNC_logo_white.png"></img></a> <br />
 
         </div><!-- widgets column left end -->
 
-          <div class="col-lg-3 col-md-3 white-text"><!-- widgets column center -->
+          <div class="col-lg-4 col-md-4 white-text text-center extraLinks"><!-- widgets column center -->
+          <p><a href="https://www.med.unc.edu/biochem" target="_blank">Dept. of Biochemistry & Biophysics</a></p>
+          <p><a href="https://unclineberger.org" target="_blank">UNC Lineberger Comprehensive Cancer Center</a></p>
+          <p><a href="http://sancar.org" target="_blank">Aziz & Gwen Sancar Foundation</a></p>
           </div>
         </div>
       </div>
@@ -33,7 +69,7 @@
     <!--header-->
 
   </div>
-
+  </div>
 </template>
 
 <style>
@@ -209,11 +245,19 @@
 } */
 
 .unc-logo img {
-  width: 70%;
+  width: 100%;
   margin: 0 auto;
   /* border: solid; */
 }
 
+.footerMenu li a, .extraLinks p a {
+  color:gray;
+  font-size: 0.8em;
+}
+
+.footerMenu li, .extraLinks p {
+  margin: 0px;
+}
 
 
 /************************************************************

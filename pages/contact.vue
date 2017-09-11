@@ -2,7 +2,30 @@
   <div class="wrap contactPage">
     <h1 class="text-center">Contact Us</h1>
     <div class="row">
-      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 contactColumn">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+        <h2>
+          3070 Genetic Medicine Bldg <br />
+          120 Mason Farm Rd. <br />
+          Chapel Hill, North Carolina
+          27599-7260
+        </h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <labmap></labmap>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+        <h2><span class="glyphicon glyphicon-phone-alt"></span> Lab Phone</h2>
+        <h2>
+        +1 (919) 966-7489
+        </h2>
+      </div>
+    </div>
+    <div class="row contact-form">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <section id="contact" class="content-section text-center">
                   <p>Feel free to let us know your thoughts and questions!</p>
                   <div class="row">
@@ -27,17 +50,8 @@
                   </div>
           </section>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-           <h3>Our Address</h3>
-                      <p>
-                        3070 Genetic Medicine Bldg <br />
-                        120 Mason Farm Rd. <br />
-                        Chapel Hill, North Carolina
-                        27599-7260
-                      </p>
-        </div>
       </div>
-      <labmap></labmap>
+    </p>
   </div>
 </template>
 
@@ -52,12 +66,12 @@ export default {
 </script>
 
 <style>
-.contactPage {
-  height:1000px;
-}
 
-.contactColumn {
+.contact-form {
   background: #e1e1e1;
+  margin: 0px;
+  margin-top:40px;
+  margin-bottom:40px;
 }
 
 .form-group textarea{
@@ -74,11 +88,19 @@ export default {
   margin-bottom:20px;
 }
 
-.contactColumn p {
+ p {
   margin-top:20px;
 }
 
 h1 {
   margin: 40px;
+}
+
+.glyphicon {
+    font-size: 30px;
+}
+
+.row {
+  margin-top: 20px;
 }
 </style>
