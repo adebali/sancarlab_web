@@ -8,7 +8,7 @@
           <div class="col-lg-3 col-md-3 white-text unc-logo"><!-- widgets column center -->
               <!-- <img src="/img/ramsey.png"></img> -->
           </div>
-        <div class="col-lg-6 col-md-6 unc-logo"><!-- widgets column left -->
+        <div class="ol-xs-12 col-sm-12 col-lg-6 col-md-6 unc-logo"><!-- widgets column left -->
           <img class="img-responsive" src="/img/UNC_logo_white.png"></img> <br />
 
         </div><!-- widgets column left end -->

@@ -60,7 +60,7 @@ module.exports = {
         })
       }
     },
-    vendor: ['axios', 'jquery', 'bootstrap']    ,
+    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox'],
     plugins: [
       // set shortcuts as global for bootstrap
       new webpack.ProvidePlugin({
@@ -71,6 +71,6 @@ module.exports = {
     ]
   },
   env: {
-    gmaps: process.env.GMAPS
+    // gmaps: process.env.GMAPS
   }
 }
