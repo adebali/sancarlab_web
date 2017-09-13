@@ -55,6 +55,7 @@
 .navbar-default {
   color: #4B9CD3;
 	font-family: 'Fjalla One', sans-serif;
+  margin-bottom: 40px;
 }
 
 .navbar-brand {

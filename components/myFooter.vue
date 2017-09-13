@@ -91,6 +91,7 @@
 }
 
 .footer0 {
+  margin-top:40px;
   background: #13294b repeat scroll left top;
   border: 10px #4B9CD3;
   border-style: solid none;
