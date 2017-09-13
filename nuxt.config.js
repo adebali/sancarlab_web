@@ -16,6 +16,12 @@ module.exports = {
     { src: '@/assets/css/app.css', lang: 'css' }
     // 'assets/css/bootstrap_dark.css'
   ],
+  loaders: [
+    {
+      test: /\.md$/,
+      loaders: ['html-loader', 'markdown-with-front-matter-loader']
+    }
+  ],
   plugins: ['~plugins/bootstrap.js'],
   /*
   ** Headers of the page
@@ -60,7 +66,7 @@ module.exports = {
         })
       }
     },
-    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox'],
+    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'markdown-it'],
     plugins: [
       // set shortcuts as global for bootstrap
       new webpack.ProvidePlugin({
@@ -71,6 +77,6 @@ module.exports = {
     ]
   },
   env: {
-    // gmaps: process.env.GMAPS
+    baseUrl: process.env.BASE_URL || 'http://localhost:3000'
   }
 }
