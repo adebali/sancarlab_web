@@ -5,7 +5,7 @@
 ----------
 
 
-### [Where Cigarette Smoking’s Damage is Done . . . Down to Your DNA](https://www.med.unc.edu/biochem/news/where-cigarette-smokings-damage-is-done-down-to-your-dna) 
+### [Where Cigarette Smoking’s Damage is Done ... Down to Your DNA](https://www.med.unc.edu/biochem/news/where-cigarette-smokings-damage-is-done-down-to-your-dna)
 A new technique from UNC School of Medicine scientists led by Nobel Prize winner Aziz Sancar reveals the genome-wide DNA damage that a major carcinogen causes.
 
 ### [How Life Survives: UNC researchers confirm basic mechanism of DNA repair](https://www.med.unc.edu/biochem/news/how-life-survives-unc-researchers-confirm-basic-mechanism-of-dna-repair)

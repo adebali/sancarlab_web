@@ -70,7 +70,7 @@
 </div>
 </template>
 
-<style scooped>
+<style scoped>
 
 
 
@@ -98,9 +98,9 @@ h1 {
   margin-bottom: 20px;
 }
 
-.row {
+/* .row {
   margin-bottom:40px;
-}
+} */
 </style>
 
 <script>

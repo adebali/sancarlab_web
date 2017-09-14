@@ -66,7 +66,7 @@ module.exports = {
         })
       }
     },
-    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'markdown-it'],
+    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'markdown-it', 'vue-content-loader'],
     plugins: [
       // set shortcuts as global for bootstrap
       new webpack.ProvidePlugin({

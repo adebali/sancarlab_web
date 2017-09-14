@@ -13,7 +13,7 @@
 <p>where is tweet???</p>
 <md></md>
   <div class="wrap graySection">
-    <rest></rest>
+    <!-- <rest></rest> -->
   </div>
   </div>
 </template>
@@ -39,7 +39,6 @@ export default {
     Tweet,
     md,
     rest
-    // Logo1
   }
 }
 </script>
