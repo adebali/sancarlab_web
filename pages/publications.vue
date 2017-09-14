@@ -16,9 +16,10 @@ export default {
 }
 </script>
 
-<style>
- .publication{
-    margin: 20px 20;
+<style scoped>
+  h1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
   }
   a {
     text-decoration: none;

@@ -62,6 +62,10 @@ export default {
 </script>
 
 <style scoped>
+
+ li{
+    margin-bottom: 40px;
+  }
   .publication{
     margin-top: 20px;
   }
