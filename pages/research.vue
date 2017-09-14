@@ -16,10 +16,10 @@
       </div>
       <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-justify">
         <figure class="figure">
-          <lightbox album="research" src="http://www.med.unc.edu/biochem/people/faculty/faculty/fig1_sancar.jpg" caption="Fig. 1. The XR-seq method.">
+          <!-- <lightbox album="research" src="http://www.med.unc.edu/biochem/people/faculty/faculty/fig1_sancar.jpg" caption="Fig. 1. The XR-seq method."> -->
             <img src="http://www.med.unc.edu/biochem/people/faculty/faculty/fig1_sancar.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="">
            </img>
-          </lightbox>
+          <!-- </lightbox> -->
           <figcaption class="figure-caption">
             <p>
             Fig. 1. The XR-seq method. (A) Schematic of nucleotide excision repair. (B) Excision patterns of photoproducts in wild-type, XP-C (deficient in global re-pair), and CS-B (deficient in TCR) cells. (C) Procedure for preparation of the dsDNA library for the Illumina HiSeq 2000 platform. (D) Distribution of the XR-seq signal, separated by strand, for CPD (top) and (6-4)PP (bot-tom) over a 1.5-Mb region of chromosome 3. (E) Strong association of TCR with RNA levels.
@@ -31,10 +31,10 @@
      <div class="row text-justify">
       <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5">
         <figure class="figure">
-          <lightbox album="research" src="http://www.med.unc.edu/biochem/people/faculty/faculty/Figure2.jpg" caption="Fig. 2.">
+          <!-- <lightbox album="research" src="http://www.med.unc.edu/biochem/people/faculty/faculty/Figure2.jpg" caption="Fig. 2."> -->
           <img src="http://www.med.unc.edu/biochem/people/faculty/faculty/Figure2.jpg"       class="figure-img img-fluid rounded img-thumbnail" alt="">
            </img>
-          </lightbox>
+          <!-- </lightbox> -->
           <figcaption class="figure-caption">
             <p>
            Fig. 2. (A) Coupling Excision Repair and the ATR-mediated Checkpoint. When DNA is damaged by UV or a UV-mimetic agent, the core excision repair factors (RPA, XPA, XPC, TFIIH, XPG, XPF-ERCC1) excise a ∼30-nt oligomer containing the damage. The resulting gap is either filled in by polymerases or the gap is enlarged by EXO1. The enlarged ssDNA gap is coated with RPA, which recruits ATR-ATRIP, TopBP1, and substrates including p53. (B) Schematic of repair-checkpoint coupling in vitro. (C) Repair-checkpoint coupling Kinase reactions containing RPA as a substrate were incubated with ATR-ATRIP, TopBP1, and EXO1 as indicated. Kinase reactions containing unmodified (UM) or AAF-DNA from excision reactions with or without repair factors (RF) as indicated. Reactions were analyzed by immune-blotting for phospho-RPA2 (Ser33).
@@ -54,10 +54,10 @@
       </div>
       <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <figure class="figure">
-          <lightbox album="research" src="http://www.med.unc.edu/biochem/people/faculty/faculty/fig3_sancar.jpg" caption="Fig. 3. Current Model for the Mammalian Circadian Clock.">
+          <!-- <lightbox album="research" src="http://www.med.unc.edu/biochem/people/faculty/faculty/fig3_sancar.jpg" caption="Fig. 3. Current Model for the Mammalian Circadian Clock."> -->
           <img src="http://www.med.unc.edu/biochem/people/faculty/faculty/fig3_sancar.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="">
            </img>
-           </lightbox>
+           <!-- </lightbox> -->
           <figcaption class="figure-caption">
             <p>
             Fig. 3. Current Model for the Mammalian Circadian Clock. (A) Mammalian molecular clock model of the transcription-translation feedback loop (TTFL). (B) PER2 removes CRY1 from the CRY1:CLOCK:BMAL1:E-box complex. (C) New model for the mammalian circadian clock. The figure shows a semiquantitative heat map representation of CRY1 and PER2 protein expression as well as the ChIP data for CLOCK:BMAL1 and CRY1 over a circadian cycle and its consequences with regard to interactions of core clock proteins with the E-box and the effects of these interactions on transcription of genes (Nr1d1 and Dbp) regulated exclusively by the core TTFL.
@@ -105,11 +105,11 @@ h1 {
 
 <script>
 
-import lightbox from 'vue-lightbox'
+// import lightbox from 'vue-lightbox'
 
 export default {
   components: {
-    lightbox
+    // lightbox
   }
 }
 </script>

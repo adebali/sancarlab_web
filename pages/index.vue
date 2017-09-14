@@ -11,34 +11,28 @@
 
   </div>
 <p>where is tweet???</p>
-<md></md>
+<!-- <md></md> -->
   <div class="wrap graySection">
-    <!-- <rest></rest> -->
   </div>
   </div>
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
-// import Logo1 from '~/components/Logo.1.vue'
 import mynav from '~/components/mynav.vue'
 import myfooter from '~/components/myFooter.vue'
 import welcome from '~/components/welcome.vue'
 import news from '~/components/news.vue'
-import md from '~/components/markdown.vue'
-import rest from '~/components/rest.vue'
+// import md from '~/components/markdown.vue'
 import Tweet from 'vue-tweet-embed'
 
 export default {
   components: {
-    Logo,
     mynav,
     myfooter,
     welcome,
     news,
-    Tweet,
-    md,
-    rest
+    Tweet
+    // md
   }
 }
 </script>

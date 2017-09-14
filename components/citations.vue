@@ -14,9 +14,6 @@ import fullCitationObject from '~/static/publications/publications.json'
 export default {
   props: {
   },
-  data () {
-    return fullCitationObject
-  },
   methods: {
     makeHtml: function (publicationObject) {
       let publicationLink = `https://www.ncbi.nlm.nih.gov/pubmed/${publicationObject.pmid}`

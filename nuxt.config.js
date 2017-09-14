@@ -65,8 +65,11 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
+      const babelLoader = config.module.rules.find((rule) => rule.loader === 'babel-loader')
+      babelLoader.exclude = /node_modules\/(?!(vue2-google-maps))/
     },
-    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'markdown-it', 'vue-content-loader'],
+    // vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'markdown-it', 'vue-content-loader'],
+    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed'],
     plugins: [
       // set shortcuts as global for bootstrap
       new webpack.ProvidePlugin({

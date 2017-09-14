@@ -1,7 +1,7 @@
 // Make a request for a user with a given ID
 let axios = require('axios')
 let fs = require('fs')
-let pmids = require('./static/publications/a_sancar_pmids.json')
+let pmids = require('./a_sancar_pmids.json')
 // let pmids = require('./static/publications/pmids.json')
 var ncbi = require('node-ncbi')
 
@@ -11,7 +11,7 @@ let ids = pmids
 let results = []
 let missedIdList = []
 
-let file = fs.createWriteStream('./static/publications/publications.json')
+let file = fs.createWriteStream('./publications.json')
 let counter = 0
 
 function parsePubmedObject (pubmedObject) {

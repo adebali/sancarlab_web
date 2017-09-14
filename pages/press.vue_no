@@ -28,11 +28,13 @@ md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
 }
 
 export default {
-  data: () => ({
-    post: {},
-    posts: [],
-    errors: []
-  }),
+  data () {
+    return {
+      post: {},
+      posts: [],
+      errors: []
+    }
+  },
 
   // Fetches posts when the component is created.
   created () {
