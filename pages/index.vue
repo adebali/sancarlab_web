@@ -1,5 +1,8 @@
 <template>
-  <div class="index-body wrap">
+  <div class="index-body">
+  <div class="parallax text-center">
+    <h1> Welcome to the Sancar Lab </h1>
+  </div>
   <welcome></welcome>
   <news></news>
   <div class="row">
@@ -37,7 +40,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .index-body {
   /* height: 1500px; */
 }
@@ -47,5 +50,14 @@ export default {
 }
 .graySection h1, .graySection h2, .graySection h3, .graySection h4 {
   color: #13294b;
+}
+
+.parallax {
+    background-image: url('/img/NC_award.jpg');
+    background-position-y: -300px;
+}
+
+.parallax h1 {
+    background: rgba(0,0,0,0.2);
 }
 </style>

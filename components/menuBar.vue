@@ -27,7 +27,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 @import url(http://fonts.googleapis.com/css?family=Fjalla+One);
 @import url(http://fonts.googleapis.com/css?family=Gudea);
 .navbar-default .navbar-nav>.active>a{
@@ -55,7 +55,7 @@
 .navbar-default {
   color: #4B9CD3;
 	font-family: 'Fjalla One', sans-serif;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 
 .navbar-brand {

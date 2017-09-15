@@ -42,3 +42,9 @@
   </nav>
 </template>
 
+
+<style scoped>
+  .navbar {
+    margin-bottom: 0;
+  }
+</style>
