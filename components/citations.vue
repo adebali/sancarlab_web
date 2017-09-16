@@ -1,6 +1,10 @@
 <template>
   <div class="citations">
-      <input class="searchbox" type="text" v-model="searchString" placeholder="Search by Title, Author (Lastname), Journal or Year" />
+      <!-- <slider v-bind="value"></slider> -->
+      <div class="timeline">
+      	<vueslider  @callback="filterByDate" v-bind="timeline" v-model="timeline.value"></vueslider>
+      </div>
+      <input class="searchbox" type="text" v-model="searchString" placeholder="Search by Title, Author, Journal or Year" />
     <ol reversed=true>
       <li v-for="item in insertHtml" v-html="item"></li>
     </ol>
@@ -11,17 +15,43 @@
 <script>
 
 import fullCitationObject from '~/static/publications/publications.json'
-// import Vue from 'vue'
-// import mySearchFunction from '~/plugins/searchBox.js'
+import vueslider from '~/components/slidercomponent.vue'
 
-// Vue.use(mySearchFunction)
+// import '~/plugins/slider.js'
 
 export default {
+  components: {
+    vueslider
+  },
   props: {
   },
   data: function () {
     return {
-      searchString: ''
+      searchString: '',
+      timeline: {
+        value: this.defaultYears(fullCitationObject),
+        width: '100%',
+        tooltip: 'always',
+        disabled: false,
+        piecewise: true,
+        piecewiseLabel: false,
+        style: {
+          'marginLeft': '0%'
+        },
+        data: this.years(fullCitationObject),
+        piecewiseStyle: {
+          'backgroundColor': '#ccc',
+          'visibility': 'visible',
+          'width': '12px',
+          'height': '12px'
+        },
+        piecewiseActiveStyle: {
+          'backgroundColor': '#4B9CD3'
+        },
+        labelActiveStyle: {
+          'color': '#4B9CD3'
+        }
+      }
     }
   },
   methods: {
@@ -49,6 +79,28 @@ export default {
         authorNames.push(entry.name)
       })
       return authorNames.join(', ')
+    },
+    filterByDate: function (years) {
+      console.log(years)
+      // this.timeline.values = years
+      // console.log(this.timeline.values)
+    },
+    years: function (fullCitationObject) {
+      let maxYear = 1900
+      let minYear = 2100
+      let yearRange = []
+      fullCitationObject.forEach(function (item) {
+        maxYear = Math.max(parseInt(item.pubYear), maxYear)
+        minYear = Math.min(parseInt(item.pubYear), minYear)
+      })
+      for (let i = maxYear; i >= minYear; i--) {
+        yearRange.push(i)
+      }
+      return yearRange
+    },
+    defaultYears: function (fullCitationObject) {
+      let range = this.years(fullCitationObject)
+      return [range[0], range[0] - 15]
     }
   },
   // async asyncData ({ pmid }) {
@@ -78,16 +130,18 @@ export default {
 
       let articlesArray = this.allArticles
       let searchString = this.searchString
+      let yearRange = this.timeline.value
+      // console.log(this.timeline.value[0])
 
-      if (!searchString) {
-        return articlesArray
-      }
+      // if (!searchString) {
+      //   return articlesArray
+      // }
 
       searchString = searchString.trim().toLowerCase()
 
       articlesArray = articlesArray.filter(function (item) {
         let searchField = item.title + ' ' + computedAuthors(item.authors) + ' ' + item.pubYear + ' ' + item.journal
-        if (searchField.toLowerCase().indexOf(searchString) !== -1) {
+        if (searchField.toLowerCase().indexOf(searchString) !== -1 & item.pubYear <= yearRange[0] & item.pubYear >= yearRange[1]) {
           return item
         }
       })
@@ -117,5 +171,13 @@ export default {
   .searchbox {
     width: 100%;
     margin-bottom: 40px;
+  }
+  .timeline {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  .timeline vueslider {
+    width: 100%;
   }
 </style>

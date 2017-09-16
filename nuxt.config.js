@@ -22,7 +22,10 @@ module.exports = {
       loaders: ['html-loader', 'markdown-with-front-matter-loader']
     }
   ],
-  plugins: ['~plugins/bootstrap.js'],
+  plugins: [
+    '~plugins/bootstrap.js',
+    {src: '~plugins/slider.js', ssr: false}
+  ],
   /*
   ** Headers of the page
   */
@@ -34,9 +37,9 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'Nuxt.js project' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
       // { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css', integrity: 'sha256-itWEYdFWzZPBG78bJOOiQIn06QCgN/F0wMDcC4nOhxY=', crossorigin: 'anonymous' }
-    ],
+    ]
     // script: [
     //   { src: 'https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js' },
     //   { src: 'https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/foundation.min.js' },
@@ -67,11 +70,11 @@ module.exports = {
       }
       const babelLoader = config.module.rules.find((rule) => rule.loader === 'babel-loader')
       babelLoader.exclude = /node_modules\/(?!(vue2-google-maps))/
+
     },
     // vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'markdown-it', 'vue-content-loader'],
-    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed'],
+    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'vue-slider-component', 'mini-toastr', 'vue-notifications', 'vue-no-ssr'],
     plugins: [
-      // set shortcuts as global for bootstrap
       new webpack.ProvidePlugin({
         $: 'jquery',
         jQuery: 'jquery',
