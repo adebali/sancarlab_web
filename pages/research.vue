@@ -110,10 +110,11 @@ h1 {
 .parallax h1 {
   margin-top: 0;
   color: white;
+  color: #ECD6B4;
   font-size: 3.5em;
   position: relative;
   top: 40%;
-  background: rgba(0,0,0,0.2);
+  /* background: rgba(0,0,0,0.2); */
 }
 
 .vertical-center {

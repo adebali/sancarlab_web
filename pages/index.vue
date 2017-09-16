@@ -1,7 +1,7 @@
 <template>
   <div class="index-body">
   <div class="parallax text-center">
-    <h1> Welcome to the Sancar Lab </h1>
+    <h1> Welcome to <b>Sancar</b> Lab </h1>
   </div>
   <welcome></welcome>
   <news></news>
@@ -46,9 +46,6 @@ export default {
 </script>
 
 <style scoped>
-.index-body {
-  /* height: 1500px; */
-}
 
 .graySection {
   background:#ffffff;
@@ -62,6 +59,15 @@ export default {
 }
 
 .parallax h1 {
-    background: rgba(0,0,0,0.2);
+    color: #4B9CD3;
+    /* color: #13294b; */
+    background: rgba(0,0,0,0.4);
 }
+
+.parallax h1 b {
+    color: #13294b;
+    color: #ECD6B4;
+    font-size: 1em;
+}
+
 </style>

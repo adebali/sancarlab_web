@@ -111,7 +111,7 @@ export default {
 }
 
 .parallax h1 {
-  background: rgba(0,0,0,0.2);
+  /* background: rgba(0,0,0,0.2); */
 }
 
 </style>
