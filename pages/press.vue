@@ -6,12 +6,15 @@
       <div class="wrap">
         <span v-html="htmlString"></span>
       </div>
+      <!-- <mymark /> -->
   </div>
 </template>
 
 <script>
 import axios from '~/plugins/axios'
 import MarkdownIt from 'markdown-it'
+// import mymark from '~/components/markdown.vue'
+
 let md = new MarkdownIt()
 
 let defaultRender = md.renderer.rules.link_open || function (tokens, idx, options, env, self) {
@@ -32,14 +35,14 @@ md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
 }
 
 export default {
+  components: {
+    // mymark
+  },
   asyncData ({ req, params }) {
-    return axios.get('/press.md')
+    return axios.get('/press/press.md')
       .then((res) => {
         return { htmlString: md.render(res.data) }
       })
-  },
-  head: {
-    title: 'List of posts'
   }
 }
 </script>

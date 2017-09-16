@@ -149,6 +149,9 @@ export default {
       // Return an array with the filtered data.
       return articlesArray
     }
+  },
+  head: {
+    title: 'Sancar Lab'
   }
 }
 </script>

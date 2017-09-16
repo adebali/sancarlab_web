@@ -31,7 +31,7 @@
 </style>
 
 <script>
-  import labCrew from '~/static/people.json'
+  import labCrew from '~/static/people/people.json'
   import person from '~/components/person.vue'
 
   export default {

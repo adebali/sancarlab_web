@@ -37,7 +37,8 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'Nuxt.js project' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/img/ramsey.png' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Fjalla+One' }
       // { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css', integrity: 'sha256-itWEYdFWzZPBG78bJOOiQIn06QCgN/F0wMDcC4nOhxY=', crossorigin: 'anonymous' }
     ]
     // script: [
