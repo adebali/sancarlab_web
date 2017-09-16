@@ -1,53 +1,55 @@
 <template>
-  <div class="wrap">
-    <!-- <div v-html="htmlString">{{htmlString}} -->
-    <div>{{htmlString}}
-    </div>
-  </div>
+    <span v-html="htmlString"></span>
 </template>
 
 <script>
-
-// import axios from '~/plugins/axios'
-// import MarkdownIt from 'markdown-it'
-
-// let md = new MarkdownIt()
+import axios from '~/plugins/axios'
+import MarkdownIt from 'markdown-it'
+let md = new MarkdownIt()
 
 export default {
-  methods: {
-    async asyncData (myvar) {
-      // let { data } = await axios.get(`/press.md`)
-      // console.log(md.render(data.data))
-      // return { htmlString: md.render(data.data) }
-      // return '<p>hey</p>'
-      return myvar
-    // md2html: function (markdownText) {
-    //   return md.render(markdownText)
-    // }
-    }
+  asyncData ({ req, params }) {
+    // We can return a Promise instead of calling the callback
+    return axios.get('/press.md')
+      .then((res) => {
+        return { htmlString: md.render(res.data) }
+        // return { posts: res.data.slice(0, 5) }
+        // return { htmlString: '<h1>H1 I am </h1>' }
+        // return { posts: [
+        //   {'id': 1, 'title': 'title1', 'htmlString': '<h1>H1 I am </h1>'},
+        //   {'id': 2, 'title': 'title2', 'htmlString': '<h1>H1 I am - 2 </h1>'}
+        // ]}
+      })
   },
-  data () {
-    return {
-      mdObject: {}
-      // htmlString: '<h1>Hey</h1>'
-      // htmlString: this.asyncData('hi jekyll')
-    }
-  },
-  computed: {
-    htmlString: async function () {
-      return 'Hi Hyde'
-    },
-    // htmlString: async function () {
-    //   this.mdObject = await axios.get(`/press.md`)
-    //   console.log(this.md2html(this.mdObject.data))
-    //   this.html = this.md2html(this.mdObject.data)
-    //   console.log(typeof (this.html))
-    //   // return this.md2html(this.mdObject.data)
-    //   return '<p>deneme</p>'
-    // },
-    deneme: function () {
-      return '<p>deneme</p>'
-    }
+  head: {
+    title: 'List of posts'
   }
 }
 </script>
+
+<style scoped>
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+ul li {
+  border: 1px #ddd solid;
+  padding: 20px;
+  text-align: left;
+}
+ul li a {
+  color: gray;
+}
+p {
+  font-size: 20px;
+}
+a {
+  color: #41B883;
+}
+</style>

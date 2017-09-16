@@ -59,7 +59,6 @@ export default {
 
 .parallax {
     background-image: url('/img/NC_award.jpg');
-    background-position-y: -300px;
 }
 
 .parallax h1 {

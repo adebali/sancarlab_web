@@ -103,7 +103,7 @@ h1 {
 .parallax {
   background-image: url('/img/tubes.jpg');
   text-align: center;
-  background-position-y: -300px;
+  /* background-position-y: -300px; */
 
 }
 
@@ -113,7 +113,7 @@ h1 {
   font-size: 3.5em;
   position: relative;
   top: 40%;
-  background: rgba(0,0,0,0.0);
+  background: rgba(0,0,0,0.2);
 }
 
 .vertical-center {

@@ -15,8 +15,7 @@
 
 <style scoped>
 .parallax {
-    background-image: url('https://www.med.unc.edu/biochem/asancar-lab/images/sancar-lab-collage');
-      background-position-y: -350px;
+    background-image: url('/img/people_1.jpeg');
       /* height:200px; */
 }
 

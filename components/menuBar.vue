@@ -9,7 +9,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Sancar Lab</a>
+          <a class="navbar-brand" href="/">Sancar Lab</a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -28,8 +28,10 @@
 </template>
 
 <style scoped>
-@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
-@import url(http://fonts.googleapis.com/css?family=Gudea);
+/* @import url(http://fonts.googleapis.com/css?family=Fjalla+One); */
+/* @import '../node_modules/typeface-fjalla-one/index.css'; */
+/* @import url(http://fonts.googleapis.com/css?family=Gudea); */
+
 .navbar-default .navbar-nav>.active>a{
   /* background-color: rgba(255,255,255,0.05); */
   background-color: rgba(0,0,0,0);
