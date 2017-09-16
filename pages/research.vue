@@ -1,7 +1,7 @@
 <template>
   <div>
       <div class="parallax">
-        <h1 class="align-middle ">Our Research</h1>
+        <h1 class="align-middle "><b>Our Research</b></h1>
       </div>
     <div class="row wrap">
       <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 text-justify">

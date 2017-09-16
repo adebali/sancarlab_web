@@ -1,7 +1,7 @@
 <template>
   <div class="contactPage">
     <div class="parallax text-center">
-      <h1>Contact Us</h1>
+      <h1><b>Contact Us</b></h1>
     </div>
     <div class="wrap contactPage">
       <div class="row">

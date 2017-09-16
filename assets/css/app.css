@@ -352,3 +352,7 @@ IMAGE
   background: rgba(0,0,0,0.4);
   font-family: 'Fjalla One', sans-serif;
 }
+
+.parallax h1 b{
+  font-size: 1em;
+}

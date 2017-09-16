@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="parallax text-center">
-      <h1> Publications </h1>
+      <h1> <b> Publications </b></h1>
     </div>
     <div class="wrap">
       <!-- <no-ssr placeholder="You can even add a placeholder to be rendered instead!"> -->

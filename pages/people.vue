@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="parallax text-center">
-      <h1>People</h1>
+      <h1><b>People</b></h1>
     </div>
     <div class="wrap">
       <div class="row people-row">

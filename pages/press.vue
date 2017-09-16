@@ -1,7 +1,7 @@
 <template>
   <div>
       <div class="parallax">
-        <h1 class="align-middle ">Press</h1>
+        <h1 class="align-middle "><b>Press</b></h1>
       </div>
       <div class="wrap">
         <span v-html="htmlString"></span>
