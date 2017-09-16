@@ -794,44 +794,6 @@
         "sortpubdate": "2015/11/27 00:00"
     },
     {
-        "pmid": "28868396",
-        "title": "Endoscopic Mucosal Resection of Jejunal Polyps using Double-Balloon Enteroscopy.",
-        "authors": [
-            {
-                "name": "Kröner PT",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Sancar A",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Fry LC",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Neumann H",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Mönkemüller K",
-                "authtype": "Author",
-                "clusterid": ""
-            }
-        ],
-        "pubYear": "2015",
-        "journal": "GE Portuguese journal of gastroenterology",
-        "volume": "22",
-        "issue": "4",
-        "pages": "137-142",
-        "doi": "10.1016/j.jpge.2015.04.005",
-        "sortpubdate": "2015/07/02 00:00"
-    },
-    {
         "pmid": "26065359",
         "title": "The molecular origin of high DNA-repair efficiency by photolyase.",
         "authors": [
@@ -1903,39 +1865,6 @@
         "pages": "1278-86",
         "doi": "10.1242/jeb.067140",
         "sortpubdate": "2012/04/15 00:00"
-    },
-    {
-        "pmid": "22248617",
-        "title": "Direct percutaneous endoscopic jejunostomy tube placement using double-balloon enteroscopy.",
-        "authors": [
-            {
-                "name": "Mönkemüller K",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Vormbrock K",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Kassalik M",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Sancar A",
-                "authtype": "Author",
-                "clusterid": ""
-            }
-        ],
-        "pubYear": "2012",
-        "journal": "Gastrointestinal endoscopy",
-        "volume": "75",
-        "issue": "2",
-        "pages": "463-5",
-        "doi": "10.1016/j.gie.2011.09.049",
-        "sortpubdate": "2012/02/01 00:00"
     },
     {
         "pmid": "22175817",
@@ -3108,54 +3037,6 @@
         "pages": "2864-7",
         "doi": "10.1073/pnas.0812638106",
         "sortpubdate": "2009/02/24 00:00"
-    },
-    {
-        "pmid": "18803030",
-        "title": "Vancomycin vs teicoplanin in the treatment of Gram-positive infections: a pharmacoeconomic analysis in a Turkish University Hospital.",
-        "authors": [
-            {
-                "name": "Sancar AA",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Yegenoglu S",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "de Vries R",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Postma MJ",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Simsek N",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Pechlivanoglou P",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Unal S",
-                "authtype": "Author",
-                "clusterid": ""
-            }
-        ],
-        "pubYear": "2008",
-        "journal": "Pharmacy world &amp; science : PWS",
-        "volume": "30",
-        "issue": "6",
-        "pages": "916-23",
-        "doi": "10.1007/s11096-008-9251-2",
-        "sortpubdate": "2008/12/01 00:00"
     },
     {
         "pmid": "18682397",

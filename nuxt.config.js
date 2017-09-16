@@ -73,7 +73,7 @@ module.exports = {
 
     },
     // vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'markdown-it', 'vue-content-loader'],
-    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'vue-slider-component', 'mini-toastr', 'vue-notifications', 'vue-no-ssr'],
+    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'vue-slider-component', 'mini-toastr', 'vue-notifications', 'vue-no-ssr', 'markdown-it'],
     plugins: [
       new webpack.ProvidePlugin({
         $: 'jquery',

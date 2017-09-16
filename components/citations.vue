@@ -4,7 +4,7 @@
       <div class="timeline">
       	<vueslider  @callback="filterByDate" v-bind="timeline" v-model="timeline.value"></vueslider>
       </div>
-      <input class="searchbox" type="text" v-model="searchString" placeholder="Search by Title, Author, Journal or Year" />
+      <input class="searchbox" type="search" v-model="searchString" placeholder="Search by Title, Author or Journal" />
     <ol reversed=true>
       <li v-for="item in insertHtml" v-html="item"></li>
     </ol>
@@ -100,7 +100,8 @@ export default {
     },
     defaultYears: function (fullCitationObject) {
       let range = this.years(fullCitationObject)
-      return [range[0], range[0] - 15]
+      return [range[0], 1971]
+      // return [range[0], range[0] - 15]
     }
   },
   // async asyncData ({ pmid }) {
@@ -140,7 +141,7 @@ export default {
       searchString = searchString.trim().toLowerCase()
 
       articlesArray = articlesArray.filter(function (item) {
-        let searchField = item.title + ' ' + computedAuthors(item.authors) + ' ' + item.pubYear + ' ' + item.journal
+        let searchField = item.title + ' ' + computedAuthors(item.authors) + ' ' + item.journal
         if (searchField.toLowerCase().indexOf(searchString) !== -1 & item.pubYear <= yearRange[0] & item.pubYear >= yearRange[1]) {
           return item
         }
@@ -171,6 +172,17 @@ export default {
   .searchbox {
     width: 100%;
     margin-bottom: 40px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 18px;
+    background-color: white;
+    background-image: url('/img/searchicon.png');
+    background-position: 10px 15px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
   }
   .timeline {
     margin-top: 40px;
@@ -180,4 +192,5 @@ export default {
   .timeline vueslider {
     width: 100%;
   }
+
 </style>
