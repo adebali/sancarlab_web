@@ -14,6 +14,7 @@ module.exports = {
     { src: '@/assets/scss/_variables.scss', lang: 'scss' },
     'bootstrap/dist/css/bootstrap.css',
     { src: '@/assets/css/app.css', lang: 'css' }
+    // { src: '@/assets/css/app.css', lang: 'css' }
     // 'assets/css/bootstrap_dark.css'
   ],
   loaders: [
@@ -40,13 +41,14 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/img/ramsey.png' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Fjalla+One' }
       // { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css', integrity: 'sha256-itWEYdFWzZPBG78bJOOiQIn06QCgN/F0wMDcC4nOhxY=', crossorigin: 'anonymous' }
-    ]
-    // script: [
+    ],
+    script: [
     //   { src: 'https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js' },
     //   { src: 'https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/foundation.min.js' },
     //   { src: 'https://cdnjs.cloudflare.com/ajax/libs/what-input/5.0.1/what-input.min.js' },
     //   { src: 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js' }
-    // ]
+      // { src: 'https://embedr.flickr.com/assets/client-code.js', charset:'utf-8' }
+    ]
   },
 
   /*

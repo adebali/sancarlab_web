@@ -37,10 +37,14 @@
                           <div class="form-group">
                             <label for="exampleInputName2">Name</label>
                             <input type="text" name="name" class="form-control" id="exampleInputName2" placeholder="Your name">
+                            <input type="hidden" name="_next" value="/contact?thanks" />
+                            <input type="hidden" name="_subject" value="A message from SancarLab web-site" />
+                            <input type="hidden" name="_format" value="plain" />
+                            <input type="text" name="_gotcha" style="display:none" />
                           </div>
                           <div class="form-group">
                             <label for="exampleInputEmail2">E-mail Address</label>
-                            <input type="email" class="form-control" name="email" placeholder="Your e-mail address">
+                            <input type="email" class="form-control" name="_replyto" placeholder="Your e-mail address">
                           </div>
                           <div class="form-group ">
                             <label for="exampleInputText">Your Message</label>
