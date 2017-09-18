@@ -124,7 +124,7 @@
   {
     "lastname": "Liu",
     "firstname": "Wenjie",
-    "degree": "",
+    "degree": "PhD",
     "img": "person.png",
     "title": "Visiting Scientist",
     "email": {"address":"wjliu", "domain": "email.unc.edu"},
