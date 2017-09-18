@@ -3,16 +3,13 @@
     "firstname": "Aziz",
     "lastname": "Sancar",
     "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
+    "img": "sancar_aziz2015.jpeg",
     "title": "Principle Investigator",
     "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
     "phone": "(919) 333 3333",
     "web": "",
-    "social": [],
-    "research": [
-      "key1",
-      "key2"
-    ],
+    "research": [],
+    "twitter": "azizgwensancar",
     "status": "current"
   },
   {
@@ -21,8 +18,8 @@
     "degree": "PhD",
     "title": "Postdoctoral Fellow",
     "email": {"address":"adebali", "domain":"unc.edu"},
-    "phone": "(919) 333 3333",
-    "img": "/img/people/ADEBALI.JPG",
+    "phone": "(919) 966-7489",
+    "img": "ADEBALI.JPG",
     "linkedin": "adebali",
     "twitter": "compGenomics",
     "research": [
@@ -32,194 +29,210 @@
     ]
   },
   {
-    "firstname": "Aziz",
-    "lastname": "Sancar",
-    "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
-    "phone": "(919) 333 3333",
+    "lastname": "Archibald",
+    "firstname": "Sierra",
+    "degree": "",
+    "img": "person.png",
+    "title": "Undergraduate Student",
+    "email": {"address":"sierraja", "domain":"live.unc.edu"},
+    "phone": "(919) 966-7489",
     "web": "",
-    "social": [],
+    "status": "current"
+  },
+  {
+    "lastname": "Clabo",
+    "firstname": "Carolyn",
+    "degree": "",
+    "img": "person.png",
+    "title": "Executive Assitant & Communications",
+    "email": {"address":"carolyn_clabo", "domain": "med.unc.edu"},
+    "phone": "(919) 966-7489",
+	  "linkedin": "carolynmclabo",
+    "status": "current"
+  },
+  {
+    "lastname": "Hu",
+    "firstname": "Jinchuan",
+    "degree": "PhD",
+    "img": "person.png",
+    "title": "Postdoctoral Fellow",
+    "email": {"address":"jinchuan", "domain":"email.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
     "research": [
-      "key1",
-      "key2"
+      "Genome wide bulky adduct formation",
+      "Genome wide bulky adduct repair"
     ],
     "status": "current"
   },
   {
-    "firstname": "Aziz",
-    "lastname": "Sancar",
-    "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
-    "phone": "(919) 333 3333",
+    "lastname": "Justice",
+    "firstname": "Megan",
+    "degree": "",
+    "img": "person.png",
+    "title": "Graduate Student",
+    "email": {"address":"megannj", "domain":"email.unc.edu"},
+    "phone": "(919) 966-7489",
     "web": "",
-    "social": [],
     "research": [
-      "key1",
-      "key2"
+      "Chromatin architecture",
+      "DNA repair"
     ],
     "status": "current"
   },
   {
-    "firstname": "Aziz",
-    "lastname": "Sancar",
-    "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
-    "phone": "(919) 333 3333",
+    "lastname": "Kakoki",
+    "firstname": "Ayano",
+    "degree": "",
+    "img": "person.png",
+    "title": "Undergraduate Student",
+    "email": {"address":"akakoki", "domain":"live.unc.edu"},
+    "phone": "(919) 966-7489",
+	"status": "current"
+  },
+  {
+    "lastname": "Li",
+    "firstname": "Wentao",
+    "degree": "PhD",
+    "img": "person.png",
+    "title": "Postdoctoral Fellow",
+    "email": {"address":"wentao_li", "domain":"med.unc.edu"},
+    "phone": "(919) 966-7489",
     "web": "",
-    "social": [],
     "research": [
-      "key1",
-      "key2"
+      "Carcinogen Damage",
+      "Chemotherapy Damage",
+	  "Genome wide DNA repair"
+    ],
+    "status": "current"
+  },  {
+    "lastname": "Linsey-Boltz",
+    "firstname": "Laura",
+    "degree": "PhD",
+    "img": "person.png",
+    "title": "Research Associate Professor",
+    "email": {"address": "llindsey", "domain": "med.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+      "DNA damage",
+      "Checkpoint",
+	  "Excision repair"
     ],
     "status": "current"
   },
   {
-    "firstname": "Aziz",
-    "lastname": "Sancar",
-    "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
-    "phone": "(919) 333 3333",
+    "lastname": "Liu",
+    "firstname": "Wenjie",
+    "degree": "",
+    "img": "person.png",
+    "title": "Visiting Scientist",
+    "email": {"address":"wjliu", "domain": "email.unc.edu"},
+    "phone": "(919) 966-7489",
     "web": "",
-    "social": [],
     "research": [
-      "key1",
-      "key2"
+      "Cell differentiation",
+      "DNA repair"
+    ],
+    "status": "current"
+  },  {
+    "lastname": "Meydaneri",
+    "firstname": "Serkan",
+    "degree": "",
+    "img": "person.png",
+    "title": "Visiting Scientist",
+    "email": {"address":"serkan", "domain": "email.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+      "Circadian rhythm"
     ],
     "status": "current"
   },
   {
-    "firstname": "Aziz",
-    "lastname": "Sancar",
-    "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
-    "phone": "(919) 333 3333",
+    "lastname": "Oztas",
+    "firstname": "Onur",
+    "degree": "PhD",
+    "img": "person.png",
+    "title": "Postdoctoral Fellow",
+    "email": {"address":"ooztas", "domain": "med.unc.edu"},
+    "phone": "(919) 966-7489",
     "web": "",
-    "social": [],
     "research": [
-      "key1",
-      "key2"
+      "DNA repair",
+      "Plant models"
+    ],
+    "status": "current"
+  },  {
+    "lastname": "Selby",
+    "firstname": "Christopher",
+    "degree": "PhD",
+    "img": "person.png",
+    "title": "Research Instructor",
+    "email": {"address":"christopher_selby", "domain": "med.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+      "DNA repair"
     ],
     "status": "current"
   },
   {
-    "firstname": "Aziz",
-    "lastname": "Sancar",
-    "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
-    "phone": "(919) 333 3333",
+    "lastname": "Vaughn",
+    "firstname": "Courtney",
+    "degree": "",
+    "img": "person.png",
+    "title": "Graduate Student",
+    "email": {"address":"Courtney_Vaughn", "domain": "med.unc.edu"},
+    "phone": "(919) 966-7489",
     "web": "",
-    "social": [],
     "research": [
-      "key1",
-      "key2"
+      "Chemotherapy Resistance",
+      "DNA repair",
+	  "Circadian rhythm"
+    ],
+    "status": "current"
+  },  {
+    "lastname": "Wang",
+    "firstname": "Xuefeng",
+    "degree": "",
+    "img": "person.png",
+    "title": "Visiting Scientist",
+    "email": {"address":"xuefeng_wang", "domain": "med.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+      "Chryptochrome magnetoreception"
     ],
     "status": "current"
   },
   {
-    "firstname": "Aziz",
-    "lastname": "Sancar",
-    "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
-    "phone": "(919) 333 3333",
+    "lastname": "Yang",
+    "firstname": "Yanyan",
+    "degree": "PhD",
+    "img": "person.png",
+    "title": "Postdoctoral Fellow",
+    "email": {"address":"Yanyan_Yang", "domain": "med.unc.edu"},
+    "phone": "(919) 966-7489",
     "web": "",
-    "social": [],
     "research": [
-      "key1",
-      "key2"
+      "Circadian rhythm",
+      "DNA repair"
     ],
     "status": "current"
   },
   {
-    "firstname": "Aziz",
-    "lastname": "Sancar",
-    "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
-    "phone": "(919) 333 3333",
+    "lastname": "Yimit",
+    "firstname": "Askar",
+    "degree": "PhD",
+    "img": "person.png",
+    "title": "Postdoctoral Fellow",
+    "email": {"address":"askarask", "domain": "email.unc.edu"},
+    "phone": "(919) 966-7489",
     "web": "",
-    "social": [],
     "research": [
-      "key1",
-      "key2"
-    ],
-    "status": "current"
-  },
-  {
-    "firstname": "Aziz",
-    "lastname": "Sancar",
-    "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
-    "phone": "(919) 333 3333",
-    "web": "",
-    "social": [],
-    "research": [
-      "key1",
-      "key2"
-    ],
-    "status": "current"
-  },
-  {
-    "firstname": "Aziz",
-    "lastname": "Sancar",
-    "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
-    "phone": "(919) 333 3333",
-    "web": "",
-    "social": [],
-    "research": [
-      "key1",
-      "key2"
-    ],
-    "status": "current"
-  },
-  {
-    "firstname": "Aziz",
-    "lastname": "Sancar",
-    "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
-    "phone": "(919) 333 3333",
-    "web": "",
-    "social": [],
-    "research": [
-      "key1",
-      "key2"
-    ],
-    "status": "current"
-  },
-  {
-    "firstname": "Aziz",
-    "lastname": "Sancar",
-    "degree": "MD, PhD",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
-    "phone": "(919) 333 3333",
-    "web": "",
-    "social": [],
-    "research": [
-      "key1",
-      "key2"
+      "Genome wide repair",
+      "Mouse models"
     ],
     "status": "current"
   }

@@ -1,10 +1,10 @@
 <template>
 
   <div>
-    <div class="col-xs-7 col-sm-7 col-lg-6 col-md-6">
+    <div class="col-xs-12 col-sm-12 col-lg-6 col-md-6">
       <div class="row person">
         <div class="col-xs-5 col-sm-5 col-lg-5 col-md-5 profilePhoto align-items-center">
-          <img class="img-circle" :src="person.img"></img>
+          <img class="img-circle" :src="'/img/people/' + person.img"></img>
         </div>
         <div class="col-xs-7 col-sm-7 col-lg-7 col-md-7">
           <p class="name">{{person.firstname}} {{person.lastname}}<span v-if="person.degree">, {{person.degree}}</span></p>
@@ -56,8 +56,9 @@ export default {
     margin-top: 0;
   }
   .person {
-    margin-bottom:50px;
-    margin-top:50px;
+    margin-bottom:20px;
+    margin-top:20px;
+    min-height: 250px;
   }
   .keywords {
     margin-right:5px;

@@ -21,7 +21,7 @@
                 <li><nuxt-link to="/honors"><i class="fa fa-trophy fa-lg" aria-hidden="true"></i> Honors</nuxt-link></li>
                 <li><nuxt-link to="/press"><i class="fa fa-newspaper-o fa-lg" aria-hidden="true"></i> Press</nuxt-link></li>
                 <li><nuxt-link to="/contact"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> Contact</nuxt-link></li>
-                <li><nuxt-link to="/people"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i> Lab Album</nuxt-link></li>
+                <li><nuxt-link to="/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i> Lab Album</nuxt-link></li>
               </ul>
               <!-- <img src="/img/ramsey.png"></img> -->
             </div>

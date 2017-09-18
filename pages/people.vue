@@ -42,10 +42,19 @@
       person
     },
     methods: {
+      sort: function (a, b) {
+        if (a.lastname > b.lastname) {
+          return 1
+        }
+        if (a.lastname < b.lastname) {
+          return -1
+        }
+        return 0
+      }
     },
     computed: {
       allPeople: function () {
-        return labCrew
+        return labCrew.sort(this.sort)
       }
     },
     footer: {
