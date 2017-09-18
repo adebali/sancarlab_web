@@ -1,10 +1,11 @@
 <template>
   <div>
       <div class="parallax">
-        <h1 class="align-middle "><b>Press</b></h1>
+        <h1 class="align-middle "><b>Honors and Awards</b></h1>
+        <h3 class="align-middle ">Prof. Dr. Aziz Sancar</h3>
       </div>
       <div class="wrap">
-        <span class="markdown" v-html="htmlString"></span>
+        <span v-html="htmlString"></span>
       </div>
       <!-- <mymark /> -->
   </div>
@@ -39,7 +40,7 @@ export default {
     // mymark
   },
   asyncData ({ req, params }) {
-    return axios.get('/press/press.md')
+    return axios.get('/honors/honors.md')
       .then((res) => {
         return { htmlString: md.render(res.data) }
       })
@@ -74,7 +75,7 @@ a {
 }
 
 .parallax {
-  background-image: url('/img/interview.jpg');
+  background-image: url('http://www.newsobserver.com/news/local/education/ih5ot1/picture51568730/alternates/FREE_640/sancar%20receives%20award');
   text-align: center;
   background-position-y: -300px;
 
@@ -85,22 +86,18 @@ a {
   font-size: 3.5em;
   position: relative;
   top: 40%;
+  margin-bottom:0;
+}
+.parallax h3 {
+  margin-top: 0;
+  font-size: 2em;
+  position: relative;
+  top: 40%;
 }
 
 .vertical-center {
   /* display: flex; */
   text-align: middle;
   /* align-items: center; */
-}
-
-
-</style>
-
-<style>
-.markdown h2 {
-  margin-top:50px;
-}
-.markdown hr {
-  margin-top:5px;
 }
 </style>

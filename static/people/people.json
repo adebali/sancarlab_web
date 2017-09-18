@@ -2,9 +2,10 @@
   {
     "firstname": "Aziz",
     "lastname": "Sancar",
+    "degree": "MD, PhD",
     "img": "/img/people/sancar_aziz2015.jpeg",
     "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
     "phone": "(919) 333 3333",
     "web": "",
     "social": [],
@@ -17,114 +18,209 @@
   {
     "lastname": "Adebali",
     "firstname": "Ogun",
+    "degree": "PhD",
     "title": "Postdoctoral Fellow",
-    "e-mail": "adebali@unc.edu",
+    "email": {"address":"adebali", "domain":"unc.edu"},
     "phone": "(919) 333 3333",
-    "img": "/img/people/ADEBALI.JPG"
-  },  {
-    "lastname": "Sancar",
-    "firstname": "Aziz",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
+    "img": "/img/people/ADEBALI.JPG",
+    "linkedin": "adebali",
+    "twitter": "compGenomics",
+    "research": [
+      "Genomics",
+      "Computational Biology",
+      "Bioinformatics"
+    ]
   },
   {
-    "lastname": "Sancar",
     "firstname": "Aziz",
+    "lastname": "Sancar",
+    "degree": "MD, PhD",
     "img": "/img/people/sancar_aziz2015.jpeg",
     "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
-  },  {
-    "lastname": "Sancar",
-    "firstname": "Aziz",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
+    "phone": "(919) 333 3333",
+    "web": "",
+    "social": [],
+    "research": [
+      "key1",
+      "key2"
+    ],
+    "status": "current"
   },
   {
-    "lastname": "Sancar",
     "firstname": "Aziz",
+    "lastname": "Sancar",
+    "degree": "MD, PhD",
     "img": "/img/people/sancar_aziz2015.jpeg",
     "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
-  },  {
-    "lastname": "Sancar",
-    "firstname": "Aziz",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
+    "phone": "(919) 333 3333",
+    "web": "",
+    "social": [],
+    "research": [
+      "key1",
+      "key2"
+    ],
+    "status": "current"
   },
   {
-    "lastname": "Sancar",
     "firstname": "Aziz",
+    "lastname": "Sancar",
+    "degree": "MD, PhD",
     "img": "/img/people/sancar_aziz2015.jpeg",
     "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
-  },  {
-    "lastname": "Sancar",
-    "firstname": "Aziz",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
+    "phone": "(919) 333 3333",
+    "web": "",
+    "social": [],
+    "research": [
+      "key1",
+      "key2"
+    ],
+    "status": "current"
   },
   {
-    "lastname": "Sancar",
     "firstname": "Aziz",
+    "lastname": "Sancar",
+    "degree": "MD, PhD",
     "img": "/img/people/sancar_aziz2015.jpeg",
     "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
-  },  {
-    "lastname": "Sancar",
-    "firstname": "Aziz",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
+    "phone": "(919) 333 3333",
+    "web": "",
+    "social": [],
+    "research": [
+      "key1",
+      "key2"
+    ],
+    "status": "current"
   },
   {
-    "lastname": "Sancar",
     "firstname": "Aziz",
+    "lastname": "Sancar",
+    "degree": "MD, PhD",
     "img": "/img/people/sancar_aziz2015.jpeg",
     "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
-  },  {
-    "lastname": "Sancar",
-    "firstname": "Aziz",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
+    "phone": "(919) 333 3333",
+    "web": "",
+    "social": [],
+    "research": [
+      "key1",
+      "key2"
+    ],
+    "status": "current"
   },
   {
-    "lastname": "Sancar",
     "firstname": "Aziz",
+    "lastname": "Sancar",
+    "degree": "MD, PhD",
     "img": "/img/people/sancar_aziz2015.jpeg",
     "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
-  },  {
-    "lastname": "Sancar",
-    "firstname": "Aziz",
-    "img": "/img/people/sancar_aziz2015.jpeg",
-    "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
+    "phone": "(919) 333 3333",
+    "web": "",
+    "social": [],
+    "research": [
+      "key1",
+      "key2"
+    ],
+    "status": "current"
   },
   {
-    "lastname": "Sancar",
     "firstname": "Aziz",
+    "lastname": "Sancar",
+    "degree": "MD, PhD",
     "img": "/img/people/sancar_aziz2015.jpeg",
     "title": "Principle Investigator",
-    "e-mail": "aziz_sancar@med.unc.edu",
-    "phone": "(919) 333 3333"
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
+    "phone": "(919) 333 3333",
+    "web": "",
+    "social": [],
+    "research": [
+      "key1",
+      "key2"
+    ],
+    "status": "current"
+  },
+  {
+    "firstname": "Aziz",
+    "lastname": "Sancar",
+    "degree": "MD, PhD",
+    "img": "/img/people/sancar_aziz2015.jpeg",
+    "title": "Principle Investigator",
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
+    "phone": "(919) 333 3333",
+    "web": "",
+    "social": [],
+    "research": [
+      "key1",
+      "key2"
+    ],
+    "status": "current"
+  },
+  {
+    "firstname": "Aziz",
+    "lastname": "Sancar",
+    "degree": "MD, PhD",
+    "img": "/img/people/sancar_aziz2015.jpeg",
+    "title": "Principle Investigator",
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
+    "phone": "(919) 333 3333",
+    "web": "",
+    "social": [],
+    "research": [
+      "key1",
+      "key2"
+    ],
+    "status": "current"
+  },
+  {
+    "firstname": "Aziz",
+    "lastname": "Sancar",
+    "degree": "MD, PhD",
+    "img": "/img/people/sancar_aziz2015.jpeg",
+    "title": "Principle Investigator",
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
+    "phone": "(919) 333 3333",
+    "web": "",
+    "social": [],
+    "research": [
+      "key1",
+      "key2"
+    ],
+    "status": "current"
+  },
+  {
+    "firstname": "Aziz",
+    "lastname": "Sancar",
+    "degree": "MD, PhD",
+    "img": "/img/people/sancar_aziz2015.jpeg",
+    "title": "Principle Investigator",
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
+    "phone": "(919) 333 3333",
+    "web": "",
+    "social": [],
+    "research": [
+      "key1",
+      "key2"
+    ],
+    "status": "current"
+  },
+  {
+    "firstname": "Aziz",
+    "lastname": "Sancar",
+    "degree": "MD, PhD",
+    "img": "/img/people/sancar_aziz2015.jpeg",
+    "title": "Principle Investigator",
+    "email": {"address":"aziz_sancar", "domain":"med.unc.edu"},
+    "phone": "(919) 333 3333",
+    "web": "",
+    "social": [],
+    "research": [
+      "key1",
+      "key2"
+    ],
+    "status": "current"
   }
 ]

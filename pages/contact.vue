@@ -7,6 +7,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
           <h2>
+            <i class="fa fa-map-marker fa-lg" aria-hidden="true"></i>
             3070 Genetic Medicine Bldg <br />
             120 Mason Farm Rd. <br />
             Chapel Hill, North Carolina

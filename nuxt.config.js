@@ -27,6 +27,9 @@ module.exports = {
     '~plugins/bootstrap.js',
     {src: '~plugins/slider.js', ssr: false}
   ],
+  modules: [
+    '@nuxtjs/font-awesome'
+  ],
   /*
   ** Headers of the page
   */

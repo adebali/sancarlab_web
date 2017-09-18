@@ -9,34 +9,27 @@
           <div class="col-lg-4 col-md-4"><!-- widgets column center -->
             <div class="col-xs-4 col-sm-4 col-lg-4 col-md-4"><!-- widgets column center -->
             <ul class="list-unstyled clear-margins footerMenu"><!-- widgets -->
-                    <li><nuxt-link to="/">Home</nuxt-link></li>
-                    <li><nuxt-link to="/people">People</nuxt-link></li>
-                    <li><nuxt-link to="/research">Research</nuxt-link></li>
-                    <li><nuxt-link to="/publications">Publications</nuxt-link></li>
-                    <li><nuxt-link to="/press">Press</nuxt-link></li>
-                    <li><nuxt-link to="/contact">Contact</nuxt-link></li>
+                <li class="active"><nuxt-link to="/"><i class="fa fa-home fa-lg" aria-hidden="true"></i> Home</nuxt-link><span class="sr-only">(current)</span></li>
+                <li><nuxt-link to="/research"><i class="fa fa-flask fa-lg" aria-hidden="true"></i> Research</nuxt-link></li>
+                <li><nuxt-link to="/people"><i class="fa fa-users fa-lg" aria-hidden="true"></i> People</nuxt-link></li>
+                <li><nuxt-link to="/publications"><i class="fa fa-book fa-lg" aria-hidden="true"></i> Publications</nuxt-link></li>
               </ul>
               <!-- <img src="/img/ramsey.png"></img> -->
             </div>
                         <div class="col-xs-4 col-sm-4 col-lg-4 col-md-4"><!-- widgets column center -->
             <ul class="list-unstyled clear-margins footerMenu"><!-- widgets -->
-                    <li><nuxt-link to="/">Make a Gift</nuxt-link></li>
-                    <li><nuxt-link to="/people">Lab Album</nuxt-link></li>
-                    <li><nuxt-link to="/research">Chapel Hill</nuxt-link></li>
-                    <li><nuxt-link to="/publications">Publications</nuxt-link></li>
-                    <li><nuxt-link to="/press">Press</nuxt-link></li>
-                    <li><nuxt-link to="/contact">Contact</nuxt-link></li>
+                <li><nuxt-link to="/honors"><i class="fa fa-trophy fa-lg" aria-hidden="true"></i> Honors</nuxt-link></li>
+                <li><nuxt-link to="/press"><i class="fa fa-newspaper-o fa-lg" aria-hidden="true"></i> Press</nuxt-link></li>
+                <li><nuxt-link to="/contact"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> Contact</nuxt-link></li>
+                <li><nuxt-link to="/people"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i> Lab Album</nuxt-link></li>
               </ul>
               <!-- <img src="/img/ramsey.png"></img> -->
             </div>
                         <div class="col-xs-4 col-sm-4 col-lg-4 col-md-4"><!-- widgets column center -->
             <ul class="list-unstyled clear-margins footerMenu"><!-- widgets -->
-                    <li><nuxt-link to="/">Home</nuxt-link></li>
-                    <li><nuxt-link to="/people">People</nuxt-link></li>
-                    <li><nuxt-link to="/research">Research</nuxt-link></li>
-                    <li><nuxt-link to="/publications">Publications</nuxt-link></li>
-                    <li><nuxt-link to="/press">Press</nuxt-link></li>
-                    <li><nuxt-link to="/contact">Contact</nuxt-link></li>
+                    <li><nuxt-link to="/"><i class="fa fa-bullhorn fa-lg" aria-hidden="true"></i> Lab News</nuxt-link></li>
+                    <li><nuxt-link to="/"><i class="fa fa-gift fa-lg" aria-hidden="true"></i> Make a Gift</nuxt-link></li>
+                    <li><nuxt-link to="/"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i> Chapel Hill</nuxt-link></li>
               </ul>
               <!-- <img src="/img/ramsey.png"></img> -->
             </div>
@@ -59,7 +52,7 @@
           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <div class="text-center">
               <p>
-              Copyright © Sancar Lab 2018 <br> Developed and maintained by <a href="mailto:adebali@unc.edu">Ogun Adebali</a>
+              Copyright © Sancar Lab 2018 - developed and maintained by <a href="http://adebali.com">Ogun Adebali</a>
               </p>
             </div>
           </div>
@@ -72,7 +65,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 
 
 /************************************************************
@@ -253,7 +246,12 @@
 
 .footerMenu li a, .extraLinks p a {
   color:gray;
-  font-size: 0.8em;
+  color:gray;
+  font-size: 0.7em;
+  text-decoration: none;
+}
+.footerMenu li a:hover, .extraLinks p a:hover {
+  color: white;
 }
 
 .footerMenu li, .extraLinks p {

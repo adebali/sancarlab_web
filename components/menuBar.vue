@@ -15,9 +15,10 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
             <li class="active"><nuxt-link to="/">Home</nuxt-link><span class="sr-only">(current)</span></li>
-            <li><nuxt-link to="/people">People</nuxt-link></li>
             <li><nuxt-link to="/research">Research</nuxt-link></li>
+            <li><nuxt-link to="/people">People</nuxt-link></li>
             <li><nuxt-link to="/publications">Publications</nuxt-link></li>
+            <li><nuxt-link to="/honors">Honors</nuxt-link></li>
             <li><nuxt-link to="/press">Press</nuxt-link></li>
             <li><nuxt-link to="/contact">Contact</nuxt-link></li>
           </ul>

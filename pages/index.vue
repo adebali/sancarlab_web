@@ -12,7 +12,6 @@
     </div>
     <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> </div>
   </div>
-<p>where is tweet???</p>
 <!-- <md></md> -->
   <div class="wrap graySection">
   </div>
