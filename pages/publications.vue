@@ -1,8 +1,12 @@
 <template>
   <div id="app">
-    <div class="parallax text-center">
-      <h1> <b> Publications </b></h1>
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="parallax text-center">
+        <h1><b>Publications</b></h1>
+      </div>
     </div>
+  </div>
     <div class="wrap">
       <!-- <no-ssr placeholder="You can even add a placeholder to be rendered instead!"> -->
       <!-- </no-ssr> -->

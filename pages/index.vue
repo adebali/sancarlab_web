@@ -1,7 +1,11 @@
 <template>
   <div class="index-body">
-  <div class="parallax text-center">
-    <h1> Welcome to <b>Sancar</b> Lab </h1>
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="parallax text-center">
+      <h1> Welcome to <b>Sancar</b> Lab </h1>
+      </div>
+    </div>
   </div>
   <welcome></welcome>
   <!-- <news></news> -->

@@ -1,9 +1,13 @@
 <template>
   <div>
-      <div class="parallax">
+      <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="parallax text-center">
         <h1 class="align-middle "><b>Honors and Awards</b></h1>
         <h3 class="align-middle ">Prof. Dr. Aziz Sancar</h3>
       </div>
+    </div>
+  </div>
       <div class="wrap">
         <span v-html="htmlString"></span>
       </div>

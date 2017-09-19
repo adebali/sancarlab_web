@@ -1,8 +1,12 @@
 <template>
   <div class="contactPage">
-    <div class="parallax text-center">
-      <h1><b>Contact Us</b></h1>
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="parallax text-center">
+        <h1><b>Contact Us</b></h1>
+      </div>
     </div>
+  </div>
     <div class="wrap contactPage">
       <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">

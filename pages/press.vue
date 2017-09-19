@@ -1,8 +1,12 @@
 <template>
   <div>
-      <div class="parallax">
-        <h1 class="align-middle "><b>Press</b></h1>
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <div class="parallax text-center">
+          <h1><b>Press</b></h1>
+        </div>
       </div>
+    </div>
       <div class="wrap">
         <span class="markdown" v-html="htmlString"></span>
       </div>

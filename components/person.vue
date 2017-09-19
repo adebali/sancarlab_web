@@ -42,7 +42,7 @@ export default {
 
 <style scoped>
   img {
-    width: 100%;
+    width: 90%;
   }
   p {
     font-size: 0.9em;

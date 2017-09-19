@@ -1,8 +1,12 @@
 <template>
   <div>
-      <div class="parallax">
+      <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="parallax text-center">
         <h1 class="align-middle "><b>Our Research</b></h1>
       </div>
+    </div>
+  </div>
     <div class="row wrap">
       <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 text-justify">
         <p>
