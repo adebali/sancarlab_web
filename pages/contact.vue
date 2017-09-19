@@ -28,7 +28,7 @@
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
           <h2><span class="glyphicon glyphicon-phone-alt"></span> Lab Phone</h2>
           <h2>
-          +1 (919) 966-7489
+          +1 (919) 962-7642
           </h2>
         </div>
       </div>
