@@ -25,7 +25,8 @@ module.exports = {
   ],
   plugins: [
     '~plugins/bootstrap.js',
-    {src: '~plugins/slider.js', ssr: false}
+    {src: '~plugins/slider.js', ssr: false},
+    { src: '~plugins/ga.js', ssr: false }
   ],
   modules: [
     '@nuxtjs/font-awesome'
