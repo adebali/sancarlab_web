@@ -8,7 +8,7 @@
       </div>
     </div>
   </div>
-      <div class="wrap">
+      <div class="wrap align-middle text-center">
         <span v-html="htmlString"></span>
       </div>
       <!-- <mymark /> -->

@@ -6,40 +6,32 @@
     <footer class="footer1 wrap">
       <div class="container">
         <div class="row"><!-- row -->
-          <div class="col-lg-4 col-md-4"><!-- widgets column center -->
-            <div class="col-xs-4 col-sm-4 col-lg-4 col-md-4"><!-- widgets column center -->
-            <ul class="list-unstyled clear-margins footerMenu"><!-- widgets -->
-                <li class="active"><nuxt-link to="/"><i class="fa fa-home fa-lg" aria-hidden="true"></i> Home</nuxt-link><span class="sr-only">(current)</span></li>
-                <li><nuxt-link to="/research"><i class="fa fa-flask fa-lg" aria-hidden="true"></i> Research</nuxt-link></li>
-                <li><nuxt-link to="/people"><i class="fa fa-users fa-lg" aria-hidden="true"></i> People</nuxt-link></li>
-                <li><nuxt-link to="/publications"><i class="fa fa-book fa-lg" aria-hidden="true"></i> Publications</nuxt-link></li>
-              </ul>
+          <div class="col-xs-12 col-sm-12 col-lg-4 col-md-4 extraLinks"><!-- widgets column center -->
+            <div class="col-xs-6 col-sm-6 col-lg-6 col-md-6"><!-- widgets column center -->
+                <p class="active"><a href="/"><i class="fa fa-home fa-lg" aria-hidden="true"></i> Home</a></p>
+                <p><a href="/research"><i class="fa fa-flask fa-lg" aria-hidden="true"></i> Research</a></p>
+                <p><a href="/people"><i class="fa fa-users fa-lg" aria-hidden="true"></i> People</a></p>
+                <p><a href="/publications"><i class="fa fa-book fa-lg" aria-hidden="true"></i> Publications</a></p>
               <!-- <img src="/img/ramsey.png"></img> -->
             </div>
-                        <div class="col-xs-4 col-sm-4 col-lg-4 col-md-4"><!-- widgets column center -->
-            <ul class="list-unstyled clear-margins footerMenu"><!-- widgets -->
-                <li><nuxt-link to="/honors"><i class="fa fa-trophy fa-lg" aria-hidden="true"></i> Honors</nuxt-link></li>
-                <li><nuxt-link to="/press"><i class="fa fa-newspaper-o fa-lg" aria-hidden="true"></i> Press</nuxt-link></li>
-                <li><nuxt-link to="/contact"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> Contact</nuxt-link></li>
-                <li><nuxt-link to="/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i> Lab Album</nuxt-link></li>
-              </ul>
-              <!-- <img src="/img/ramsey.png"></img> -->
+                        <div class="col-xs-6 col-sm-6 col-lg-6 col-md-6 extraLinks"><!-- widgets column center -->
+                <p><a href="/honors"><i class="fa fa-trophy fa-lg" aria-hidden="true"></i> Honors</a></p>
+                <p><a href="/press"><i class="fa fa-newspaper-o fa-lg" aria-hidden="true"></i> Press</a></p>
+                <p><a href="/contact"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> Contact</a></p>
+                <p><a href="https://giving.dev.unc.edu/donate?&p=mfbb&f=303165&a=100.00"><i class="fa fa-gift fa-lg" aria-hidden="true"></i> Make a Gift</a></p>
+                <!-- <p><a href="https://www.med.unc.edu/biochem" target="_blank">Dept. of Biochemistry & Biophysics</a></p> -->
+
+                <!-- <li><a href="/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i> Lab Album</a></li> -->
             </div>
-                        <div class="col-xs-4 col-sm-4 col-lg-4 col-md-4"><!-- widgets column center -->
-            <ul class="list-unstyled clear-margins footerMenu"><!-- widgets -->
-                    <li><nuxt-link to="/"><i class="fa fa-bullhorn fa-lg" aria-hidden="true"></i> Lab News</nuxt-link></li>
-                    <li><nuxt-link to="/"><i class="fa fa-gift fa-lg" aria-hidden="true"></i> Make a Gift</nuxt-link></li>
-                    <li><nuxt-link to="/"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i> Chapel Hill</nuxt-link></li>
-              </ul>
-              <!-- <img src="/img/ramsey.png"></img> -->
-            </div>
+                    <!-- <li><a href="/"><i class="fa fa-bullhorn fa-lg" aria-hidden="true"></i> Lab News</a></li> -->
+                    <!-- <li><a href="/"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i> Chapel Hill</a></li> -->
           </div>
         <div class="col-xs-12 col-sm-12 col-lg-4 col-md-4 unc-logo"><!-- widgets column left -->
           <a href="http://unc.edu" target="_blank"><img class="img-responsive" src="/img/UNC_logo_white.png"></img></a> <br />
 
         </div><!-- widgets column left end -->
 
-          <div class="col-lg-4 col-md-4 white-text text-center extraLinks"><!-- widgets column center -->
+          <div class="col-xs-12 col-sm-12 col-lg-4 col-md-4 white-text text-center extraLinks"><!-- widgets column center -->
           <p><a href="https://www.med.unc.edu/biochem" target="_blank">Dept. of Biochemistry & Biophysics</a></p>
           <p><a href="https://unclineberger.org" target="_blank">UNC Lineberger Comprehensive Cancer Center</a></p>
           <p><a href="http://sancar.org" target="_blank">Aziz & Gwen Sancar Foundation</a></p>
@@ -257,7 +249,9 @@
 .footerMenu li, .extraLinks p {
   margin: 0px;
 }
-
+.footerMenu {
+  overflow: auto;
+}
 
 /************************************************************
 *************************Footer******************************
