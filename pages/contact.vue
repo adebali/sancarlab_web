@@ -12,10 +12,11 @@
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
           <h2>
             <i class="fa fa-map-marker fa-lg" aria-hidden="true"></i>
+            UNC Biochemistry/Biophysics <br />
             3070 Genetic Medicine Bldg <br />
             120 Mason Farm Rd. <br />
             Chapel Hill, North Carolina
-            27599-7260
+            27599-7260 CB#7260
           </h2>
         </div>
       </div>
