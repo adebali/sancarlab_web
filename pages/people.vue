@@ -67,15 +67,15 @@
   import album from '~/components/album.vue'
   // require('~/plugins/album.js')
 
-  if (process.BROWSER_BUILD) {
-    const $ = require('jquery')
-    console.log('BrowserBuild')
-    $(document).ready(function () {
-      $.getScript('https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/155072257@N08/albums/72157688639714856&sort=0&by=album&theme=default&scale=fit&limit=100&skin=default&autoplay=false')
-    })
-  } else {
-    console.log('no browaer build')
-  }
+  // if (process.BROWSER_BUILD) {
+  //   const $ = require('jquery')
+  //   console.log('BrowserBuild')
+  //   $(document).ready(function () {
+  //     $.getScript('https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/155072257@N08/albums/72157688639714856&sort=0&by=album&theme=default&scale=fit&limit=100&skin=default&autoplay=false')
+  //   })
+  // } else {
+  //   console.log('no browaer build')
+  // }
 
   export default {
     components: {

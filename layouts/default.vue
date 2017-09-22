@@ -1,8 +1,8 @@
 <template>
   <div>
     <menubar></menubar>
-    <nuxt/>
-    <myfooter></myfooter>
+    <nuxt class="nuxt-content"/>
+    <myfooter class="myfooter"></myfooter>
   </div>
 </template>
 
@@ -63,4 +63,5 @@ html {
   color: #fff;
   background-color: #35495e;
 }
+
 </style>
