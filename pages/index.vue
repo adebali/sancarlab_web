@@ -10,12 +10,12 @@
 
     <welcome class="welcome">
     </welcome>
-    <div class="wrap text-center">
+    <!-- <div class="wrap text-center">
    <h2>Join Our Team! </h2>
     <p>
       We are hiring! View open positions <a href="/openpositions">here</a>.
     </p>
-    </div>
+    </div> -->
 
   </div>
 </template>
