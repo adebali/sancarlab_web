@@ -10,12 +10,12 @@
 
     <welcome class="welcome">
     </welcome>
-    <!-- <div class="wrap text-center">
+    <div class="wrap text-center">
    <h2>Join Our Team! </h2>
     <p>
-      We are hiring! View open positions <a href="/openpositions">here</a>.
+      We are hiring! View open positions <nuxt-link to="/openpositions">here</nuxt-link>.
     </p>
-    </div> -->
+    </div>
 
   </div>
 </template>
@@ -72,7 +72,7 @@ export default {
 }
 
 .welcome {
-  height: 250px;
+  min-height: 250px;
 }
 
 </style>
