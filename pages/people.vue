@@ -15,6 +15,7 @@
       </div>
 
       <div id="flickrembed"></div>
+      <album></album>
 
     </div>
     <div class="wrap">
@@ -63,15 +64,27 @@
   import labCrew from '~/static/people/people.json'
   import person from '~/components/person.vue'
   import alumn from '~/components/alumn.vue'
+  import album from '~/components/album.vue'
+  // require('~/plugins/album.js')
+
+  if (process.BROWSER_BUILD) {
+    const $ = require('jquery')
+    console.log('BrowserBuild')
+    $(document).ready(function () {
+      $.getScript('https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/155072257@N08/albums/72157688639714856&sort=0&by=album&theme=default&scale=fit&limit=100&skin=default&autoplay=false')
+    })
+  } else {
+    console.log('no browaer build')
+  }
 
   export default {
     components: {
       person,
-      alumn
+      alumn,
+      album
     },
     head: {
       script: [
-        { src: 'https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/155072257@N08/albums/72157688639714856&sort=0&by=album&theme=default&scale=fit&limit=100&skin=default&autoplay=false' }
       ]
     },
     methods: {
