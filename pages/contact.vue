@@ -111,10 +111,10 @@ export default {
 .glyphicon {
     font-size: 30px;
 }
-
+/*
 .row {
   margin-top: 20px;
-}
+} */
 
 .parallax {
   background-image: url('http://huntconstructiongroup.com/wp-content/uploads/2013/07/unc-4.jpg');
