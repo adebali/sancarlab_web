@@ -62,6 +62,12 @@ export default {
         publicationLink = doiLink
       }
       // let linkRoot = doiRoot
+      let issueText
+      if (publicationObject.issue !== undefined) {
+        issueText = `(${publicationObject.issue}),`
+      } else {
+        issueText = ``
+      }
       return `<p class=${publicationObject.pubYear}>
         ${this.computedAuthors(publicationObject.authors)}
         (${publicationObject.pubYear})<br /><b>
@@ -69,7 +75,7 @@ export default {
         <i>
           ${publicationObject.journal}
         </i>
-        <i>${publicationObject.volume}</i>(${publicationObject.issue}),
+        <i>${publicationObject.volume}</i>${issueText}
         ${publicationObject.pages}
       </p>`
     },
