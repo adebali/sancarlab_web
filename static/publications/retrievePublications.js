@@ -57,13 +57,12 @@ function writeResults (results, missedIdList) {
 //   console.log(paper)
 // })
 
-ids.forEach(function(id, idIndex) {
-
+ids.forEach(function (id, idIndex) {
   // pubmed.summary(id).then((paper) => {
   //   console.log(paper)
   // })
   axios.get(`https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=${id}&retmode=json&tool=sancarlab&email=sancarlab@gmail.com`)
-  .then(function (response) {
+    .then(function (response) {
       counter += 1
       let publication = response.data.result[[id]]
       results.push(publication)
@@ -77,5 +76,4 @@ ids.forEach(function(id, idIndex) {
       missedIdList.push(id)
       console.log(error)
     })
-
-  }, this)
+}, this)
