@@ -63,7 +63,7 @@ export default {
       }
       // let linkRoot = doiRoot
       let issueText
-      if (publicationObject.issue !== undefined) {
+      if (publicationObject.issue) {
         issueText = `(${publicationObject.issue}),`
       } else {
         issueText = ``
