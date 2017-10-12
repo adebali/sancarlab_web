@@ -36,7 +36,8 @@
       <div class="row contact-form">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
           <section id="contact" class="content-section text-center">
-                    <p>Feel free to let us know your thoughts and questions!</p>
+                    <p>Feel free to let us know your thoughts and scientific questions!</p>
+                    <p>Invitations for Dr. Sancar should be sent directly to <a href="mailto:carolyn_clabo@med.unc.edu">carolyn_clabo@med.unc.edu</a></p>
                     <div class="row">
                       <div class="col-md-12">
                         <form lass="form-horizontal" action="https://formspree.io/sancarlab@gmail.com" method="POST">
