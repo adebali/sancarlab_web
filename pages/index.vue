@@ -8,14 +8,16 @@
       </div>
     </div>
 
+    <hr>
     <welcome class="welcome">
     </welcome>
-    <div class="wrap text-center">
-   <h2>Join Our Team! </h2>
-    <p>
-      We are hiring! View open positions <nuxt-link to="/openpositions">here</nuxt-link>.
-    </p>
-    </div>
+    <hr>
+    <!-- <div class="wrap text-center"> -->
+   <!-- <h2>Join Our Team! </h2> -->
+    <!-- <p> -->
+      <!-- We are hiring! View open positions <nuxt-link to="/openpositions">here</nuxt-link>. -->
+    <!-- </p> -->
+    <!-- </div> -->
 
   </div>
 </template>
