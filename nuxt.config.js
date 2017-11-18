@@ -29,7 +29,8 @@ module.exports = {
     { src: '~plugins/ga.js', ssr: false }
   ],
   modules: [
-    '@nuxtjs/font-awesome'
+    '@nuxtjs/font-awesome',
+    '@nuxtjs/blog'
   ],
   /*
   ** Headers of the page
