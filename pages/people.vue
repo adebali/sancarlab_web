@@ -33,7 +33,7 @@
 
 <style scoped>
 .parallax {
-    background-image: url('/img/people_1.jpeg');
+    background-image: url('/img/Lab2017.jpg');
       /* height:200px; */
 }
 
