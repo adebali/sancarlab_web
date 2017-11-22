@@ -105,7 +105,7 @@ h1 {
 } */
 
 .parallax {
-  background-image: url('/img/tubes.jpg');
+  background-image: url('/img/tubes_lq.jpg');
   text-align: center;
   /* background-position-y: -300px; */
 

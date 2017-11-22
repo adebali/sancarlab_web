@@ -42,7 +42,7 @@ export default {
   }
 
   .parallax {
-    background-image: url('/img/covers.png');
+    background-image: url('/img/covers.jpg');
   }
 
   .parallax h1 {

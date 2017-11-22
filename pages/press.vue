@@ -78,7 +78,7 @@ a {
 }
 
 .parallax {
-  background-image: url('/img/interview.jpg');
+  background-image: url('/img/interview_lq.jpg');
   text-align: center;
   background-position-y: -300px;
 
