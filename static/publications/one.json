@@ -1,10 +1,375 @@
 [
     {
-        "pmid": "28986449",
-        "title": "Mfd translocase is necessary and sufficient for transcription-coupled repair in Escherichia coli.",
+        "pmid": "29098954",
+        "title": "Guidelines for Genome-Scale Analysis of Biological Rhythms.",
         "authors": [
             {
-                "name": "Adebali O",
+                "name": "Hughes ME",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Abruzzi KC",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Allada R",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Anafi R",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Arpat AB",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Asher G",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Baldi P",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "de Bekker C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Bell-Pedersen D",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Blau J",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Brown S",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Ceriani MF",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Chen Z",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Chiu JC",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Cox J",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Crowell AM",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "DeBruyne JP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Dijk DJ",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "DiTacchio L",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Doyle FJ",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Duffield GE",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Dunlap JC",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Eckel-Mahan K",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Esser KA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "FitzGerald GA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Forger DB",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Francey LJ",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Fu YH",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Gachon F",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Gatfield D",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "de Goede P",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Golden SS",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Green C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Harer J",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Harmer S",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Haspel J",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hastings MH",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Herzel H",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Herzog ED",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hoffmann C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hong C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hughey JJ",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hurley JM",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "de la Iglesia HO",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Johnson C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Kay SA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Koike N",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Kornacker K",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Kramer A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Lamia K",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Leise T",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Lewis SA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Li J",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Li X",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Liu AC",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Loros JJ",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Martino TA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Menet JS",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Merrow M",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Millar AJ",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Mockler T",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Naef F",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Nagoshi E",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Nitabach MN",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Olmedo M",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Nusinow DA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Ptáček LJ",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Rand D",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Reddy AB",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Robles MS",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Roenneberg T",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Rosbash M",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Ruben MD",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Rund SSC",
                 "authtype": "Author",
                 "clusterid": ""
             },
@@ -14,17 +379,102 @@
                 "clusterid": ""
             },
             {
-                "name": "Selby CP",
+                "name": "Sassone-Corsi P",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sehgal A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sherrill-Mix S",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Skene DJ",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Storch KF",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Takahashi JS",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Ueda HR",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Wang H",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Weitz C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Westermark PO",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Wijnen H",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Xu Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Wu G",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Yoo SH",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Young M",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Zhang EE",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Zielinski T",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hogenesch JB",
                 "authtype": "Author",
                 "clusterid": ""
             }
         ],
         "pubYear": "2017",
-        "journal": "The Journal of biological chemistry",
-        "volume": "292",
-        "issue": "45",
-        "pages": "18386-18391",
-        "doi": "10.1074/jbc.C117.818807",
-        "sortpubdate": "2017/11/10 00:00"
+        "journal": "Journal of biological rhythms",
+        "volume": "32",
+        "issue": "5",
+        "pages": "380-393",
+        "doi": "10.1177/0748730417728663",
+        "sortpubdate": "2017/10/01 00:00"
     }
 ]
