@@ -1,5 +1,38 @@
 [
   {
+    "pmid": "29282293",
+    "title": "RNA polymerase II is released from the DNA template during transcription-coupled repair in mammalian cells.",
+    "authors": [
+        {
+            "name": "Chiou YY",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Hu J",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Sancar A",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Selby CP",
+            "authtype": "Author",
+            "clusterid": ""
+        }
+    ],
+    "pubYear": "2017",
+    "journal": "The Journal of biological chemistry",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "doi": "10.1074/jbc.RA117.000971",
+    "sortpubdate": "2017/12/27 00:00"
+  },
+  {
     "pmid": "29098954",
     "title": "Guidelines for Genome-Scale Analysis of Biological Rhythms.",
     "authors": [
