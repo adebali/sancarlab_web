@@ -29,8 +29,7 @@ module.exports = {
     { src: '~plugins/ga.js', ssr: false }
   ],
   modules: [
-    '@nuxtjs/font-awesome',
-    ["nuxt-netlify-cms", { adminPath: "secure" }]
+    '@nuxtjs/font-awesome'
   ],
   /*
   ** Headers of the page
