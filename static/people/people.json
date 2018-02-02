@@ -41,6 +41,34 @@
     "status": "current"
   },
   {
+    "lastname": "Zhang",
+    "firstname": "Samuel",
+    "degree": "",
+    "img": "zhang.jpeg",
+    "title": "Undergraduate Student",
+    "email": {"address":"szhang", "domain":"unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+      "Repair Database"
+    ],
+    "status": "current"
+  },
+  {
+    "lastname": "Asgari",
+    "firstname": "Yashar",
+    "degree": "",
+    "img": "asgari.jpg",
+    "title": "Undergraduate Student",
+    "email": {"address":"yasgari", "domain":"email.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+      "Repair Database"
+    ],
+    "status": "current"
+  },
+  {
     "lastname": "Clabo",
     "firstname": "Carolyn",
     "degree": "",
