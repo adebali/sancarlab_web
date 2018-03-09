@@ -1,6 +1,9 @@
 <template>
   <div class="body">
     <div class="wrap text-justify content">
+      <div class="center">
+        <img src="http://mappleadventure.com/wp-content/uploads/2017/03/Join-the-team.png"></img>
+      </div>
       <span class="markdown" v-html="htmlString"></span>
     </div>
       <!-- <mymark /> -->
@@ -37,7 +40,7 @@ export default {
     // mymark
   },
   asyncData ({ req, params }) {
-    return axios.get('/news/main.md')
+    return axios.get('/news/positions.md')
       .then((res) => {
         return { htmlString: md.render(res.data) }
       })
@@ -108,5 +111,16 @@ a {
   text-align: center;
   text-align: middle;
   margin: 60px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 </style>
