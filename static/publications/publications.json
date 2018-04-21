@@ -33,42 +33,42 @@
     "sortpubdate": "2018/04/17 00:00"
   },
   {
-      "pmid": "29581276",
-      "title": "Single-nucleotide resolution dynamic repair maps of UV damage in Saccharomyces cerevisiae genome.",
-      "authors": [
-          {
-              "name": "Li W",
-              "authtype": "Author",
-              "clusterid": ""
-          },
-          {
-              "name": "Adebali O",
-              "authtype": "Author",
-              "clusterid": ""
-          },
-          {
-              "name": "Yang Y",
-              "authtype": "Author",
-              "clusterid": ""
-          },
-          {
-              "name": "Selby CP",
-              "authtype": "Author",
-              "clusterid": ""
-          },
-          {
-              "name": "Sancar A",
-              "authtype": "Author",
-              "clusterid": ""
-          }
-      ],
-      "pubYear": "2018",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "doi": "10.1073/pnas.1801687115",
-      "sortpubdate": "2018/03/26 00:00"
+    "pmid": "29581276",
+    "title": "Single-nucleotide resolution dynamic repair maps of UV damage in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt; genome.",
+    "authors": [
+        {
+            "name": "Li W",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Adebali O",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Yang Y",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Selby CP",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Sancar A",
+            "authtype": "Author",
+            "clusterid": ""
+        }
+    ],
+    "pubYear": "2018",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "volume": "115",
+    "issue": "15",
+    "pages": "E3408-E3415",
+    "doi": "10.1073/pnas.1801687115",
+    "sortpubdate": "2018/04/10 00:00"
   },
   {
     "pmid": "29282293",
@@ -95,13 +95,13 @@
             "clusterid": ""
         }
     ],
-    "pubYear": "2017",
+    "pubYear": "2018",
     "journal": "The Journal of biological chemistry",
-    "volume": "",
-    "issue": "",
-    "pages": "",
+    "volume": "293",
+    "issue": "7",
+    "pages": "2476-2486",
     "doi": "10.1074/jbc.RA117.000971",
-    "sortpubdate": "2017/12/27 00:00"
+    "sortpubdate": "2018/02/16 00:00"
   },
   {
     "pmid": "29098954",
