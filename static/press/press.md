@@ -1,4 +1,15 @@
 
+
+## 2018
+
+
+----------
+
+
+### [How Does Plant DNA Avoid the Ravages of UV Radiation?](http://news.unchealthcare.org/news/2018/april/how-does-plant-dna-avoid-the-ravages-of-uv-radiation)
+The lab of UNC Nobel laureate Aziz Sancar, MD, PhD, reveals first-ever repair map of an entire multicellular organism to illuminate some interesting inner workings of the plant kingdom’s DNA highly efficient repair system.
+
+
 ## 2017
 
 
