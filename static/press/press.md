@@ -5,6 +5,8 @@
 
 ----------
 
+### [Could Reading our Circadian Clocks According to DNA Repair Optimize Chemotherapy?](http://news.unchealthcare.org/news/2018/may/could-reading-our-circadian-clocks-according-to-dna-repair-optimize-chemotherapy)
+For the first time, UNC School of Medicine scientists led by Nobel laureate Aziz Sancar analyzed whole-genome DNA repair in an animal over 24 hours to find which genes were repaired, where exactly, and when, laying the groundwork for a more precise use of anti-cancer drugs.
 
 ### [How Does Plant DNA Avoid the Ravages of UV Radiation?](http://news.unchealthcare.org/news/2018/april/how-does-plant-dna-avoid-the-ravages-of-uv-radiation)
 The lab of UNC Nobel laureate Aziz Sancar, MD, PhD, reveals first-ever repair map of an entire multicellular organism to illuminate some interesting inner workings of the plant kingdom’s DNA highly efficient repair system.
