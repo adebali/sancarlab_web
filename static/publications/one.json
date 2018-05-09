@@ -1,10 +1,10 @@
 [
     {
-        "pmid": "29581276",
-        "title": "Single-nucleotide resolution dynamic repair maps of UV damage in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt; genome.",
+        "pmid": "29735688",
+        "title": "Cisplatin-DNA adduct repair of transcribed genes is controlled by two circadian programs in mouse tissues.",
         "authors": [
             {
-                "name": "Li W",
+                "name": "Yang Y",
                 "authtype": "Author",
                 "clusterid": ""
             },
@@ -14,12 +14,32 @@
                 "clusterid": ""
             },
             {
-                "name": "Yang Y",
+                "name": "Wu G",
                 "authtype": "Author",
                 "clusterid": ""
             },
             {
                 "name": "Selby CP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Chiou YY",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Rashid N",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hu J",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hogenesch JB",
                 "authtype": "Author",
                 "clusterid": ""
             },
@@ -31,10 +51,10 @@
         ],
         "pubYear": "2018",
         "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-        "volume": "115",
-        "issue": "15",
-        "pages": "E3408-E3415",
-        "doi": "10.1073/pnas.1801687115",
-        "sortpubdate": "2018/04/10 00:00"
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1073/pnas.1804493115",
+        "sortpubdate": "2018/05/07 00:00"
     }
 ]
