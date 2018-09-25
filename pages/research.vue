@@ -19,7 +19,7 @@
       <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-justify">
         <figure class="figure">
           <!-- <lightbox album="research" src="http://www.med.unc.edu/biochem/people/faculty/faculty/fig1_sancar.jpg" caption="Fig. 1. The XR-seq method."> -->
-            <img src="http://www.med.unc.edu/biochem/people/faculty/faculty/fig1_sancar.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="">
+            <img src="/img/fig1.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="">
            </img>
           <!-- </lightbox> -->
           <figcaption class="figure-caption">
@@ -34,7 +34,7 @@
       <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5">
         <figure class="figure">
           <!-- <lightbox album="research" src="http://www.med.unc.edu/biochem/people/faculty/faculty/Figure2.jpg" caption="Fig. 2."> -->
-          <img src="http://www.med.unc.edu/biochem/people/faculty/faculty/Figure2.jpg"       class="figure-img img-fluid rounded img-thumbnail" alt="">
+          <img src="/img/Fig2.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="">
            </img>
           <!-- </lightbox> -->
           <figcaption class="figure-caption">
@@ -57,7 +57,7 @@
       <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <figure class="figure">
           <!-- <lightbox album="research" src="http://www.med.unc.edu/biochem/people/faculty/faculty/fig3_sancar.jpg" caption="Fig. 3. Current Model for the Mammalian Circadian Clock."> -->
-          <img src="http://www.med.unc.edu/biochem/people/faculty/faculty/fig3_sancar.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="">
+          <img src="/img/Fig3.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="">
            </img>
            <!-- </lightbox> -->
           <figcaption class="figure-caption">
