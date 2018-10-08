@@ -101,6 +101,20 @@
     "farewellDate": 2017
   },
   {
+    "lastname": "Cao",
+    "firstname": "Xuemei",
+    "degree": "PhD",
+    "img": "cao.png",
+    "title": "Postdoctoral Fellow",
+    "email": {"address":"cxmei224", "domain":"163.com"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+      "Circadian Clock"
+    ],
+    "status": "current"
+  },
+  {
     "lastname": "Adar",
     "firstname": "Sheera",
     "degree": "PhD",
