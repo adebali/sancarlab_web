@@ -115,6 +115,35 @@
     "status": "current"
   },
   {
+    "lastname": "Liu",
+    "firstname": "Zhenxing",
+    "degree": "PhD",
+    "img": "liu.jpeg",
+    "title": "Postdoctoral Fellow",
+    "email": {"address":"zhenxing_liu", "domain":"med.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+      "DNA repair",
+      "DNA damage",
+      "Circadian Clock"
+    ],
+    "status": "current"
+  },
+  {
+    "lastname": "Katie",
+    "firstname": "Bosch",
+    "degree": "",
+    "img": "bosch.jpg",
+    "title": "Undergraduate Student",
+    "email": {"address":"kebosch", "domain":"live.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+    ],
+    "status": "current"
+  },
+  {
     "lastname": "Adar",
     "firstname": "Sheera",
     "degree": "PhD",
@@ -159,7 +188,7 @@
     "title": "Undergraduate Student",
     "email": {"address":"akakoki", "domain":"live.unc.edu"},
     "phone": "(919) 966-7489",
-	"status": "current"
+	"status": "past"
   },
   {
     "lastname": "Li",
@@ -218,7 +247,7 @@
     "web": "",
     "research": [
     ],
-    "status": "current"
+    "status": "past"
   },
   {
     "lastname": "Eynullazada",
