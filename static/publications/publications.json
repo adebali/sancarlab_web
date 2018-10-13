@@ -1,5 +1,58 @@
 [
   {
+    "pmid": "30264181",
+    "title": "Comparative properties and functions of type 2 and type 4 pigeon cryptochromes.",
+    "authors": [
+        {
+            "name": "Wang X",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Jing C",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Selby CP",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Chiou YY",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Yang Y",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Wu W",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Sancar A",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Wang J",
+            "authtype": "Author",
+            "clusterid": ""
+        }
+    ],
+    "pubYear": "2018",
+    "journal": "Cellular and molecular life sciences : CMLS",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "doi": "10.1007/s00018-018-2920-y",
+    "sortpubdate": "2018/09/27 00:00"
+  },
+  {
     "pmid": "29735688",
     "title": "Cisplatin-DNA adduct repair of transcribed genes is controlled by two circadian programs in mouse tissues.",
     "authors": [
