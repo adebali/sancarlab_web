@@ -319,7 +319,23 @@
 	  "Circadian rhythm"
     ],
     "status": "current"
-  },  {
+  },
+  {
+    "lastname": "Deger",
+    "firstname": "Nazli",
+    "degree": "",
+    "img": "deger.jpeg",
+    "title": "Graduate Student",
+    "email": {"address":"nazlidgr", "domain": "live.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+      "DNA repair",
+      "DNA damage"
+    ],
+    "status": "current"
+  },
+  {
     "lastname": "Wang",
     "firstname": "Xuefeng",
     "degree": "",
