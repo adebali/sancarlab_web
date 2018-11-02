@@ -5,6 +5,9 @@
 
 ----------
 
+### [Vaughn awarded Scott Neil Schwirck Fellowship](http://news.unchealthcare.org/som-vital-signs/2018/nov-1/courtney-vaughn-scott-neil-schwirck-fellowship-award-winner?utm_source=vs-email&utm_medium=email&utm_campaign=44)
+Courtney Vaughn, MD-PhD student in the lab of Aziz Sancar, MD, PhD, was awarded the Scott Neil Schwirck fellowship for her work studying the role of DNA damage repair and circadian rhythm in tumor response to platinum-based chemotherapy.
+
 ### [Could Reading our Circadian Clocks According to DNA Repair Optimize Chemotherapy?](http://news.unchealthcare.org/news/2018/may/could-reading-our-circadian-clocks-according-to-dna-repair-optimize-chemotherapy)
 For the first time, UNC School of Medicine scientists led by Nobel laureate Aziz Sancar analyzed whole-genome DNA repair in an animal over 24 hours to find which genes were repaired, where exactly, and when, laying the groundwork for a more precise use of anti-cancer drugs.
 
