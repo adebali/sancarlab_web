@@ -5,7 +5,7 @@
 
 ----------
 
-### Li, postdoctoral fellow in Sancar lab, receives 2018 EMGS and PARE Awards(http://news.unchealthcare.org/som-vital-signs/2018/nov-9/wentao-li-phd-postdoctoral-fellow-in-sancar-lab-receives-2018-emgs-and-pare-awards?utm_source=vs-email&utm_medium=email&utm_campaign=45)
+### [Li, postdoctoral fellow in Sancar lab, receives 2018 EMGS and PARE Awards(http://news.unchealthcare.]org/som-vital-signs/2018/nov-9/wentao-li-phd-postdoctoral-fellow-in-sancar-lab-receives-2018-emgs-and-pare-awards?utm_source=vs-email&utm_medium=email&utm_campaign=45)
 Wentao Li, PhD, a postdoctoral fellow in the lab of Dr. Aziz Sancar, has received the 2018 Environmental Mutagenesis & Genomics Society (EMGS) New Investigator Travel Award & 2018 Postdoctoral Award for Research Excellence (PARE) from UNC Office of Postdoctoral Affairs.
 
 ### [Vaughn awarded Scott Neil Schwirck Fellowship](http://news.unchealthcare.org/som-vital-signs/2018/nov-1/courtney-vaughn-scott-neil-schwirck-fellowship-award-winner?utm_source=vs-email&utm_medium=email&utm_campaign=44)
