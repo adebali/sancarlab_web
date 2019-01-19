@@ -44,7 +44,7 @@
           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <div class="text-center">
               <p>
-              Copyright © Sancar Lab 2018 - developed by <a href="http://adebalilab.org/team/adebali/">Ogun Adebali</a>
+              Copyright © Sancar Lab 2019 - developed by <a href="http://adebalilab.org/team/adebali/">Ogun Adebali</a>
               </p>
             </div>
           </div>
