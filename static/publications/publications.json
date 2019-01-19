@@ -1,5 +1,101 @@
 [
   {
+    "pmid": "30413533",
+    "title": "Single-nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice.",
+    "authors": [
+        {
+            "name": "Yang Y",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Hu J",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Selby CP",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Li W",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Yimit A",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Jiang Y",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Sancar A",
+            "authtype": "Author",
+            "clusterid": ""
+        }
+    ],
+    "pubYear": "2019",
+    "journal": "The Journal of biological chemistry",
+    "volume": "294",
+    "issue": "1",
+    "pages": "210-217",
+    "doi": "10.1074/jbc.RA118.006121",
+    "sortpubdate": "2019/01/04 00:00"
+},
+{
+    "pmid": "30552409",
+    "title": "Genome-wide mapping of nucleotide excision repair with XR-seq.",
+    "authors": [
+        {
+            "name": "Hu J",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Li W",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Adebali O",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Yang Y",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Oztas O",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Selby CP",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Sancar A",
+            "authtype": "Author",
+            "clusterid": ""
+        }
+    ],
+    "pubYear": "2019",
+    "journal": "Nature protocols",
+    "volume": "14",
+    "issue": "1",
+    "pages": "248-282",
+    "doi": "10.1038/s41596-018-0093-7",
+    "sortpubdate": "2019/01/01 00:00"
+  },
+  {
     "pmid": "30264181",
     "title": "Comparative properties and functions of type 2 and type 4 pigeon cryptochromes.",
     "authors": [
