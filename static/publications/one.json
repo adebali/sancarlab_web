@@ -1,10 +1,25 @@
 [
     {
-        "pmid": "30659176",
-        "title": "Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs.",
+        "pmid": "30808711",
+        "title": "Nucleotide excision repair capacity increases during differentiation of human embryonic carcinoma cells into neurons and muscle cells.",
         "authors": [
             {
-                "name": "Yimit A",
+                "name": "Li W",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Liu W",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Kakoki A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Wang R",
                 "authtype": "Author",
                 "clusterid": ""
             },
@@ -14,22 +29,22 @@
                 "clusterid": ""
             },
             {
-                "name": "Sancar A",
+                "name": "Jiang Y",
                 "authtype": "Author",
                 "clusterid": ""
             },
             {
-                "name": "Jiang Y",
+                "name": "Sancar A",
                 "authtype": "Author",
                 "clusterid": ""
             }
         ],
         "pubYear": "2019",
-        "journal": "Nature communications",
-        "volume": "10",
-        "issue": "1",
-        "pages": "309",
-        "doi": "10.1038/s41467-019-08290-2",
-        "sortpubdate": "2019/01/18 00:00"
+        "journal": "The Journal of biological chemistry",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1074/jbc.RA119.007861",
+        "sortpubdate": "2019/02/26 00:00"
     }
 ]
