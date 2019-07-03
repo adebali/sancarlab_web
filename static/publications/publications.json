@@ -1,5 +1,71 @@
 [
   {
+    "pmid": "31217280",
+    "title": "Long-term, genome-wide kinetic analysis of the effect of the circadian clock and transcription on the repair of cisplatin-DNA adducts in the mouse liver.",
+    "authors": [
+        {
+            "name": "Yang Y",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Liu Z",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Selby CP",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Sancar A",
+            "authtype": "Author",
+            "clusterid": ""
+        }
+    ],
+    "pubYear": "2019",
+    "journal": "The Journal of biological chemistry",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "doi": "10.1074/jbc.RA119.009579",
+    "sortpubdate": "2019/06/19 00:00"
+  },
+  {
+    "pmid": "31142791",
+    "title": "Mechanistic Study of TTF-1 Modulation of Cellular Sensitivity to Cisplatin.",
+    "authors": [
+        {
+            "name": "Phelps CA",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Lindsey-Boltz L",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Sancar A",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Mu D",
+            "authtype": "Author",
+            "clusterid": ""
+        }
+    ],
+    "pubYear": "2019",
+    "journal": "Scientific reports",
+    "volume": "9",
+    "issue": "1",
+    "pages": "7990",
+    "doi": "10.1038/s41598-019-44549-w",
+    "sortpubdate": "2019/05/29 00:00"
+  },
+  {
       "pmid": "30808711",
       "title": "Nucleotide excision repair capacity increases during differentiation of human embryonic carcinoma cells into neurons and muscle cells.",
       "authors": [
