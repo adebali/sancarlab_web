@@ -4,7 +4,7 @@
 
 ----------
 
-### [Researchers clock DNA's recovery time after chemotherapy(http://news.unchealthcare.org/news/2019/july/researchers-clock-dnas-recovery-time-after-chemotherapy)
+### [Researchers clock DNA's recovery time after chemotherapy](http://news.unchealthcare.org/news/2019/july/researchers-clock-dnas-recovery-time-after-chemotherapy)
 The lab of Aziz Sancar, MD, PhD, published a paper in the Journal of Biological Chemistry that could inform the creation of 'chronochemotherapies' -- strategies using chemo to treat cancer patients at particular times of day to maximize therapeutic benefit and minimize side effects.
 
 
