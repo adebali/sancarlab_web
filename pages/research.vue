@@ -24,7 +24,7 @@
           <!-- </lightbox> -->
           <figcaption class="figure-caption">
             <p>
-            Fig. 1. The XR-seq method. (A) Schematic of nucleotide excision repair. (B) Excision patterns of photoproducts in wild-type, XP-C (deficient in global re-pair), and CS-B (deficient in TCR) cells. (C) Procedure for preparation of the dsDNA library for the Illumina HiSeq 2000 platform. (D) Distribution of the XR-seq signal, separated by strand, for CPD (top) and (6-4)PP (bot-tom) over a 1.5-Mb region of chromosome 3. (E) Strong association of TCR with RNA levels.
+            <b>Fig. 1. The XR-seq method. </b>(A) Schematic of nucleotide excision repair. (B) Excision patterns of photoproducts in wild-type, XP-C (deficient in global re-pair), and CS-B (deficient in TCR) cells. (C) Procedure for preparation of the dsDNA library for the Illumina HiSeq 2000 platform. (D) Distribution of the XR-seq signal, separated by strand, for CPD (top) and (6-4)PP (bot-tom) over a 1.5-Mb region of chromosome 3. (E) Strong association of TCR with RNA levels.
             </p>
           </figcaption>
         </figure>
