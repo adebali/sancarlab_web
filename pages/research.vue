@@ -24,7 +24,7 @@
           <!-- </lightbox> -->
           <figcaption class="figure-caption">
             <p>
-            <b>Fig. 1. The XR-seq method. </b>(A) Schematic of nucleotide excision repair. (B) Excision patterns of photoproducts in wild-type, XP-C (deficient in global re-pair), and CS-B (deficient in TCR) cells. (C) Procedure for preparation of the dsDNA library for the Illumina HiSeq 2000 platform. (D) Distribution of the XR-seq signal, separated by strand, for CPD (top) and (6-4)PP (bot-tom) over a 1.5-Mb region of chromosome 3. (E) Strong association of TCR with RNA levels.
+            Fig. 1. The XR-seq method. (A) Schematic of nucleotide excision repair. (B) Excision patterns of photoproducts in wild-type, XP-C (deficient in global re-pair), and CS-B (deficient in TCR) cells. (C) Procedure for preparation of the dsDNA library for the Illumina HiSeq 2000 platform. (D) Distribution of the XR-seq signal, separated by strand, for CPD (top) and (6-4)PP (bot-tom) over a 1.5-Mb region of chromosome 3. (E) Strong association of TCR with RNA levels.
             </p>
           </figcaption>
         </figure>
@@ -45,7 +45,7 @@
           <!-- </lightbox> -->
           <figcaption class="figure-caption">
             <p>
-            <b>Fig. 2. Current Model for the Mammalian Circadian Clock. </b>(A) Mammalian molecular clock model of the transcription-translation feedback loop (TTFL). (B) PER2 removes CRY1 from the CRY1:CLOCK:BMAL1:E-box complex. (C) New model for the mammalian circadian clock. The figure shows a semiquantitative heat map representation of CRY1 and PER2 protein expression as well as the ChIP data for CLOCK:BMAL1 and CRY1 over a circadian cycle and its consequences with regard to interactions of core clock proteins with the E-box and the effects of these interactions on transcription of genes (Nr1d1 and Dbp) regulated exclusively by the core TTFL.
+            Fig. 2. Current Model for the Mammalian Circadian Clock. (A) Mammalian molecular clock model of the transcription-translation feedback loop (TTFL). (B) PER2 removes CRY1 from the CRY1:CLOCK:BMAL1:E-box complex. (C) New model for the mammalian circadian clock. The figure shows a semiquantitative heat map representation of CRY1 and PER2 protein expression as well as the ChIP data for CLOCK:BMAL1 and CRY1 over a circadian cycle and its consequences with regard to interactions of core clock proteins with the E-box and the effects of these interactions on transcription of genes (Nr1d1 and Dbp) regulated exclusively by the core TTFL.
            </p>
           </figcaption>
         </figure>
@@ -67,7 +67,7 @@
            <!-- </lightbox> -->
           <figcaption class="figure-caption">
             <p>
-            <b> Fig. 3. Control of DNA Repair by the Circadian Clock. </b> (A) Effect of time of day of exposure to UVB on skin carcinogenesis (visual diagnosis) in SKH-1 hairless mice.(B) Heatmaps (top) and radial diagrams (bottom) of circadian repair cycles of the transcribed strand (TS) and the nontranscribed strand (NTS) of 1,661 highly rhythmic genes in mouse kidney.
+             Fig. 3. Control of DNA Repair by the Circadian Clock.  (A) Effect of time of day of exposure to UVB on skin carcinogenesis (visual diagnosis) in SKH-1 hairless mice.(B) Heatmaps (top) and radial diagrams (bottom) of circadian repair cycles of the transcribed strand (TS) and the nontranscribed strand (NTS) of 1,661 highly rhythmic genes in mouse kidney.
             </p>
           </figcaption>
         </figure>
