@@ -365,6 +365,22 @@
     "status": "current"
   },
   {
+    "lastname": "Kawara",
+    "firstname": "Hiroaki",
+    "degree": "PhD",
+    "img": "kawara.png",
+    "title": "Postdoctoral Fellow",
+    "email": {"address":"hiroaki_kawara", "domain": "med.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+      "DNA repair",
+      "DNA damage",
+      "Circadian clock"
+    ],
+    "status": "current"
+  },
+  {
     "lastname": "Yimit",
     "firstname": "Askar",
     "degree": "PhD",
