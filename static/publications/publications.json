@@ -1,5 +1,443 @@
 [
-  {
+    {
+        "pmid": "32672832",
+        "title": "Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines.",
+        "authors": [
+            {
+                "name": "Mei W",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Jiang Z",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Chen Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Chen L",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Jiang Y",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2020",
+        "journal": "Briefings in bioinformatics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/bib/bbaa135",
+        "sortpubdate": "2020/07/16 00:00"
+    },
+    {
+        "pmid": "32303634",
+        "title": "The circadian clock shapes the <i>Arabidopsi</i>s transcriptome by regulating alternative splicing and alternative polyadenylation.",
+        "authors": [
+            {
+                "name": "Yang Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Li Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Oztas O",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2020",
+        "journal": "The Journal of biological chemistry",
+        "volume": "295",
+        "issue": "22",
+        "pages": "7608-7619",
+        "doi": "10.1074/jbc.RA120.013513",
+        "sortpubdate": "2020/05/29 00:00"
+    },
+    {
+        "pmid": "32383312",
+        "title": "CRY1-CBS binding regulates circadian clock function and metabolism.",
+        "authors": [
+            {
+                "name": "Cal-Kayitmazbatir S",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Kulkoyluoglu-Cotul E",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Growe J",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Selby CP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Rhoades SD",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Malik D",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Oner H",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Asimgil H",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Francey LJ",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Kruger WD",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hogenesch JB",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Weljie A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Anafi RC",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Kavakli IH",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2020",
+        "journal": "The FEBS journal",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1111/febs.15360",
+        "sortpubdate": "2020/05/08 00:00"
+    },
+    {
+        "pmid": "31493872",
+        "title": "DCAF7 is required for maintaining the cellular levels of ERCC1-XPF and nucleotide excision repair.",
+        "authors": [
+            {
+                "name": "Kawara H",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Akahori R",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Wakasugi M",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Matsunaga T",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2019",
+        "journal": "Biochemical and biophysical research communications",
+        "volume": "519",
+        "issue": "1",
+        "pages": "204-210",
+        "doi": "10.1016/j.bbrc.2019.08.147",
+        "sortpubdate": "2019/10/29 00:00"
+    },
+    {
+        "pmid": "33384351",
+        "title": "Clocks, cancer, and chronochemotherapy.",
+        "authors": [
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Van Gelder RN",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2021",
+        "journal": "Science (New York, N.Y.)",
+        "volume": "371",
+        "issue": "6524",
+        "pages": "",
+        "doi": "10.1126/science.abb0738",
+        "sortpubdate": "2021/01/01 00:00"
+    },
+    {
+        "pmid": "33381013",
+        "title": "A Sextuple Knockout Cell Line System to Study the Differential Roles of CRY, PER, and NR1D in the Transcription-Translation Feedback Loop of the Circadian Clock.",
+        "authors": [
+            {
+                "name": "Chiou YY",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Li TY",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Yang Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2020",
+        "journal": "Frontiers in neuroscience",
+        "volume": "14",
+        "issue": "",
+        "pages": "616802",
+        "doi": "10.3389/fnins.2020.616802",
+        "sortpubdate": "2020/12/14 00:00"
+    },
+    {
+        "pmid": "33087442",
+        "title": "Mycobacteria excise DNA damage in 12- or 13-nucleotide-long oligomers by prokaryotic-type dual incisions and performs transcription-coupled repair.",
+        "authors": [
+            {
+                "name": "Selby CP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Lindsey-Boltz LA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Yang Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2020",
+        "journal": "The Journal of biological chemistry",
+        "volume": "295",
+        "issue": "50",
+        "pages": "17374-17380",
+        "doi": "10.1074/jbc.AC120.016325",
+        "sortpubdate": "2020/12/11 00:00"
+    },
+    {
+        "pmid": "32817420",
+        "title": "Circadian regulation of c-MYC in mice.",
+        "authors": [
+            {
+                "name": "Liu Z",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Selby CP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Yang Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Lindsey-Boltz LA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Cao X",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Eynullazada K",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2020",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "volume": "117",
+        "issue": "35",
+        "pages": "21609-21617",
+        "doi": "10.1073/pnas.2011225117",
+        "sortpubdate": "2020/09/01 00:00"
+    },
+    {
+        "pmid": "32083352",
+        "title": "Methodologies for detecting environmentally induced DNA damage and repair.",
+        "authors": [
+            {
+                "name": "Li W",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2020",
+        "journal": "Environmental and molecular mutagenesis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "664-679",
+        "doi": "10.1002/em.22365",
+        "sortpubdate": "2020/08/01 00:00"
+    },
+    {
+        "pmid": "32299912",
+        "title": "Genome-wide single-nucleotide resolution of oxaliplatin-DNA adduct repair in drug-sensitive and -resistant colorectal cancer cell lines.",
+        "authors": [
+            {
+                "name": "Vaughn CM",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Selby CP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Yang Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hsu DS",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2020",
+        "journal": "The Journal of biological chemistry",
+        "volume": "295",
+        "issue": "22",
+        "pages": "7584-7594",
+        "doi": "10.1074/jbc.RA120.013347",
+        "sortpubdate": "2020/05/29 00:00"
+    },
+    {
+        "pmid": "31624146",
+        "title": "<i>Drosophila</i>, which lacks canonical transcription-coupled repair proteins, performs transcription-coupled repair.",
+        "authors": [
+            {
+                "name": "Deger N",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Yang Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Lindsey-Boltz LA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Selby CP",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2019",
+        "journal": "The Journal of biological chemistry",
+        "volume": "294",
+        "issue": "48",
+        "pages": "18092-18098",
+        "doi": "10.1074/jbc.AC119.011448",
+        "sortpubdate": "2019/11/29 00:00"
+    },
+    {
     "pmid": "31217280",
     "title": "Long-term, genome-wide kinetic analysis of the effect of the circadian clock and transcription on the repair of cisplatin-DNA adducts in the mouse liver.",
     "authors": [
