@@ -69,7 +69,7 @@
     "research": [
       "Repair Database"
     ],
-    "status": "current"
+    "status": "past"
   },
   {
     "lastname": "Clabo",
@@ -178,7 +178,7 @@
       "Chromatin architecture",
       "DNA repair"
     ],
-    "status": "current"
+    "status": "past"
   },
   {
     "lastname": "Kakoki",
@@ -204,7 +204,11 @@
       "Chemotherapy Damage",
 	  "Genome wide DNA repair"
     ],
-    "status": "current"
+    "status": "alumn",
+    "move": "University of Georgia",
+    "currentTitle": "Assistant Professor",
+    "farewellDate": 2020
+    
   },  {
     "lastname": "Lindsey-Boltz",
     "firstname": "Laura",
@@ -260,7 +264,7 @@
     "web": "",
     "research": [
     ],
-    "status": "current"
+    "status": "past"
   },
   {
     "lastname": "Meydaneri",
@@ -289,7 +293,10 @@
       "DNA repair",
       "Plant models"
     ],
-    "status": "current"
+    "status": "alumn",
+    "move": "Koc University",
+    "currentTitle": "Assistant Professor",
+    "farewellDate": 2020
   },  {
     "lastname": "Selby",
     "firstname": "Christopher",
