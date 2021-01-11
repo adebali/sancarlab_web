@@ -1,27 +1,4 @@
 [
-     {
-        "pmid": "33384351",
-        "title": "Clocks, cancer, and chronochemotherapy.",
-        "authors": [
-            {
-                "name": "Sancar A",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Van Gelder RN",
-                "authtype": "Author",
-                "clusterid": ""
-            }
-        ],
-        "pubYear": "2021",
-        "journal": "Science (New York, N.Y.)",
-        "volume": "371",
-        "issue": "6524",
-        "pages": "",
-        "doi": "10.1126/science.abb0738",
-        "sortpubdate": "2021/01/01 00:00"
-    },
     {
         "pmid": "33384351",
         "title": "Clocks, cancer, and chronochemotherapy.",
