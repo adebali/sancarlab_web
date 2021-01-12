@@ -98,7 +98,7 @@
                 "name": "Sancar A",
                 "authtype": "Author",
                 "clusterid": ""
-            }
+            },
             {
                 "name": "Michel-Beyerle ME",
                 "authtype": "Author",
@@ -150,7 +150,7 @@
         "pages": "1602–1603",
         "doi": "10.1021/ja00057a070",
         "sortpubdate": "1993/02/01 00:00"
-    },
+  },
   {
         "pmid": "",
         "title": "Evidence from Photoinduced Epr for a Radical Intermediate during Photolysis of Cyclobutane Thymine Dimer by DNA Photolyase.",
@@ -164,7 +164,7 @@
                 "name": "Sancar A",
                 "authtype": "Author",
                 "clusterid": ""
-            }
+            },
             {
                 "name": "Essenmacher C",
                 "authtype": "Author",
@@ -197,7 +197,7 @@
                 "name": "Sancar A",
                 "authtype": "Author",
                 "clusterid": ""
-            }
+            },
             {
                 "name": "Heelis PF",
                 "authtype": "Author",
@@ -217,7 +217,7 @@
                 "name": "Mataga N",
                 "authtype": "Author",
                 "clusterid": ""
-            },
+            }
         ],
         "pubYear": "1991",
         "journal": "Journal of the American Chemical Society",
@@ -227,7 +227,7 @@
         "doi": "10.1021/ja00008a050",
         "sortpubdate": "1991/04/01 00:00"
     },
-  {
+    {
         "pmid": "",
         "title": "Doublet Quartet Intersystem Crossing of Flavin Radical in DNA Photolyase.",
         "authors": [
@@ -240,7 +240,7 @@
                 "name": "Sancar A",
                 "authtype": "Author",
                 "clusterid": ""
-            }
+            },
             {
                 "name": "Heelis PF",
                 "authtype": "Author",
@@ -255,7 +255,7 @@
                 "name": "Mataga N",
                 "authtype": "Author",
                 "clusterid": ""
-            },
+            }
         ],
         "pubYear": "1989",
         "journal": "Journal of the American Chemical Society",
@@ -265,7 +265,7 @@
         "doi": "10.1021/ja00197a082",
         "sortpubdate": "1989/07/01 00:00"
     },
-  {
+    {
         "pmid": "33384351",
         "title": "Clocks, cancer, and chronochemotherapy.",
         "authors": [
