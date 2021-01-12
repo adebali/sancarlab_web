@@ -234,6 +234,7 @@
       "Checkpoint",
 	  "Excision repair"
     ],
+    "linkedin": "lauralindseyboltz",
     "status": "current"
   },
   {
@@ -244,7 +245,6 @@
     "title": "Visiting Scientist",
     "email": {"address":"wjliu", "domain": "email.unc.edu"},
     "phone": "(919) 966-7489",
-    "linkedin": "lauralindseyboltz",
     "research": [
       "Cell differentiation",
       "DNA repair"
@@ -357,7 +357,7 @@
     "lastname": "Kose",
     "firstname": "Cansu",
     "degree": "",
-    "img": "Cansu-Kose-square.jpeg",
+    "img": "CansuKose.jpeg",
     "title": "Graduate Student / Fulbright Scholar",
     "email": {"address":"cansuk", "domain": "live.unc.edu"},
     "phone": "(919) 966-7489",
