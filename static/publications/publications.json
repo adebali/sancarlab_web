@@ -1,5 +1,271 @@
 [
     {
+        "pmid": "",
+        "title": "Femtosecond Dynamics of DNA Photolyase: Energy Transfer of Antenna Initiation and Electron Transfer of Cofactor Reduction.",
+        "authors": [
+            {
+                "name": "Saxena C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+            {
+                "name": "Zhong DP",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2004",
+        "journal": "Journal of Physical Chemistry B",
+        "volume": "108",
+        "issue": "46",
+        "pages": "18026–18033",
+        "doi": "10.1021/jp048376c",
+        "sortpubdate": "2004/08/04 00:00"
+    },
+    {
+        "pmid": "",
+        "title": "Substrate and temperature dependence of DNA photolyase repair activity examined with ultrafast spectroscopy.",
+        "authors": [
+            {
+                "name": "Langenbacher T",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Zhao XD",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Bieser G",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Heelis PF",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+            {
+                "name": "Michel-Beyerle ME",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "1997",
+        "journal": "Journal of the American Chemical Society",
+        "volume": "119",
+        "issue": "43",
+        "pages": "10532–10536",
+        "doi": "10.1021/ja9721024",
+        "sortpubdate": "1997/10/29 00:00"
+    },
+    {
+        "pmid": "",
+        "title": "Laser Flash-Photolysis on an Intermediate in the Repair of Pyrimidine Dimers by DNA Photolyase.",
+        "authors": [
+            {
+                "name": "Kim ST",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Volt M",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Rousseau G",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Heelis PF",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+            {
+                "name": "Michel-Beyerle ME",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "1994",
+        "journal": "Journal of the American Chemical Society",
+        "volume": "116",
+        "issue": "7",
+        "pages": "3115–3116",
+        "doi": "10.1021/ja00086a048",
+        "sortpubdate": "1994/04/01 00:00"
+    },
+        {
+        "pmid": "",
+        "title": "Tryptophan Radical Formation in DNA Photolyase - Electron-Spin Polarization Arising from Photoexcitation of a Doublet Ground-State.",
+        "authors": [
+            {
+                "name": "Essenmacher C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Kim ST",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Atamian M",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Babcock GT",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "1993",
+        "journal": "Journal of the American Chemical Society",
+        "volume": "115",
+        "issue": "4",
+        "pages": "1602–1603",
+        "doi": "10.1021/ja00057a070",
+        "sortpubdate": "1993/02/01 00:00"
+    },
+  {
+        "pmid": "",
+        "title": "Evidence from Photoinduced Epr for a Radical Intermediate during Photolysis of Cyclobutane Thymine Dimer by DNA Photolyase.",
+        "authors": [
+            {
+                "name": "Kim ST",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+            {
+                "name": "Essenmacher C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Babcock GT",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+        ],
+        "pubYear": "1992",
+        "journal": "Journal of the American Chemical Society",
+        "volume": "114",
+        "issue": "11",
+        "pages": "4442–4443",
+        "doi": "10.1021/ja00037a084",
+        "sortpubdate": "1992/05/01 00:00"
+    }, 
+    {
+        "pmid": "",
+        "title": "Picosecond Laser Photolysis Studies on the Photorepair of Pyrimidine Dimers by DNA Photolyase. 1. Laser Photolysis of Photolyase-2-Deoxyuridine Dinucleotide Photodimer Complex.",
+        "authors": [
+            {
+                "name": "Okamura T",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+            {
+                "name": "Heelis PF",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Begley TP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hirata Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Mataga N",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+        ],
+        "pubYear": "1991",
+        "journal": "Journal of the American Chemical Society",
+        "volume": "113",
+        "issue": "8",
+        "pages": "3143–3145",
+        "doi": "10.1021/ja00008a050",
+        "sortpubdate": "1991/04/01 00:00"
+    },
+  {
+        "pmid": "",
+        "title": "Doublet Quartet Intersystem Crossing of Flavin Radical in DNA Photolyase.",
+        "authors": [
+            {
+                "name": "Okamura T",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+            {
+                "name": "Heelis PF",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hirata Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Mataga N",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+        ],
+        "pubYear": "1989",
+        "journal": "Journal of the American Chemical Society",
+        "volume": "111",
+        "issue": "15",
+        "pages": "5967–5969",
+        "doi": "10.1021/ja00197a082",
+        "sortpubdate": "1989/07/01 00:00"
+    },
+  {
         "pmid": "33384351",
         "title": "Clocks, cancer, and chronochemotherapy.",
         "authors": [
