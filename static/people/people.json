@@ -43,6 +43,17 @@
     "web": "",
     "status": "current"
   },
+   {
+    "lastname": "Gulec",
+    "firstname": "Saygin",
+    "degree": "",
+    "img": "person.png",
+    "title": "Undergraduate Student",
+    "email": {"address":"sayging", "domain":"live.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "status": "current"
+  },
   {
     "lastname": "Zhang",
     "firstname": "Samuel",
@@ -342,6 +353,21 @@
     ],
     "status": "current"
   },
+   {
+    "lastname": "Kose",
+    "firstname": "Cansu",
+    "degree": "",
+    "img": "Cansu-Kose-square.jpeg",
+    "title": "Graduate Student / Fulbright Scholar",
+    "email": {"address":"cansuk", "domain": "live.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+      "DNA repair",
+      "DNA damage"
+    ],
+    "status": "current"
+  },
   {
     "lastname": "Wang",
     "firstname": "Xuefeng",
@@ -361,7 +387,7 @@
     "firstname": "Yanyan",
     "degree": "PhD",
     "img": "yang.png",
-    "title": "Postdoctoral Fellow",
+    "title": "Research Associate",
     "email": {"address":"Yanyan_Yang", "domain": "med.unc.edu"},
     "phone": "(919) 966-7489",
     "web": "",
