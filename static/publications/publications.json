@@ -12,7 +12,7 @@
                 "name": "Sancar A",
                 "authtype": "Author",
                 "clusterid": ""
-            }
+            },
             {
                 "name": "Zhong DP",
                 "authtype": "Author",
@@ -55,7 +55,7 @@
                 "name": "Sancar A",
                 "authtype": "Author",
                 "clusterid": ""
-            }
+            },
             {
                 "name": "Michel-Beyerle ME",
                 "authtype": "Author",
@@ -174,7 +174,7 @@
                 "name": "Babcock GT",
                 "authtype": "Author",
                 "clusterid": ""
-            },
+            }
         ],
         "pubYear": "1992",
         "journal": "Journal of the American Chemical Society",
