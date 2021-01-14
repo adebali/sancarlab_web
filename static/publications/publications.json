@@ -1,38 +1,5 @@
 [
     {
-        "pmid": "",
-        "title": "Evidence from Photoinduced Epr for a Radical Intermediate during Photolysis of Cyclobutane Thymine Dimer by DNA Photolyase.",
-        "authors": [
-            {
-                "name": "Kim ST",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Sancar A",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Essenmacher C",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Babcock GT",
-                "authtype": "Author",
-                "clusterid": ""
-            }
-        ],
-        "pubYear": "1992",
-        "journal": "Journal of the American Chemical Society",
-        "volume": "114",
-        "issue": "11",
-        "pages": "4442–4443",
-        "doi": "10.1021/ja00037a084",
-        "sortpubdate": "1992/05/01 00:00"
-    }, 
-    {
         "pmid": "33443219",
         "title": "Molecular mechanism of the repressive phase of the mammalian circadian clock.",
         "authors": [
@@ -10856,6 +10823,39 @@
         "pages": "227-30",
         "sortpubdate": "1992/06/01 00:00"
     },
+    {
+        "pmid": "",
+        "title": "Evidence from Photoinduced Epr for a Radical Intermediate during Photolysis of Cyclobutane Thymine Dimer by DNA Photolyase.",
+        "authors": [
+            {
+                "name": "Kim ST",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Essenmacher C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Babcock GT",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "1992",
+        "journal": "Journal of the American Chemical Society",
+        "volume": "114",
+        "issue": "11",
+        "pages": "4442–4443",
+        "doi": "10.1021/ja00037a084",
+        "sortpubdate": "1992/05/01 00:00"
+    }, 
     {
         "pmid": "1314396",
         "title": "Human nucleotide excision nuclease removes thymine dimers from DNA by incising the 22nd phosphodiester bond 5' and the 6th phosphodiester bond 3' to the photodimer.",
