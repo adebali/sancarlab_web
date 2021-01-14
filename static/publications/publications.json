@@ -1,5 +1,38 @@
 [
     {
+        "pmid": "",
+        "title": "Evidence from Photoinduced Epr for a Radical Intermediate during Photolysis of Cyclobutane Thymine Dimer by DNA Photolyase.",
+        "authors": [
+            {
+                "name": "Kim ST",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Essenmacher C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Babcock GT",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "1992",
+        "journal": "Journal of the American Chemical Society",
+        "volume": "114",
+        "issue": "11",
+        "pages": "4442–4443",
+        "doi": "10.1021/ja00037a084",
+        "sortpubdate": "1992/05/01 00:00"
+    }, 
+    {
         "pmid": "33443219",
         "title": "Molecular mechanism of the repressive phase of the mammalian circadian clock.",
         "authors": [
@@ -36,78 +69,25 @@
         "pages": "e2021174118",
         "doi": "10.1073/pnas.2021174118",
         "sortpubdate": "2021/01/12 00:00"
-    },
-    {
-        "pmid": "",
-        "title": "Tryptophan Radical Formation in DNA Photolyase - Electron-Spin Polarization Arising from Photoexcitation of a Doublet Ground-State.",
+  },
+  {
+        "pmid": "33410410",
+        "title": "My 100th JBC paper.",
         "authors": [
-            {
-                "name": "Essenmacher C",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Kim ST",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Atamian M",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Babcock GT",
-                "authtype": "Author",
-                "clusterid": ""
-            },
             {
                 "name": "Sancar A",
                 "authtype": "Author",
                 "clusterid": ""
             }
         ],
-        "pubYear": "1993",
-        "journal": "Journal of the American Chemical Society",
-        "volume": "115",
-        "issue": "4",
-        "pages": "1602–1603",
-        "doi": "10.1021/ja00057a070",
-        "sortpubdate": "1993/02/01 00:00"
+        "pubYear": "2021",
+        "journal": "The Journal of biological chemistry",
+        "volume": "296",
+        "issue": "2021",
+        "pages": "100061",
+        "doi": "10.1016/j.jbc.2020.100061",
+        "sortpubdate": "2021/01/04 00:00"
     },
-    {
-        "pmid": "",
-        "title": "Evidence from Photoinduced Epr for a Radical Intermediate during Photolysis of Cyclobutane Thymine Dimer by DNA Photolyase.",
-        "authors": [
-            {
-                "name": "Kim ST",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Sancar A",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Essenmacher C",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Babcock GT",
-                "authtype": "Author",
-                "clusterid": ""
-            }
-        ],
-        "pubYear": "1992",
-        "journal": "Journal of the American Chemical Society",
-        "volume": "114",
-        "issue": "11",
-        "pages": "4442–4443",
-        "doi": "10.1021/ja00037a084",
-        "sortpubdate": "1992/05/01 00:00"
-    }, 
     {
         "pmid": "",
         "title": "Picosecond Laser Photolysis Studies on the Photorepair of Pyrimidine Dimers by DNA Photolyase. 1. Laser Photolysis of Photolyase-2-Deoxyuridine Dinucleotide Photodimer Complex.",
@@ -10508,6 +10488,44 @@
         "issue": "3",
         "pages": "219-28",
         "sortpubdate": "1993/03/01 00:00"
+    },
+    {
+        "pmid": "",
+        "title": "Tryptophan Radical Formation in DNA Photolyase - Electron-Spin Polarization Arising from Photoexcitation of a Doublet Ground-State.",
+        "authors": [
+            {
+                "name": "Essenmacher C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Kim ST",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Atamian M",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Babcock GT",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "1993",
+        "journal": "Journal of the American Chemical Society",
+        "volume": "115",
+        "issue": "4",
+        "pages": "1602–1603",
+        "doi": "10.1021/ja00057a070",
+        "sortpubdate": "1993/02/01 00:00"
     },
     {
         "pmid": "8420966",
