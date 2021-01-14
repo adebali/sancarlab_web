@@ -1,25 +1,25 @@
 [
     {
-        "pmid": "",
-        "title": "Laser Flash-Photolysis on an Intermediate in the Repair of Pyrimidine Dimers by DNA Photolyase.",
+        "pmid": "33443219",
+        "title": "Molecular mechanism of the repressive phase of the mammalian circadian clock.",
         "authors": [
             {
-                "name": "Kim ST",
+                "name": "Cao X",
                 "authtype": "Author",
                 "clusterid": ""
             },
             {
-                "name": "Volt M",
+                "name": "Yang Y",
                 "authtype": "Author",
                 "clusterid": ""
             },
             {
-                "name": "Rousseau G",
+                "name": "Selby CP",
                 "authtype": "Author",
                 "clusterid": ""
             },
             {
-                "name": "Heelis PF",
+                "name": "Liu Z",
                 "authtype": "Author",
                 "clusterid": ""
             },
@@ -27,20 +27,15 @@
                 "name": "Sancar A",
                 "authtype": "Author",
                 "clusterid": ""
-            },
-            {
-                "name": "Michel-Beyerle ME",
-                "authtype": "Author",
-                "clusterid": ""
             }
         ],
-        "pubYear": "1994",
-        "journal": "Journal of the American Chemical Society",
-        "volume": "116",
-        "issue": "7",
-        "pages": "3115–3116",
-        "doi": "10.1021/ja00086a048",
-        "sortpubdate": "1994/04/01 00:00"
+        "pubYear": "2021",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "volume": "118",
+        "issue": "2",
+        "pages": "e2021174118",
+        "doi": "10.1073/pnas.2021174118",
+        "sortpubdate": "2021/01/12 00:00"
     },
     {
         "pmid": "",
@@ -10008,6 +10003,49 @@
         "issue": "1",
         "pages": "9-12",
         "sortpubdate": "1994/04/08 00:00"
+    },
+    {
+        "pmid": "",
+        "title": "Laser Flash-Photolysis on an Intermediate in the Repair of Pyrimidine Dimers by DNA Photolyase.",
+        "authors": [
+            {
+                "name": "Kim ST",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Volt M",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Rousseau G",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Heelis PF",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Michel-Beyerle ME",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "1994",
+        "journal": "Journal of the American Chemical Society",
+        "volume": "116",
+        "issue": "7",
+        "pages": "3115–3116",
+        "doi": "10.1021/ja00086a048",
+        "sortpubdate": "1994/04/01 00:00"
     },
     {
         "pmid": "8132580",
