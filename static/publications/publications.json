@@ -38,44 +38,6 @@
         "sortpubdate": "2021/01/12 00:00"
     },
     {
-        "pmid": "",
-        "title": "Doublet Quartet Intersystem Crossing of Flavin Radical in DNA Photolyase.",
-        "authors": [
-            {
-                "name": "Okamura T",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Sancar A",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Heelis PF",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Hirata Y",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Mataga N",
-                "authtype": "Author",
-                "clusterid": ""
-            }
-        ],
-        "pubYear": "1989",
-        "journal": "Journal of the American Chemical Society",
-        "volume": "111",
-        "issue": "15",
-        "pages": "5967–5969",
-        "doi": "10.1021/ja00197a082",
-        "sortpubdate": "1989/07/01 00:00"
-    },
-    {
         "pmid": "33384351",
         "title": "Clocks, cancer, and chronochemotherapy.",
         "authors": [
@@ -11925,6 +11887,44 @@
         "volume": "86",
         "issue": "14",
         "pages": "5237-41",
+        "sortpubdate": "1989/07/01 00:00"
+    },
+    {
+        "pmid": "",
+        "title": "Doublet Quartet Intersystem Crossing of Flavin Radical in DNA Photolyase.",
+        "authors": [
+            {
+                "name": "Okamura T",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Heelis PF",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hirata Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Mataga N",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "1989",
+        "journal": "Journal of the American Chemical Society",
+        "volume": "111",
+        "issue": "15",
+        "pages": "5967–5969",
+        "doi": "10.1021/ja00197a082",
         "sortpubdate": "1989/07/01 00:00"
     },
     {
