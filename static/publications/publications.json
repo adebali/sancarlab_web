@@ -39,49 +39,6 @@
     },
     {
         "pmid": "",
-        "title": "Picosecond Laser Photolysis Studies on the Photorepair of Pyrimidine Dimers by DNA Photolyase. 1. Laser Photolysis of Photolyase-2-Deoxyuridine Dinucleotide Photodimer Complex.",
-        "authors": [
-            {
-                "name": "Okamura T",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Sancar A",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Heelis PF",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Begley TP",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Hirata Y",
-                "authtype": "Author",
-                "clusterid": ""
-            },
-            {
-                "name": "Mataga N",
-                "authtype": "Author",
-                "clusterid": ""
-            }
-        ],
-        "pubYear": "1991",
-        "journal": "Journal of the American Chemical Society",
-        "volume": "113",
-        "issue": "8",
-        "pages": "3143–3145",
-        "doi": "10.1021/ja00008a050",
-        "sortpubdate": "1991/04/01 00:00"
-    },
-    {
-        "pmid": "",
         "title": "Doublet Quartet Intersystem Crossing of Flavin Radical in DNA Photolyase.",
         "authors": [
             {
@@ -11367,6 +11324,49 @@
         "issue": "11",
         "pages": "7101-7",
         "sortpubdate": "1991/04/15 00:00"
+    },
+    {
+        "pmid": "",
+        "title": "Picosecond Laser Photolysis Studies on the Photorepair of Pyrimidine Dimers by DNA Photolyase. 1. Laser Photolysis of Photolyase-2-Deoxyuridine Dinucleotide Photodimer Complex.",
+        "authors": [
+            {
+                "name": "Okamura T",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Heelis PF",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Begley TP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hirata Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Mataga N",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "1991",
+        "journal": "Journal of the American Chemical Society",
+        "volume": "113",
+        "issue": "8",
+        "pages": "3143–3145",
+        "doi": "10.1021/ja00008a050",
+        "sortpubdate": "1991/04/01 00:00"
     },
     {
         "pmid": "2011535",
