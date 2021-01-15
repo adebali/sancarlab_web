@@ -31,3 +31,5 @@
 2016 North Carolina Award - the highest civilian honor given by the state
 
 2016 National Academy of Medicine
+
+2019 Hyman L. Battle Distinguished Cancer Research Award
