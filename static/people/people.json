@@ -47,11 +47,12 @@
     "lastname": "Gulec",
     "firstname": "Saygin",
     "degree": "",
-    "img": "person.png",
+    "img": "saygin.jpg",
     "title": "Undergraduate Student",
     "email": {"address":"sayging", "domain":"live.unc.edu"},
     "phone": "(919) 966-7489",
     "web": "",
+    "linkedin": "saygin-gulec"
     "status": "current"
   },
   {
