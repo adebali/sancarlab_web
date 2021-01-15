@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9f3d261-5523-4053-87e5-b9830550f4c4/deploy-status)](https://app.netlify.com/sites/sancarlab/deploys)
+
 # Sancar Lab
 
 > Nuxt.js project
