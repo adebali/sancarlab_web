@@ -588,8 +588,8 @@
     "pages": "",
     "doi": "10.1074/jbc.RA119.009579",
     "sortpubdate": "2019/06/19 00:00"
-  },
-  {
+    },
+    {
     "pmid": "31142791",
     "title": "Mechanistic Study of TTF-1 Modulation of Cellular Sensitivity to Cisplatin.",
     "authors": [
@@ -10803,8 +10803,8 @@
         "issue": "3",
         "pages": "227-30",
         "sortpubdate": "1992/06/01 00:00"
-    },
-    {
+  },
+  {
         "pmid": "",
         "title": "Evidence from Photoinduced Epr for a Radical Intermediate during Photolysis of Cyclobutane Thymine Dimer by DNA Photolyase.",
         "authors": [
@@ -10836,7 +10836,7 @@
         "pages": "4442–4443",
         "doi": "10.1021/ja00037a084",
         "sortpubdate": "1992/05/01 00:00"
-    }, 
+    },
     {
         "pmid": "1314396",
         "title": "Human nucleotide excision nuclease removes thymine dimers from DNA by incising the 22nd phosphodiester bond 5' and the 6th phosphodiester bond 3' to the photodimer.",
