@@ -588,8 +588,8 @@
     "pages": "",
     "doi": "10.1074/jbc.RA119.009579",
     "sortpubdate": "2019/06/19 00:00"
-    },
-    {
+  },
+  {
     "pmid": "31142791",
     "title": "Mechanistic Study of TTF-1 Modulation of Cellular Sensitivity to Cisplatin.",
     "authors": [
@@ -10803,8 +10803,8 @@
         "issue": "3",
         "pages": "227-30",
         "sortpubdate": "1992/06/01 00:00"
-  },
-  {
+    },
+    {
         "pmid": "",
         "title": "Evidence from Photoinduced Epr for a Radical Intermediate during Photolysis of Cyclobutane Thymine Dimer by DNA Photolyase.",
         "authors": [
