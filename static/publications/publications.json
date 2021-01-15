@@ -36,24 +36,6 @@
         "pages": "e2021174118",
         "doi": "10.1073/pnas.2021174118",
         "sortpubdate": "2021/01/12 00:00"
-  },
-  {
-        "pmid": "33410410",
-        "title": "My 100th JBC paper.",
-        "authors": [
-            {
-                "name": "Sancar A",
-                "authtype": "Author",
-                "clusterid": ""
-            }
-        ],
-        "pubYear": "2021",
-        "journal": "The Journal of biological chemistry",
-        "volume": "296",
-        "issue": "2021",
-        "pages": "100061",
-        "doi": "10.1016/j.jbc.2020.100061",
-        "sortpubdate": "2021/01/04 00:00"
     },
     {
         "pmid": "",
@@ -135,6 +117,24 @@
         "pages": "5967–5969",
         "doi": "10.1021/ja00197a082",
         "sortpubdate": "1989/07/01 00:00"
+    },
+    {
+        "pmid": "33410410",
+        "title": "My 100th JBC paper.",
+        "authors": [
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2021",
+        "journal": "The Journal of biological chemistry",
+        "volume": "296",
+        "issue": "",
+        "pages": "100061",
+        "doi": "10.1016/j.jbc.2020.100061",
+        "sortpubdate": "2021/01/04 00:00"
     },
     {
         "pmid": "33384351",
@@ -475,7 +475,6 @@
         "doi": "10.1074/jbc.RA120.013347",
         "sortpubdate": "2020/05/29 00:00"
     },
-
     {
         "pmid": "32083352",
         "title": "Methodologies for detecting environmentally induced DNA damage and repair.",
@@ -817,7 +816,7 @@
     "pages": "210-217",
     "doi": "10.1074/jbc.RA118.006121",
     "sortpubdate": "2019/01/04 00:00"
-},
+  },
   {
     "pmid": "30264181",
     "title": "Comparative properties and functions of type 2 and type 4 pigeon cryptochromes.",
