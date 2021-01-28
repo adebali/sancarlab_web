@@ -1,5 +1,103 @@
 [
     {
+        "pmid": "33491228",
+        "title": "CRYPTOCHROMES confer robustness, not rhythmicity, to circadian timekeeping.",
+        "authors": [
+            {
+                "name": "Putker M",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Wong CSD",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Seinkmane E",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Rzechorzek NM",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Zeng A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Hoyle NP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Chesham JE",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Edwards MD",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Feeney KA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Fischer R",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Peschel N",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Chen K-F",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Oever MV",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Edgar RS",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Selby CP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "O'Neill JS",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2021",
+        "journal": "EMBO Journal",
+        "volume": "",
+        "issue": "",
+        "pages": " e106745",
+        "doi": "10.15252/embj.2020106745",
+        "sortpubdate": "2021/01/25 00:00"
+    },
+    {
         "pmid": "33443219",
         "title": "Molecular mechanism of the repressive phase of the mammalian circadian clock.",
         "authors": [
