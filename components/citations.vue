@@ -57,9 +57,13 @@ export default {
   methods: {
     makeHtml: function (publicationObject) {
       let publicationLink = `https://www.ncbi.nlm.nih.gov/pubmed/${publicationObject.pmid}`
+      let openAccessLink = ``
       if (publicationObject.doi !== undefined) {
         let doiLink = `http://dx.doi.org/${publicationObject.doi}`
         publicationLink = doiLink
+      }
+      if (publicationObject.openAccess !== undefined) {
+        openAccessLink = `<br><b><a target="_blank" href=${publicationObject.openAccess}>Open access to the article</a></b><br />`
       }
       // let linkRoot = doiRoot
       let issueText
@@ -72,11 +76,13 @@ export default {
         ${this.computedAuthors(publicationObject.authors)}
         (${publicationObject.pubYear})<br /><b>
         <a target="_blank" href=${publicationLink}>${publicationObject.title}</a></b><br />
+        
         <i>
           ${publicationObject.journal}
         </i>
         <i>${publicationObject.volume}</i>${issueText}
         ${publicationObject.pages}
+        ${openAccessLink}
       </p>`
     },
     computedAuthors: function (authors) {
