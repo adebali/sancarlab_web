@@ -63,7 +63,7 @@ export default {
         publicationLink = doiLink
       }
       if (publicationObject.openAccess !== undefined) {
-        openAccessLink = `<br><b><a target="_blank" href=${publicationObject.openAccess}>Open access to the article</a></b><br />`
+        openAccessLink = `<br><b><a target="_blank" href=${publicationObject.openAccess}>Click here for open access!</a></b><br />`
       }
       // let linkRoot = doiRoot
       let issueText
