@@ -371,6 +371,21 @@
     "status": "current"
   },
   {
+    "lastname": "Kaanoglu",
+    "firstname": "Humeyra",
+    "degree": "",
+    "img": "Kaanoglu.jpg",
+    "title": "Graduate Student / Fulbright Scholar",
+    "email": {"address":"humeyra", "domain": "email.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+      "DNA repair",
+      "DNA damage"
+    ],
+    "status": "current"
+  },
+  {
     "lastname": "Wang",
     "firstname": "Xuefeng",
     "degree": "",
