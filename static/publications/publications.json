@@ -1,5 +1,28 @@
 [
     {
+        "pmid": "",
+        "title": "The Transcription-Repair Coupling Factor Mfd Prevents and Promotes Mutagenesis in a Context-dependent Manner.",
+        "authors": [
+            {
+                "name": "Lindsey-Boltz LA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2021",
+        "journal": "Frontiers in Molecular Biosciences",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3389/fmolb.2021.668290",
+        "sortpubdate": "2021/04/23 00:00"
+    },
+  {
         "pmid": "33771559",
         "title": "Super-hotspots and -coldspots in the repair of UV-induced DNA damage in the human genome.",
         "authors": [
