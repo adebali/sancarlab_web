@@ -1,4 +1,9 @@
+## 2020
 
+----------
+
+### [Aziz Sancar named recipient of 2019 Hyman L. Battle Distinguished Cancer Research Award](http://www.med.unc.edu/biochem/news/aziz-sancar-named-recipient-of-2019-hyman-l-battle-distinguished-cancer-research-award/)
+The Battle award was established in 2007 by the Battle Foundation of Rocky Mount to recognize exceptional cancer research at the University of North Carolina at Chapel Hill. 
 
 ## 2019
 
