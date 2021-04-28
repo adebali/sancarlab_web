@@ -5,8 +5,8 @@
 ### [Sancar Publishes 400th Scientific Paper](https://www.med.unc.edu/biochem/news/sancar-publishes-400th-scientific-paper/)
 Aziz Sancar publishes his 400th scientific paper in the Journal of Biological Chemistry. 
 
-### [Student Thesis Defense: Courtney Vaughn (Sancar lab)](https://www.med.unc.edu/biochem/event/student-thesis-defense-courtney-vaughn-sancar-lab/)
-Courtney Vaughn, graduate student Aziz Sancar Lab Defense title, “Exploring the role of DNA damage, nucleotide excision repair, and circadian rhythm on cellular response to platinums” Presented in partial satisfaction of the requirements for the degree of Doctor of Philosophy. She is a Genetics and Molecular Biology (GMB) Curriculum Student (M.D.,Ph.D. program).
+### [Student Thesis Defense: Courtney Vaughn](https://www.med.unc.edu/biochem/event/student-thesis-defense-courtney-vaughn-sancar-lab/)
+Courtney Vaughn, graduate student of Aziz Sancar, defense title “Exploring the role of DNA damage, nucleotide excision repair, and circadian rhythm on cellular response to platinums” presented in partial satisfaction of the requirements for the degree of Doctor of Philosophy.
 
 ## 2019
 
