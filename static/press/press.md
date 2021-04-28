@@ -17,6 +17,9 @@ The Battle award was established in 2007 by the Battle Foundation of Rocky Mount
 ### [Researchers clock DNA's recovery time after chemotherapy](http://news.unchealthcare.org/news/2019/july/researchers-clock-dnas-recovery-time-after-chemotherapy)
 The lab of Aziz Sancar, MD, PhD, published a paper in the Journal of Biological Chemistry that could inform the creation of 'chronochemotherapies' - strategies using chemo to treat cancer patients at particular times of day to maximize therapeutic benefit and minimize side effects.
 
+### [Sancar’s Replica Nobel Medal Now on Display at Wilson Library](https://www.med.unc.edu/biochem/news/sancars-replica-nobel-medal-now-on-display-at-wilson-library/)
+Aziz Sancar, MD, PhD, the winner of the 2015 Nobel Prize in Chemistry, and the Sarah Graham Kenan Professor of Biochemistry and Biophysics, gifted one of 3 replicas of the Nobel Prize medal UNC. It is now on display in the newly installed numismatics exhibit at the Wilson Special Collections Library.
+
 
 ## 2018
 
