@@ -2,12 +2,17 @@
 
 ----------
 
-### [Aziz Sancar named recipient of 2019 Hyman L. Battle Distinguished Cancer Research Award](http://www.med.unc.edu/biochem/news/aziz-sancar-named-recipient-of-2019-hyman-l-battle-distinguished-cancer-research-award/)
-The Battle award was established in 2007 by the Battle Foundation of Rocky Mount to recognize exceptional cancer research at the University of North Carolina at Chapel Hill. 
+### [Sancar Publishes 400th Scientific Paper](https://www.med.unc.edu/biochem/news/sancar-publishes-400th-scientific-paper/)
+Aziz Sancar publishes his 400th scientific paper in the Journal of Biological Chemistry. 
+
+### [Student Thesis Defense: Courtney Vaughn (Sancar lab)](https://www.med.unc.edu/biochem/event/student-thesis-defense-courtney-vaughn-sancar-lab/)
+Courtney Vaughn, graduate student Aziz Sancar Lab Defense title, “Exploring the role of DNA damage, nucleotide excision repair, and circadian rhythm on cellular response to platinums” Presented in partial satisfaction of the requirements for the degree of Doctor of Philosophy. She is a Genetics and Molecular Biology (GMB) Curriculum Student (M.D.,Ph.D. program).
 
 ## 2019
 
 ----------
+### [Aziz Sancar named recipient of 2019 Hyman L. Battle Distinguished Cancer Research Award](http://www.med.unc.edu/biochem/news/aziz-sancar-named-recipient-of-2019-hyman-l-battle-distinguished-cancer-research-award/)
+The Battle award was established in 2007 by the Battle Foundation of Rocky Mount to recognize exceptional cancer research at the University of North Carolina at Chapel Hill. 
 
 ### [Researchers clock DNA's recovery time after chemotherapy](http://news.unchealthcare.org/news/2019/july/researchers-clock-dnas-recovery-time-after-chemotherapy)
 The lab of Aziz Sancar, MD, PhD, published a paper in the Journal of Biological Chemistry that could inform the creation of 'chronochemotherapies' - strategies using chemo to treat cancer patients at particular times of day to maximize therapeutic benefit and minimize side effects.
@@ -17,6 +22,12 @@ The lab of Aziz Sancar, MD, PhD, published a paper in the Journal of Biological 
 
 
 ----------
+
+### [Nobel Laureate: Aziz Sancar, M.D., Ph.D. featured in Carolina Stories](https://www.med.unc.edu/biochem/news/nobel-laureate-aziz-sancar-carolina-stories/)
+The prize honors Sancar’s work mapping the cellular mechanisms that underlie DNA repair, which occurs every minute due to environmental factors. He credited his success to his many collaborators, and to UNC’s supportive environment.
+
+### [Aziz Sancar breaks ground for the Sancar Turkish Cultural and Community Center](https://www.med.unc.edu/biochem/news/aziz-sancar-breaks-ground-for-the-sancar-turkish-cultural-and-community-center/)
+University officials joined dignitaries from Turkey and Chapel Hill town representatives Aug. 30 to celebrate the groundbreaking for the Sancar Turkish Cultural and Community Center, named for Carolina’s Nobel Prize winner Aziz Sancar and his wife, Gwen.
 
 ### [Li, postdoctoral fellow in Sancar lab, receives 2018 EMGS and PARE Awards](http://news.unchealthcare.org/som-vital-signs/2018/nov-9/wentao-li-phd-postdoctoral-fellow-in-sancar-lab-receives-2018-emgs-and-pare-awards?utm_source=vs-email&utm_medium=email&utm_campaign=45)
 Wentao Li, PhD, a postdoctoral fellow in the lab of Dr. Aziz Sancar, has received the 2018 Environmental Mutagenesis & Genomics Society (EMGS) New Investigator Travel Award & 2018 Postdoctoral Award for Research Excellence (PARE) from UNC Office of Postdoctoral Affairs.
