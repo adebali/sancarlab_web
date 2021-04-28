@@ -11,6 +11,9 @@ Congratulations to Dr. Wentao Li, postdoctoral research associate in the Sancar 
 ### [Student Thesis Defense: Courtney Vaughn](https://www.med.unc.edu/biochem/event/student-thesis-defense-courtney-vaughn-sancar-lab/)
 Courtney Vaughn, graduate student of Aziz Sancar, defense title “Exploring the role of DNA damage, nucleotide excision repair, and circadian rhythm on cellular response to platinums” presented in partial satisfaction of the requirements for the degree of Doctor of Philosophy.
 
+### [Our Department ranks fourth among all Biochemistry departments in the US in 2020.](https://www.med.unc.edu/biochem/news/we-rank-4th-nationally-in-nih-funding-in-2020/)
+We received over $20.6 million in funding from the National Institutes of Health (NIH) in 2020. Of note, seven of our faculty (Ronald Swanstrom, Dale A. Ramsden, Bill F. Marzluff, Jean G. Cook, Aziz Sancar, Brian A. Kuhlman, and Wolfgang Bergmeier) ranked in the top 124 of most highly funded NIH investigators in 2020 for Biochemistry.
+
 ## 2019
 
 ----------
