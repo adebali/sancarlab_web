@@ -5,6 +5,9 @@
 ### [Sancar Publishes 400th Scientific Paper](https://www.med.unc.edu/biochem/news/sancar-publishes-400th-scientific-paper/)
 Aziz Sancar publishes his 400th scientific paper in the Journal of Biological Chemistry. 
 
+### [Wentao Li accepts faculty position at University of Georgia](https://www.med.unc.edu/biochem/news/wentao-li-accepts-faculty-position-at-university-of-georgia/)
+Congratulations to Dr. Wentao Li, postdoctoral research associate in the Sancar lab, on his new Assistant Professor position with the Department of Environmental Health Science at University of Georgia. 
+
 ### [Student Thesis Defense: Courtney Vaughn](https://www.med.unc.edu/biochem/event/student-thesis-defense-courtney-vaughn-sancar-lab/)
 Courtney Vaughn, graduate student of Aziz Sancar, defense title “Exploring the role of DNA damage, nucleotide excision repair, and circadian rhythm on cellular response to platinums” presented in partial satisfaction of the requirements for the degree of Doctor of Philosophy.
 
@@ -20,6 +23,8 @@ The lab of Aziz Sancar, MD, PhD, published a paper in the Journal of Biological 
 ### [Sancar’s Replica Nobel Medal Now on Display at Wilson Library](https://www.med.unc.edu/biochem/news/sancars-replica-nobel-medal-now-on-display-at-wilson-library/)
 Aziz Sancar, MD, PhD, the winner of the 2015 Nobel Prize in Chemistry, and the Sarah Graham Kenan Professor of Biochemistry and Biophysics, gifted one of 3 replicas of the Nobel Prize medal UNC. It is now on display in the newly installed numismatics exhibit at the Wilson Special Collections Library.
 
+### [Wentao Li receives a K99/R00 Pathway to Independence Award](https://www.med.unc.edu/biochem/news/wentao-li-receives-a-k99-r00-pathway-to-independence-award/)
+Congratulations to Dr. Wentao Li, postdoctoral research associate in the Sancar lab who received a highly competitive K99 Pathway to Independence Award from NIH effective September 6, 2019.
 
 ## 2018
 
