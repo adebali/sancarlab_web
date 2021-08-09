@@ -48,7 +48,7 @@
         "journal": "The Journal of Biological Chemistry",
         "volume": "",
         "issue": "",
-        "pages": "101068",
+        "pages": ", 101068",
         "doi": "https://doi.org/10.1016/j.jbc.2021.101068",
         "sortpubdate": "2021/08/09 00:00"
     },
@@ -104,10 +104,10 @@
         ],
         "pubYear": "2021",
         "journal": "BMC Genomics",
-        "volume": "22",
+        "volume": "22 ",
         "issue": "1",
         "pages": "600",
-        "doi": "https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07898-3",
+        "doi": "https://doi.org/10.1186/s12864-021-07898-3",
         "sortpubdate": "2021/08/07 00:00"
     },
   {
