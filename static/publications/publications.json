@@ -1,7 +1,7 @@
 [
    {
         "pmid": "34525225",
-        "title": "Genome-wide Excision Repair Map of Cyclobutane Pyrimidine Dimers in Arabidopsis and the Roles of CSA1 and CSA2 Proteins in Transcription-Coupled Repair.",
+        "title": "Genome-wide Excision Repair Map of Cyclobutane Pyrimidine Dimers in <i>Arabidopsi</i>s and the Roles of CSA1 and CSA2 Proteins in Transcription-Coupled Repair.",
         "authors": [
             {
                 "name": "Kaya S",
@@ -25,7 +25,7 @@
             }
         ],
         "pubYear": "2021",
-        "journal": "Photochem Photobiol",
+        "journal": "Photochemistry and Photobiology",
         "volume": "",
         "issue": "",
         "pages": ", 101068",
@@ -81,7 +81,7 @@
         "journal": "The Journal of Biological Chemistry",
         "volume": "297",
         "issue": "3",
-        "pages": ", 101068",
+        "pages": " 101068",
         "doi": "https://doi.org/10.1016/j.jbc.2021.101068",
         "sortpubdate": "2021/08/09 00:00"
     },
@@ -303,7 +303,7 @@
         "journal": "EMBO Journal",
         "volume": "40",
         "issue": "7",
-        "pages": ", e106745",
+        "pages": " e106745",
         "doi": "10.15252/embj.2020106745",
         "sortpubdate": "2021/01/25 00:00"
     },
@@ -359,7 +359,7 @@
         "journal": "The Journal of Biological Chemistry",
         "volume": "296",
         "issue": "",
-        "pages": ", 100061",
+        "pages": " 100061",
         "doi": "10.1016/j.jbc.2020.100061",
         "sortpubdate": "2021/01/04 00:00"
     },
@@ -382,7 +382,7 @@
         "journal": "Science",
         "volume": "371",
         "issue": "6524",
-        "pages": "",
+        "pages": " eabb0738",
         "doi": "10.1126/science.abb0738",
         "sortpubdate": "2021/01/01 00:00",  
         "openAccess": "http://science.sciencemag.org/cgi/rapidpdf/371/6524/eabb0738?ijkey=3qBy2x.lPbhkA&keytype=ref&siteid=sci"
@@ -416,7 +416,7 @@
         "journal": "Frontiers in Neuroscience",
         "volume": "14",
         "issue": "",
-        "pages": "616802",
+        "pages": ", 616802",
         "doi": "10.3389/fnins.2020.616802",
         "sortpubdate": "2020/12/14 00:00"
     },
@@ -538,9 +538,9 @@
         ],
         "pubYear": "2020",
         "journal": "Briefings in Bioinformatics",
-        "volume": "",
-        "issue": "",
-        "pages": "",
+        "volume": "22",
+        "issue": "3",
+        "pages": " bbaa135",
         "doi": "10.1093/bib/bbaa135",
         "sortpubdate": "2020/07/16 00:00"
     },
@@ -626,9 +626,9 @@
         ],
         "pubYear": "2020",
         "journal": "The FEBS Journal",
-        "volume": "",
-        "issue": "",
-        "pages": "",
+        "volume": "288",
+        "issue": "2",
+        "pages": " 614-639",
         "doi": "10.1111/febs.15360",
         "sortpubdate": "2020/05/08 00:00"
     },
@@ -829,9 +829,9 @@
     ],
     "pubYear": "2019",
     "journal": "The Journal of biological chemistry",
-    "volume": "",
-    "issue": "",
-    "pages": "",
+    "volume": "294",
+    "issue": "32",
+    "pages": " 11960-11968",
     "doi": "10.1074/jbc.RA119.009579",
     "sortpubdate": "2019/06/19 00:00"
   },
@@ -862,7 +862,7 @@
     ],
     "pubYear": "2019",
     "journal": "Scientific reports",
-    "volume": "9",
+    "volume": "9 ",
     "issue": "1",
     "pages": "7990",
     "doi": "10.1038/s41598-019-44549-w",
@@ -909,10 +909,10 @@
           }
       ],
       "pubYear": "2019",
-      "journal": "The Journal of biological chemistry",
-      "volume": "",
-      "issue": "",
-      "pages": "",
+      "journal": "The Journal of Biological Chemistry",
+      "volume": "294 ",
+      "issue": "15",
+      "pages": " 5914-5922",
       "doi": "10.1074/jbc.RA119.007861",
       "sortpubdate": "2019/02/26 00:00"
   },
@@ -942,7 +942,7 @@
         }
     ],
     "pubYear": "2019",
-    "journal": "Nature communications",
+    "journal": "Nature Communications",
     "volume": "10",
     "issue": "1",
     "pages": "309",
@@ -990,7 +990,7 @@
         }
     ],
     "pubYear": "2019",
-    "journal": "Nature protocols",
+    "journal": "Nature Protocols",
     "volume": "14",
     "issue": "1",
     "pages": "248-282",
@@ -1038,7 +1038,7 @@
         }
     ],
     "pubYear": "2019",
-    "journal": "The Journal of biological chemistry",
+    "journal": "The Journal of Biological Chemistry",
     "volume": "294",
     "issue": "1",
     "pages": "210-217",
@@ -1091,10 +1091,10 @@
         }
     ],
     "pubYear": "2018",
-    "journal": "Cellular and molecular life sciences : CMLS",
-    "volume": "",
-    "issue": "",
-    "pages": "",
+    "journal": "Cellular and Molecular Life Sciences",
+    "volume": "75",
+    "issue": "24",
+    "pages": " 4629-4641",
     "doi": "10.1007/s00018-018-2920-y",
     "sortpubdate": "2018/09/27 00:00"
   },
@@ -1182,7 +1182,7 @@
         }
     ],
     "pubYear": "2018",
-    "journal": "Nature communications",
+    "journal": "Nature Communications",
     "volume": "9",
     "issue": "1",
     "pages": "1503",
@@ -1253,7 +1253,7 @@
         }
     ],
     "pubYear": "2018",
-    "journal": "The Journal of biological chemistry",
+    "journal": "The Journal of Biological Chemistry",
     "volume": "293",
     "issue": "7",
     "pages": "2476-2486",
@@ -1731,7 +1731,7 @@
         }
     ],
     "pubYear": "2017",
-    "journal": "Journal of biological rhythms",
+    "journal": "Journal of Biological Rhythms",
     "volume": "32",
     "issue": "5",
     "pages": "380-393",
@@ -1759,7 +1759,7 @@
         }
     ],
     "pubYear": "2017",
-    "journal": "The Journal of biological chemistry",
+    "journal": "The Journal of Biological Chemistry",
     "volume": "292",
     "issue": "45",
     "pages": "18386-18391",
@@ -1797,7 +1797,7 @@
         }
     ],
     "pubYear": "2017",
-    "journal": "The Journal of biological chemistry",
+    "journal": "The Journal of Biological Chemistry",
     "volume": "292",
     "issue": "38",
     "pages": "15588-15597",
@@ -1815,7 +1815,7 @@
             }
         ],
         "pubYear": "2017",
-        "journal": "Photochemistry and photobiology",
+        "journal": "Photochemistry and Photobiology",
         "volume": "93",
         "issue": "4",
         "pages": "1133-1134",
@@ -2024,7 +2024,7 @@
             }
         ],
         "pubYear": "2017",
-        "journal": "Cell metabolism",
+        "journal": "Cell Metabolism",
         "volume": "25",
         "issue": "4",
         "pages": "961-974.e4",
@@ -2080,7 +2080,7 @@
             }
         ],
         "pubYear": "2017",
-        "journal": "Science (New York, N.Y.)",
+        "journal": "Science",
         "volume": "355",
         "issue": "6326",
         "pages": "695",
@@ -2121,7 +2121,7 @@
             }
         ],
         "pubYear": "2017",
-        "journal": "Photochemistry and photobiology",
+        "journal": "Photochemistry and Photobiology",
         "volume": "93",
         "issue": "1",
         "pages": "4",
@@ -2139,7 +2139,7 @@
             }
         ],
         "pubYear": "2017",
-        "journal": "Photochemistry and photobiology",
+        "journal": "Photochemistry and Photobiology",
         "volume": "93",
         "issue": "1",
         "pages": "7-14",
@@ -2177,7 +2177,7 @@
             }
         ],
         "pubYear": "2016",
-        "journal": "Science (New York, N.Y.)",
+        "journal": "Science",
         "volume": "354",
         "issue": "6309",
         "pages": "209-213",
@@ -2341,7 +2341,7 @@
             }
         ],
         "pubYear": "2016",
-        "journal": "Nature communications",
+        "journal": "Nature Communications",
         "volume": "7",
         "issue": "",
         "pages": "12180",
