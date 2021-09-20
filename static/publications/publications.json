@@ -1,6 +1,39 @@
 [
    {
-        "pmid": "",
+        "pmid": "34525225",
+        "title": "Genome-wide Excision Repair Map of Cyclobutane Pyrimidine Dimers in Arabidopsis and the Roles of CSA1 and CSA2 Proteins in Transcription-Coupled Repair.",
+        "authors": [
+            {
+                "name": "Kaya S",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Adebali O",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Oztas O",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2021",
+        "journal": "Photochem Photobiol",
+        "volume": "",
+        "issue": "",
+        "pages": ", 101068",
+        "doi": "doi:10.1111/php.13519",
+        "sortpubdate": "2021/09/09 00:00"
+    },
+  {
+        "pmid": "34375638",
         "title": "Circadian clock, carcinogenesis, chronochemotherapy connections.",
         "authors": [
             {
@@ -46,8 +79,8 @@
         ],
         "pubYear": "2021",
         "journal": "The Journal of Biological Chemistry",
-        "volume": "",
-        "issue": "",
+        "volume": "297",
+        "issue": "3",
         "pages": ", 101068",
         "doi": "https://doi.org/10.1016/j.jbc.2021.101068",
         "sortpubdate": "2021/08/09 00:00"
@@ -111,7 +144,7 @@
         "sortpubdate": "2021/08/07 00:00"
     },
   {
-        "pmid": "",
+        "pmid": "34095223",
         "title": "The Transcription-Repair Coupling Factor Mfd Prevents and Promotes Mutagenesis in a Context-dependent Manner.",
         "authors": [
             {
@@ -127,9 +160,9 @@
         ],
         "pubYear": "2021",
         "journal": "Frontiers in Molecular Biosciences",
-        "volume": "",
+        "volume": "8",
         "issue": "",
-        "pages": "",
+        "pages": ", 668290",
         "doi": "10.3389/fmolb.2021.668290",
         "sortpubdate": "2021/04/23 00:00"
     },
@@ -170,9 +203,9 @@
         ],
         "pubYear": "2021",
         "journal": "The Journal of Biological Chemistry",
-        "volume": "",
+        "volume": "296",
         "issue": "",
-        "pages": "100581",
+        "pages": ", 100581",
         "doi": "10.1016/j.jbc.2021.100581",
         "sortpubdate": "2021/03/23 00:00"
     },
@@ -270,7 +303,7 @@
         "journal": "EMBO Journal",
         "volume": "40",
         "issue": "7",
-        "pages": " e106745",
+        "pages": ", e106745",
         "doi": "10.15252/embj.2020106745",
         "sortpubdate": "2021/01/25 00:00"
     },
@@ -308,7 +341,7 @@
         "journal": "Proceedings of the National Academy of Sciences of the United States of America",
         "volume": "118",
         "issue": "2",
-        "pages": "e2021174118",
+        "pages": ", e2021174118",
         "doi": "10.1073/pnas.2021174118",
         "sortpubdate": "2021/01/12 00:00"
     },
@@ -326,7 +359,7 @@
         "journal": "The Journal of Biological Chemistry",
         "volume": "296",
         "issue": "",
-        "pages": "100061",
+        "pages": ", 100061",
         "doi": "10.1016/j.jbc.2020.100061",
         "sortpubdate": "2021/01/04 00:00"
     },
