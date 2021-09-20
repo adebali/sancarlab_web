@@ -53,7 +53,7 @@
     "phone": "(919) 966-7489",
     "web": "",
     "linkedin": "saygin-gulec",
-    "status": "current"
+    "status": "past"
   },
   {
     "lastname": "Clabo",
@@ -111,8 +111,11 @@
       "DNA repair",
       "DNA damage",
       "Circadian Clock"
-    ],
-    "status": "current"
+    ],    
+    "status": "alumn",
+    "move": "Chongqing University",
+    "currentTitle": "Assistant Professor",
+    "farewellDate": 2021
   },
   {
     "lastname": "Bosch",
