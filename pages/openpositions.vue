@@ -2,6 +2,7 @@
   <div class="body">
     <div class="wrap text-justify content">
       <div class="center">
+      <img source="/img/AdobeStock_326951365.jpeg"></img>
       </div>
       <span class="markdown" v-html="htmlString"></span>
     </div>
