@@ -122,5 +122,6 @@ a {
 img {
   margin-top: 50px;
   margin-bottom: 50px;
+  width: 100%;
 }
 </style>
