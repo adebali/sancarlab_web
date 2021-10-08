@@ -2,7 +2,6 @@
   <div class="body">
     <div class="wrap text-justify content">
       <div class="center">
-        <img src="http://mappleadventure.com/wp-content/uploads/2017/03/Join-the-team.png"></img>
       </div>
       <span class="markdown" v-html="htmlString"></span>
     </div>
