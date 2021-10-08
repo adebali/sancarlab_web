@@ -15,7 +15,7 @@
     <div class="wrap text-center">
    <h2>Join Our Team! </h2>
     <p>
-      We are hiring! View open positions <nuxt-link to="/openpositions">here</nuxt-link>.
+      We are hiring! View open positions <nuxt-link to="//sancarlab.unc.edu/openpositions">here</nuxt-link>.
     </p>
     </div>
 
