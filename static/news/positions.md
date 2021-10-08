@@ -1,5 +1,5 @@
 
-
+![JOIN OUR TEAM](/img/AdobeStock_326951365.jpeg)
 
 
 __October, 2021__
