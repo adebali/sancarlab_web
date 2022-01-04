@@ -18,10 +18,10 @@
             <li><nuxt-link to="/research">Research</nuxt-link></li>
             <li><nuxt-link to="/people">People</nuxt-link></li>
             <li><nuxt-link to="/publications">Publications</nuxt-link></li>
-            <li><nuxt-link to="/honors">Honors</nuxt-link></li>
+            <!-- <li><nuxt-link to="/honors">Honors</nuxt-link></li> -->
             <li><a href="/honors">Honors</a></li>
-
-            <li><nuxt-link to="/press">Press</nuxt-link></li>
+            <li><a href="/press">Press</a></li>
+            <!-- <li><nuxt-link to="/press">Press</nuxt-link></li> -->
             <li><nuxt-link to="/contact">Contact</nuxt-link></li>
           </ul>
         </div>
