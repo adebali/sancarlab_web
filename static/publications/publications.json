@@ -452,8 +452,7 @@
         "issue": "6524",
         "pages": " eabb0738",
         "doi": "10.1126/science.abb0738",
-        "sortpubdate": "2021/01/01 00:00",  
-        "openAccess": "http://science.sciencemag.org/cgi/rapidpdf/371/6524/eabb0738?ijkey=3qBy2x.lPbhkA&keytype=ref&siteid=sci"
+        "sortpubdate": "2021/01/01 00:00"  
     },
     {
         "pmid": "33381013",
@@ -604,13 +603,13 @@
                 "clusterid": ""
             }
         ],
-        "pubYear": "2020",
+        "pubYear": "2021",
         "journal": "Briefings in Bioinformatics",
         "volume": "22 ",
         "issue": "3",
         "pages": " bbaa135",
         "doi": "10.1093/bib/bbaa135",
-        "sortpubdate": "2020/07/16 00:00"
+        "sortpubdate": "2021/05/16 00:00"
     },
     {
         "pmid": "32383312",
