@@ -1,3 +1,17 @@
+## 2022
+
+----------
+
+### [Student Thesis Defense: Nazli Deger](https://www.med.unc.edu/biochem/event/student-thesis-defense-nazli-deger-q-bio-sancar-lab/)
+Nazli Deger, graduate student of Aziz Sancar, defense title “Nucleotide Excision Repair Map of Drosophila At Single Nucleotide Resolution” presented in partial satisfaction of the requirements for the degree of Doctor of Philosophy.
+
+## 2021
+
+----------
+
+### [Aziz Sancar: Turkish Nobel laureate for science](https://www.dailysabah.com/arts/portrait/aziz-sancar-turkish-nobel-laureate-for-science)
+Turkish biochemist Aziz Sancar became the pride of Turkey after receiving the coveted Nobel Prize from Swedish King Carl XVI Gustaf in 2015 for his work on how cells repair damaged DNA.
+
 ## 2020
 
 ----------
