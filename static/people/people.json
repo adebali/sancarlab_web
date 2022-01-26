@@ -53,7 +53,10 @@
     "phone": "(919) 966-7489",
     "web": "",
     "linkedin": "saygin-gulec",
-    "status": "past"
+    "status": "alumn",
+    "currentTitle": "Graduate Student",
+    "move": "UNC Chapel Hill",
+    "farewellDate": 2021
   },
   {
     "lastname": "Clabo",
@@ -463,6 +466,20 @@
     "email": {"address":"nid1210", "domain":"email.unc.edu"},
     "phone": "(919) 966-7489",
     "web": "",
+    "research": [
+    ],
+    "status": "current"
+  },
+    {
+    "lastname": "Gülhan",
+    "firstname": "Ali",
+    "degree": "",
+    "img": "Gulhan.jpg",
+    "title": "Undergraduate Student",
+    "email": {"address":"ali.gulhan", "domain":"unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "linkedin": "aligulhan",
     "research": [
     ],
     "status": "current"
