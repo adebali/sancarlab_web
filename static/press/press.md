@@ -2,8 +2,6 @@
 
 ----------
 
-### [Student Thesis Defense: Nazli Deger](https://www.med.unc.edu/biochem/news/nazli-deger-fulbright-scholar-in-sancar-lab-earns-her-phd-in-quantitative-biology/)
-Nazli Deger, graduate student of Aziz Sancar, defense title “Nucleotide Excision Repair Map of Drosophila At Single Nucleotide Resolution” presented in partial satisfaction of the requirements for the degree of Doctor of Philosophy.
 
 ## 2021
 
