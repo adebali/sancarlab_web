@@ -1,5 +1,131 @@
 [
    {
+    "pmid": "35339490",
+    "title": "A new technique for genome-wide mapping of nucleotide excision repair without immunopurification of damaged DNA.",
+      "authors": [
+        {
+            "name": "Wu S",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Huang Y",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Selby CP",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Gao M",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+         {
+            "name": "Sancar A",
+            "authtype": "Author",
+            "clusterid": ""
+        },
+        {
+            "name": "Hu J",
+            "authtype": "Author",
+            "clusterid": ""
+        }
+    ],
+    "pubYear": "2022",
+    "journal": "The Journal of Biological Chemistry",
+    "volume": "298 ",
+    "issue": "5",
+    "pages": "101863",
+    "doi": "10.1016/j.jbc.2022.101863",
+    "sortpubdate": "2022/03/01 00:00"
+  },
+  {
+        "pmid": "35217627",
+        "title": "CSB-independent, XPC-dependent transcription-coupled repair in Drosophila.",
+        "authors": [
+            {
+                "name": "Deger N",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Cao X",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Selby CP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Gulec S",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Kawara H",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Dewey EB",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Wang L",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Yang Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Archibald S",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Selcuk B",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Adebali O",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Sekelsky J",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Liu Z",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2022",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "volume": "119 ",
+        "issue": "9",
+        "pages": " e2123163119",
+        "doi": "10.1073/pnas.2123163119",
+        "sortpubdate": "2022/03/01 00:00"
+    },
+  {
     "pmid": "34788860",
     "title": "Genome-wide analysis of 8-oxo-7,8-dihydro-2'-deoxyguanosine at single-nucleotide resolution unveils reduced occurrence of oxidative damage at G-quadruplex sites.",
       "authors": [
