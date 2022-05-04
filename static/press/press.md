@@ -1,7 +1,8 @@
 ## 2022
 
 ----------
-
+### [Student Thesis Defense: Nazli Deger](https://www.med.unc.edu/biochem/news/nazli-deger-fulbright-scholar-in-sancar-lab-earns-her-phd-in-quantitative-biology/)
+Nazli Deger successfully defended her dissertation under the direction of Dr. Aziz Sancar on January 12th, 2022 and she has received her PhD. The title of her dissertation is “Nucleotide Excision Repair Map of Drosophila Melanogaster at a Single Nucleotide Resolution”.
 
 ## 2021
 
@@ -16,6 +17,9 @@ Turkish biochemist Aziz Sancar became the pride of Turkey after receiving the co
 
 ### [Sancar Publishes 400th Scientific Paper](https://www.med.unc.edu/biochem/news/sancar-publishes-400th-scientific-paper/)
 Aziz Sancar publishes his 400th scientific paper in the Journal of Biological Chemistry. 
+
+### [Onur Oztas accepts faculty position at Koc University](https://www.med.unc.edu/biochem/news/congratulations-to-dr-onur-oztas-on-his-new-position-as-a-tenure-track-assistant-professorat-koc-university-the-molecular-biology-and-genetics-department/)
+Congratulations to Dr. Onur Oztas, postdoctoral research associate in the Sancar lab, on his new Assistant Professor position with the Molecular Biology & Genetics Department at Koc University in Turkey. 
 
 ### [Wentao Li accepts faculty position at University of Georgia](https://www.med.unc.edu/biochem/news/wentao-li-accepts-faculty-position-at-university-of-georgia/)
 Congratulations to Dr. Wentao Li, postdoctoral research associate in the Sancar lab, on his new Assistant Professor position with the Department of Environmental Health Science at University of Georgia. 
