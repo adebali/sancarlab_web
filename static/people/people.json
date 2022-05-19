@@ -334,7 +334,10 @@
       "DNA repair",
       "DNA damage"
     ],
-    "status": "current"
+    "status": "alumn",
+    "move": "University of North Carolina Chapel Hill",
+    "currentTitle": "Postdoctoral Fellow",
+    "farewellDate": 2022
   },
   {
     "lastname": "Kose",
@@ -385,7 +388,7 @@
     "firstname": "Yanyan",
     "degree": "PhD",
     "img": "yang.png",
-    "title": "Research Associate",
+    "title": "Research Assistant Professor",
     "email": {"address":"Yanyan_Yang", "domain": "med.unc.edu"},
     "phone": "(919) 966-7489",
     "web": "",
@@ -482,20 +485,21 @@
     "linkedin": "aligulhan",
     "research": [
     ],
-    "status": "current"
+    "status": "past"
   },
   {
-    "lastname": "Asgari",
-    "firstname": "Yashar",
+    "lastname": "Abdo",
+    "firstname": "Ashraf",
     "degree": "",
-    "img": "asgari.jpg",
-    "title": "Undergraduate Student",
-    "email": {"address":"yasgari", "domain":"email.unc.edu"},
+    "img": "Abdo Photo.jpeg",
+    "title": "Postdoctoral Fellow",
+    "email": {"address":"abdoa", "domain":"email.unc.edu"},
     "phone": "(919) 966-7489",
     "web": "",
     "research": [
-      "Repair Database"
+    "Circadian rhythm",
+      "DNA repair"
     ],
-    "status": "past"
+    "status": "current"
   }
 ]
