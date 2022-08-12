@@ -134,6 +134,8 @@ The new experimental assay can help scientists find the precise locations of rep
 Sixteen years after scientists found the genes that control the circadian clock in all cells, the lab of UNC’s Aziz Sancar, MD, PhD, discovered the mechanisms responsible for keeping the clock in sync.
 ### [Sancar lab manuscript selected as "Paper of the Week" by JBC](https://www.med.unc.edu/biochem/news/sancar-manuscript-selected-paper-of-the-week-by-jbc)
 The paper titled "Mechanism of Photosignaling by Drosophila Cryptochrome: Role of the Redox Status of the Flavin Chromophore" appears in the February 21, 2014 print edition of The Journal of Biological Chemistry.
+### [Student Thesis Defense: Yunus Annayev](https://www.med.unc.edu/biochem/news/yunus-annayev-receives-his-phd?utm_source=spring&utm_medium=email&utm_campaign=18)
+Yunus Annayev, under the direction of Dr. Aziz Sancar, successfully defended his dissertation and received his Ph.D. on April 17th, 2014! The title of his dissertation is “Characterization of New Mouse Circadian Clock Gene: GM129“.
 
 ## 2011
 
