@@ -1,5 +1,58 @@
 [
    {
+        "pmid": " ",
+        "title": "Nucleotide excision repair removes thymidine analog 5-ethynyl-2′-deoxyuridine from the mammalian genome.",
+        "authors": [
+            {
+                "name": "Wang L",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Cao X",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Yang Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Kose C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Kawara H",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Lindsey-Boltz LA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Selby CP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2022",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "volume": "119 ",
+        "issue": "35",
+        "pages": " e2210176119",
+        "doi": "10.1073/pnas.2210176119",
+        "sortpubdate": "2022/08/01 00:00"
+    },
+  {
     "pmid": "35339490",
     "title": "A new technique for genome-wide mapping of nucleotide excision repair without immunopurification of damaged DNA.",
       "authors": [
