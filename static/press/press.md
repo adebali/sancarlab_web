@@ -1,6 +1,9 @@
 ## 2022
 
 ----------
+### [Scientists Discover Surprise Anticancer Properties of Common Lab Molecule](https://news.unchealthcare.org/2022/08/scientists-discover-surprise-anticancer-properties-of-common-lab-molecule/)
+Experiments from the UNC School of Medicine lab of Nobel Prize-winning scientist Aziz Sancar, MD, PhD, show how a common molecular tool for DNA labeling also has anticancer properties worthy of further investigation, especially for brain cancers.
+
 ### [Student Thesis Defense: Nazli Deger](https://www.med.unc.edu/biochem/news/nazli-deger-fulbright-scholar-in-sancar-lab-earns-her-phd-in-quantitative-biology/)
 Nazli Deger successfully defended her dissertation under the direction of Dr. Aziz Sancar on January 12th, 2022 and she has received her PhD. The title of her dissertation is “Nucleotide Excision Repair Map of Drosophila Melanogaster at a Single Nucleotide Resolution”.
 
