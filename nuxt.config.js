@@ -17,12 +17,6 @@ module.exports = {
     // { src: '@/assets/css/app.css', lang: 'css' }
     // 'assets/css/bootstrap_dark.css'
   ],
-  loaders: [
-    {
-      test: /\.md$/,
-      loaders: ['html-loader', 'markdown-with-front-matter-loader']
-    }
-  ],
   plugins: [
     '~plugins/bootstrap.js',
     {src: '~plugins/slider.js', ssr: false},
@@ -80,7 +74,7 @@ module.exports = {
 
     },
     // vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'markdown-it', 'vue-content-loader'],
-    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'vue-slider-component', 'mini-toastr', 'vue-notifications', 'vue-no-ssr', 'markdown-it'],
+    vendor: ['axios', 'jquery', 'bootstrap', 'vue-lightbox', 'vue-tweet-embed', 'vue-slider-component', 'mini-toastr', 'vue-notifications', 'vue-no-ssr'],
     plugins: [
       new webpack.ProvidePlugin({
         $: 'jquery',
