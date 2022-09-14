@@ -9,48 +9,34 @@
     </div>
   </div>
       <div class="wrap align-middle text-center">
-        <span v-html="htmlString"></span>
+        <!-- <span v-html="htmlString"></span> -->
+
+        <div class="wrap">
+          <ul class="align-middle text-center">
+              <li>1969 MD, Summa Cum Laude (1st in class of 625)</li>
+              <li>1977 PhD, University of Texas at Dallas</li>
+              <li>1984 NSF Presidential Young Investigator Award</li>
+              <li>1995 NIH MERIT Award</li>
+              <li>2004 American Academy of Arts and Sciences</li>
+              <li>2005 National Academy of Sciences, USA</li>
+              <li>2006 Turkish Academy of Sciences</li>
+              <li>2007 Turkish Koç Award</li>
+              <li>2009 Univ. of Texas at Dallas Distinguished Alumni Award</li>
+              <li>2014 Distinguished Visiting Professor – Academia Sinica</li>
+              <li>2015 Nobel Prize in Chemistry</li>
+              <li>2016 TWESCO International Turkish Academy - Gold Medal at UN</li>
+              <li>2016 ASBMB American Society for Biochemistry & Molecular Biology - Bert and Natalie Vallee Award</li>
+              <li>2016 O. Max Gardner Award - highest honor by UNC Board of Governors</li>
+              <li>2016 Carnegie Corporation's Immigrant of the Year</li>
+              <li>2016 North Carolina Award - the highest civilian honor given by the state</li>
+              <li>2016 National Academy of Medicine</li>
+              <li>2019 Hyman L. Battle Distinguished Cancer Research Award</li>
+            </ul>
+        </div>
       </div>
-      <!-- <mymark /> -->
   </div>
 </template>
 
-<script>
-import axios from '~/plugins/axios'
-import MarkdownIt from 'markdown-it'
-// import mymark from '~/components/markdown.vue'
-
-let md = new MarkdownIt()
-
-let defaultRender = md.renderer.rules.link_open || function (tokens, idx, options, env, self) {
-  return self.renderToken(tokens, idx, options)
-}
-
-md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
-  var aIndex = tokens[idx].attrIndex('target')
-
-  if (aIndex < 0) {
-    tokens[idx].attrPush(['target', '_blank']) // add new attribute
-  } else {
-    tokens[idx].attrs[aIndex][1] = '_blank' // replace value of existing attr
-  }
-
-  // pass token to default renderer.
-  return defaultRender(tokens, idx, options, env, self)
-}
-
-export default {
-  components: {
-    // mymark
-  },
-  asyncData ({ req, params }) {
-    return axios.get('/honors/honors.md')
-      .then((res) => {
-        return { htmlString: md.render(res.data) }
-      })
-  }
-}
-</script>
 
 <style scoped>
 .container {
@@ -64,9 +50,9 @@ ul {
   padding: 0;
 }
 ul li {
-  border: 1px #ddd solid;
+  border: 0px #ddd solid;
   padding: 20px;
-  text-align: left;
+  text-align: center;
 }
 ul li a {
   color: gray;

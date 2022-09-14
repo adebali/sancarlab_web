@@ -1,54 +1,37 @@
 <template>
-  <div class="body">
-    <div class="wrap text-justify content">
-      <div class="center">
-      <!--
-      <img src="https://sancarlab.unc.edu/img/AdobeStock_326951365.jpeg"></img>
-      -->
+  <div>
+      <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="parallax text-center">
+        <h1 class="align-middle "><b>Open Positions</b></h1>
       </div>
-      <span class="markdown" v-html="htmlString"></span>
     </div>
-      <!-- <mymark /> -->
+  </div>
+      <div class="wrap align-middle text-center">
+        <!-- <span v-html="htmlString"></span> -->
+
+        <div class="wrap">
+
+
+<h2>October, 2021</h2>
+
+<p>
+  We are looking for <b>Postdoctoral Research Associates</b> for two positions.
+  
+  See the details below.
+  <ul>
+    <li><a href="https://unc.peopleadmin.com/postings/199851"> Position 1</a></li>
+    <li><a href="https://unc.peopleadmin.com/postings/199785"> Position 2</a></li>
+  </ul>
+  
+</p>
+
+
+        </div>
+      </div>
   </div>
 </template>
 
-<script>
-import axios from '~/plugins/axios'
-import MarkdownIt from 'markdown-it'
-
-// import mymark from '~/components/markdown.vue'
-
-let md = new MarkdownIt()
-
-let defaultRender = md.renderer.rules.link_open || function (tokens, idx, options, env, self) {
-  return self.renderToken(tokens, idx, options)
-}
-
-md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
-  var aIndex = tokens[idx].attrIndex('target')
-
-  if (aIndex < 0) {
-    tokens[idx].attrPush(['target', '_blank']) // add new attribute
-  } else {
-    tokens[idx].attrs[aIndex][1] = '_blank' // replace value of existing attr
-  }
-
-  // pass token to default renderer.
-  return defaultRender(tokens, idx, options, env, self)
-}
-
-export default {
-  components: {
-    // mymark
-  },
-  asyncData ({ req, params }) {
-    return axios.get('/news/positions.md')
-      .then((res) => {
-        return { htmlString: md.render(res.data) }
-      })
-  }
-}
-</script>
 
 <style scoped>
 .container {
@@ -62,12 +45,12 @@ ul {
   padding: 0;
 }
 ul li {
-  border: 1px #ddd solid;
-  padding: 20px;
-  text-align: left;
+  border: 2px #ddd solid;
+  padding: 0px;
+  text-align: center;
 }
 ul li a {
-  color: gray;
+  color: black;
 }
 p {
   font-size: 20px;
@@ -77,7 +60,7 @@ a {
 }
 
 .parallax {
-  background-image: url('http://www.newsobserver.com/news/local/education/ih5ot1/picture51568730/alternates/FREE_640/sancar%20receives%20award');
+  background-image: url('/img/AdobeStock_326951365.jpeg');
   text-align: center;
   background-position-y: -300px;
 
