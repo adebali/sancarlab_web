@@ -490,7 +490,7 @@
   {
     "lastname": "Abdo",
     "firstname": "Ashraf",
-    "degree": "",
+    "degree": "PhD",
     "img": "Abdo Photo.jpeg",
     "title": "Postdoctoral Fellow",
     "email": {"address":"abdoa", "domain":"email.unc.edu"},
@@ -499,6 +499,20 @@
     "research": [
     "Circadian rhythm",
       "DNA repair"
+    ],
+    "status": "current"
+  },
+  {
+    "lastname": "Putun",
+    "firstname": "Hidayet",
+    "degree": "",
+    "img": "Hidayet Putun.jpeg",
+    "title": "Technician",
+    "email": {"address":"putun", "domain":"email.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+    "Circadian rhythm"
     ],
     "status": "current"
   }
