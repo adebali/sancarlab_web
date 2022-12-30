@@ -412,7 +412,10 @@
     "research": [
       "Proteomics"
     ],
-    "status": "current"
+    "status": "alumn",
+            "move": "AstraZeneca",
+    "currentTitle": "Senior Proteomic Scientist",
+    "farewellDate": 2022
   },
   {
     "lastname": "Kawara",
@@ -428,7 +431,10 @@
       "DNA damage",
       "Circadian clock"
     ],
-    "status": "current"
+    "status": "alumn",
+        "move": "Pfizer Japan",
+    "currentTitle": "Senior Associate",
+    "farewellDate": 2022
   },
   {
     "lastname": "Yimit",
@@ -509,8 +515,22 @@
     "firstname": "Hidayet",
     "degree": "",
     "img": "Hidayet Putun.jpg",
-    "title": "Technician",
+    "title": "Visiting Scientist",
     "email": {"address":"putun", "domain":"email.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "research": [
+    "Circadian rhythm"
+    ],
+    "status": "current"
+  },
+  {
+    "lastname": "Akyel",
+    "firstname": "Yasemin",
+    "degree": "",
+    "img": "Yasemine.jpg",
+    "title": "Postdoctoral Fellow",
+    "email": {"address":"yasakyel", "domain":"email.unc.edu"},
     "phone": "(919) 966-7489",
     "web": "",
     "research": [
