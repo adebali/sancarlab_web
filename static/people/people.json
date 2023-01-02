@@ -394,6 +394,7 @@
     "email": {"address":"Yanyan_Yang", "domain": "med.unc.edu"},
     "phone": "(919) 966-7489",
     "web": "",
+    "linkedin": "yanyan-yang-857b6724a",
     "research": [
       "Circadian rhythm",
       "DNA repair"
@@ -533,8 +534,22 @@
     "email": {"address":"yasakyel", "domain":"email.unc.edu"},
     "phone": "(919) 966-7489",
     "web": "",
+    "linkedin": "yasemin-kübra-akyel-139092109",
     "research": [
     "Circadian rhythm"
+    ],
+    "status": "current"
+  },
+  {
+    "lastname": "Boltz",
+    "firstname": "Julia",
+    "degree": "",
+    "img": "Julia.jpg",
+    "title": "Undergraduate Student",
+    "email": {"address":"jlboltz", "domain":"unc.edu"},
+    "web": "",
+    "linkedin": "julia-boltz-254196203",
+    "research": ["DNA repair"
     ],
     "status": "current"
   }
