@@ -1,5 +1,58 @@
 [
-   {
+      {
+        "pmid": "36155646",
+        "title": "Effects of replication domains on genome-wide UV-induced DNA damage and repair.",
+        "authors": [
+            {
+                "name": "Huang Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Azgari C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Yin M",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Chiou Y-Y",
+                "authtype": "Author",
+                "clusterid": ""
+                     },
+          {
+                "name": "Lindsey-Boltz LA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                        "name": "Hu J",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                        "name": "Adebali O",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2022",
+        "journal": "PLoS Genetics",
+        "volume": "18 ",
+        "issue": "9",
+        "pages": " eCollection 2022 Sep",
+        "doi": "10.1371/journal.pgen.1010426",
+        "sortpubdate": "2022/09/01 00:00"
+    },
+  {
         "pmid": "35994676",
         "title": "Nucleotide excision repair removes thymidine analog 5-ethynyl-2′-deoxyuridine from the mammalian genome.",
         "authors": [
