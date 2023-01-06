@@ -517,11 +517,11 @@
     "degree": "",
     "img": "Hidayet Putun.jpg",
     "title": "Visiting Scientist",
-    "email": {"address":"putun", "domain":"email.unc.edu"},
+    "email": {"address":"hidayetp", "domain":"email.unc.edu"},
     "phone": "(919) 966-7489",
     "web": "",
     "research": [
-    "Circadian rhythm"
+    "DNA repair"
     ],
     "status": "current"
   },
