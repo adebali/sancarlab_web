@@ -544,11 +544,10 @@
     "lastname": "Boltz",
     "firstname": "Julia",
     "degree": "",
-    "img": "Julia.jpg",
+    "img": "JuliaCropped.jpg",
     "title": "Undergraduate Student",
     "email": {"address":"jlboltz", "domain":"unc.edu"},
     "web": "",
-    "linkedin": "julia-boltz-254196203",
     "research": ["DNA repair"
     ],
     "status": "current"
