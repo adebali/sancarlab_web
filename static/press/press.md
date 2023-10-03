@@ -1,10 +1,10 @@
 ## 2023
 
 ----------
-### [In UNC News: A sculpture on campus honors Dr. Aziz Sancar Nobel Award winning research](https://www.unc.edu/discover/drawn-to-explain-debuts-on-craige-deck/)]
+### [In UNC News: A sculpture on campus honors Dr. Aziz Sancar Nobel Award winning research](https://www.unc.edu/discover/drawn-to-explain-debuts-on-craige-deck/)
 The sculpture “Drawn to Explain” by international artist Amalia Pica is in tribute to the teaching on Carolina’s campus and features a diagram inspired by research that won Dr. Aziz Sancar the Nobel Prize.
 
-### [Congrats to Dr. Xuemei Cao who was promoted to Research Associate](https://www.med.unc.edu/biochem/news/congrats-to-dr-xuemei-cao-who-was-promoted-to-research-associate/)]
+### [Congrats to Dr. Xuemei Cao who was promoted to Research Associate](https://www.med.unc.edu/biochem/news/congrats-to-dr-xuemei-cao-who-was-promoted-to-research-associate/)
 Congratulations to Dr. Xuemei Cao on her promotion to Research Associate on Sep 18, 2023. Dr. Cao joined Professor Sancar’s lab as a postdoc in 2018. She received her Ph.D. degree from the China Agricultural University in Beijing, China. Since joining the Sancar lab, Dr. Cao started to work on the mechanism of the mammalian circadian clock and DNA repair. She found cryptochromes mediate recruitment of PER-CK1 complexes to CLOCK: BMAL1, resulting in CLOCK phosphorylation and release from DNA for two types of repression by CRYs and calculate the size of circadian clock complex. Her current project is to understand the genome-wide DNA repair in test tube in a vitro system which is essential for understanding DNA repair biological function.
 
 ### [Welcome Dr. Yasemin Kübra Akyel Visiting Scientist to the Sancar lab and our department](https://www.med.unc.edu/biochem/news/welcome-dr-yasemin-kubra-akyel-visiting-scientist-to-the-sancar-lab-and-our-department/)
