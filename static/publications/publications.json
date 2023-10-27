@@ -1,7 +1,40 @@
 [
-        {
+           {
+        "pmid": "37844222",
+        "title": "In vitro DNA repair genomics using XR-seq with Escherichia coli and mammalian cell-free extracts.",
+        "authors": [
+            {
+                "name": "Cao X",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Kose C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Selby CP",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2023",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "volume": "120 ",
+        "issue": "43",
+        "pages": "e2314233120 ",
+        "doi": "10.1073/pnas.2314233120",
+        "sortpubdate": "2023/10/19 00:00"
+    },
+  {
         "pmid": "37714462",
-        "title": "Preservation of circadianrhythm in hepatocellular cancer.",
+        "title": "Preservation of circadian rhythm in hepatocellular cancer.",
         "authors": [
             {
                 "name": "Yang Y",
@@ -6827,7 +6860,7 @@
             }
         ],
         "pubYear": "2004",
-        "journal": "The Journal of biological chemistry",
+        "journal": "The Journal of Biological Chemistry",
         "volume": "279",
         "issue": "38",
         "pages": "39289-95",
@@ -6876,7 +6909,7 @@
             }
         ],
         "pubYear": "2004",
-        "journal": "The Journal of biological chemistry",
+        "journal": "The Journal of Biological Chemistry",
         "volume": "279",
         "issue": "33",
         "pages": "34079-82",
@@ -6951,7 +6984,7 @@
             }
         ],
         "pubYear": "2004",
-        "journal": "Brain research. Molecular brain research",
+        "journal": "Brain Research. Molecular Brain Research",
         "volume": "122",
         "issue": "2",
         "pages": "158-66",
@@ -6973,7 +7006,7 @@
             }
         ],
         "pubYear": "2004",
-        "journal": "Molecular and cellular biology",
+        "journal": "Molecular and Cellular Biology",
         "volume": "24",
         "issue": "3",
         "pages": "1292-300",
@@ -6995,7 +7028,7 @@
             }
         ],
         "pubYear": "2004",
-        "journal": "Cell cycle (Georgetown, Tex.)",
+        "journal": "Cell Cycle",
         "volume": "3",
         "issue": "2",
         "pages": "141-4",
@@ -7012,7 +7045,7 @@
             }
         ],
         "pubYear": "2004",
-        "journal": "Advances in protein chemistry",
+        "journal": "Advances in Protein Chemistry",
         "volume": "69",
         "issue": "",
         "pages": "73-100",
