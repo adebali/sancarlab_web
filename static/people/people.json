@@ -549,6 +549,19 @@
     "web": "",
     "research": ["DNA repair"
     ],
+    "status": "past"
+ },
+  {
+    "lastname": "Curtis",
+    "firstname": "Quinten",
+    "degree": "",
+    "img": "Quinten.jpg",
+    "title": "Undergraduate Student",
+    "email": {"address":"quintenc", "domain":"email.unc.edu"},
+    "web": "",
+    "research": [
+    ],
+     "linkedin": "",
     "status": "current"
   }
 ]
