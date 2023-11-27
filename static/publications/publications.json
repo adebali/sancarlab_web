@@ -1,5 +1,57 @@
 [
+    {
+        "pmid": "37994737",
+        "title": "Nucleotide excision repair in Human cell lines lacking both XPC and CSB proteins.",
+        "authors": [
+             {
+                "name": "Kose C",
+                "authtype": "Author",
+                "clusterid": ""
+            },{
+                "name": "Cao X",
+                "authtype": "Author",
+                "clusterid": ""
+            },
            {
+                "name": "Dewey E",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Malkoc M",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Adebali O",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Sekelsky J",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Lindsey-Boltz LA",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2023",
+        "journal": "Nucleic Acids Research",
+        "volume": "51",
+        "issue": " ",
+        "pages": " ",
+        "doi": "10.1093/nar/gkad1104",
+        "sortpubdate": "2023/11/15 00:00"
+    },
+  {
         "pmid": "37844222",
         "title": "In vitro DNA repair genomics using XR-seq with Escherichia coli and mammalian cell-free extracts.",
         "authors": [
