@@ -33,3 +33,5 @@
 2016 National Academy of Medicine
 
 2019 Hyman L. Battle Distinguished Cancer Research Award
+
+2023 Honorary Member of Azerbaijan National Academy of Science (ANAS)
