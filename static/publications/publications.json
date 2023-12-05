@@ -1,7 +1,7 @@
 [
     {
         "pmid": "37994737",
-        "title": "Nucleotide excision repair in Human cell lines lacking both XPC and CSB proteins.",
+        "title": "Cross-species investigation into the requirement of XPA for nucleotide excision repair.",
         "authors": [
              {
                 "name": "Kose C",
@@ -45,7 +45,7 @@
         ],
         "pubYear": "2023",
         "journal": "Nucleic Acids Research",
-        "volume": "51",
+        "volume": "51 ",
         "issue": " ",
         "pages": " ",
         "doi": "10.1093/nar/gkad1104",
@@ -164,7 +164,7 @@
         ],
         "pubYear": "2023",
         "journal": "Nucleic Acids Research",
-        "volume": "51",
+        "volume": "51 ",
         "issue": "12",
         "pages": " 6238–6245",
         "doi": "10.1093/nar/gkad334",
