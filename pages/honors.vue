@@ -31,6 +31,7 @@
               <li>2016 North Carolina Award - the highest civilian honor given by the state</li>
               <li>2016 National Academy of Medicine</li>
               <li>2019 Hyman L. Battle Distinguished Cancer Research Award</li>
+              <li>2023 Honorary Member of Azerbaijan National Academy of Science (ANAS)</li>
             </ul>
         </div>
       </div>
