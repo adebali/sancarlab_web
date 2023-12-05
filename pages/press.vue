@@ -10,7 +10,7 @@
   <div class="wrap">
     <h2>2023</h2>
     <h3><a href="https://www.med.unc.edu/biochem/news/aziz-sancar-elected-an-honorary-member-of-anas/">Dr. Aziz Sancar was elected an honorary member of Azerbaijan National Academy of Science (ANAS)</a></h3>
-    <p>Taking into account the petition of the General Meeting of the Department of Chemical Sciences of ANAS, an open voting was held at the General Meeting of ANAS regarding the election of Nobel laureate Aziz Sanjar as an honorary member of ANAS. Based on the voting results, Nobel laureate Aziz Sancar was elected an honorary member of ANAS.</p>
+    <p>Taking into account the petition of the General Meeting of the Department of Chemical Sciences of ANAS, an open voting was held at the General Meeting of ANAS and based on the voting results, Nobel laureate Aziz Sancar was elected an honorary member of ANAS.</p>
     
     <h3><a href="https://www.med.unc.edu/biochem/news/researcher-in-the-spotlight-postdoc-ashraf-n-abdo/">Welcome Postdoc, Dr. Ashraf N. Abdo, to the Sancar lab and our department</a></h3>
     <p>Researcher in the Spotlight: Postdoc, Dr. Ashraf N. Abdo.</p>
