@@ -1,5 +1,38 @@
 [
-    {
+  {
+        "pmid": "38359290",
+        "title": "Mutations of the circadian clock genes Cry, Per, or Bmal1 have different effects on the transcribed and nontranscribed strands of cycling genes.",
+        "authors": [
+            {
+                "name": "Yang Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Wu G",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Hogenesch JB",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2024",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "volume": "121 ",
+        "issue": "8",
+        "pages": "e2316731121 ",
+        "doi": "10.1073/pnas.2316731121",
+        "sortpubdate": "2024/2/19 00:00"
+    },
+  {
         "pmid": "37994737",
         "title": "Cross-species investigation into the requirement of XPA for nucleotide excision repair.",
         "authors": [
@@ -43,13 +76,51 @@
                 "clusterid": ""
             }
         ],
-        "pubYear": "2023",
+        "pubYear": "2024",
         "journal": "Nucleic Acids Research",
         "volume": "51 ",
-        "issue": " ",
-        "pages": " ",
+        "issue": "2",
+        "pages": " 677-689 ",
         "doi": "10.1093/nar/gkad1104",
-        "sortpubdate": "2023/11/15 00:00"
+        "sortpubdate": "2024/1/15 00:00"
+    },
+    {
+        "pmid": "38332020",
+        "title": "Global repair is the primary nucleotide excision repair subpathway for the removal of pyrimidine-pyrimidone (6-4) damage from the Arabidopsis genome.",
+        "authors": [
+            {
+                "name": "Kaya S",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Erdogan DE",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Adebali O",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Oztas O",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2024",
+        "journal": "Scientific Reports",
+        "volume": "14 ",
+        "issue": "1",
+        "pages": "3308 ",
+        "doi": "10.1038/s41598-024-53472-8",
+        "sortpubdate": "2024/1/9 00:00"
     },
   {
         "pmid": "37844222",
