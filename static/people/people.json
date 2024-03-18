@@ -528,11 +528,11 @@
     "lastname": "Tartik",
     "firstname": "Musa",
     "degree": "PhD",
-    "img": "Musa.jpg",
+    "img": "Musa.jpeg",
     "title": "Postdoctoral Fellow",
     "email": {"address":"mtartik", "domain":"email.unc.edu"},
     "phone": "(919) 966-7489",
-    "web": "https://orcid.org/0000-0002-2379-577X",
+    "web": "",
     "linkedin": "musa-tartik-a139b464",
     "research": [
     "DNA repair"
