@@ -525,6 +525,21 @@
     "status": "past"
   },
   {
+    "lastname": "Tartik",
+    "firstname": "Musa",
+    "degree": "PhD",
+    "img": "Musa.jpg",
+    "title": "Postdoctoral Fellow",
+    "email": {"address":"mtartik", "domain":"email.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "https://orcid.org/0000-0002-2379-577X",
+    "linkedin": "musa-tartik-a139b464",
+    "research": [
+    "DNA repair"
+    ],
+    "status": "current"
+  },
+  {
     "lastname": "Akyel",
     "firstname": "Yasemin",
     "degree": "PhD",
