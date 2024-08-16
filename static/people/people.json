@@ -550,7 +550,23 @@
     "web": "",
     "linkedin": "yasemin-kübra-akyel-139092109",
     "research": [
-    "Circadian rhythm"
+    "DNA Repair", "Circadian rhythm"
+    ],
+    "status": "current"
+  },
+  {
+    "lastname": "Arslan",
+    "firstname": "Kaan",
+    "degree": "MD, PhD",
+    "img": "Kaan.jpg",
+    "title": "Postdoctoral Fellow",
+    "email": {"address":"arslank", "domain":"email.unc.edu"},
+    "phone": "(919) 966-7489",
+    "web": "",
+    "linkedin": "kaan-arslan-7b5441147",
+    "twitter": "arslnkaan0",
+    "research": [
+    "DNA Repair", "Circadian rhythm"
     ],
     "status": "current"
   },
