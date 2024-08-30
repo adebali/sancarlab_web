@@ -595,5 +595,17 @@
     ],
      "linkedin": "quintencurtis",
     "status": "current"
-  }
+  },
+  {
+    "lastname": "Li",
+    "firstname": "Qingyang (Jessica)",
+    "degree": "",
+    "img": "Jessica.jpg",
+    "title": "Undergraduate Student",
+    "email": {"address":"qingya", "domain":"email.unc.edu"},
+    "web": "",
+    "research": [
+    ],
+    "status": "current"
+ }
 ]
