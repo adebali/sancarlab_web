@@ -1,4 +1,41 @@
 [
+   {
+        "pmid": "39258558",
+        "title": "Nucleotide excision repair of aflatoxin-induced DNA damage within the 3D human genome organization.",
+        "authors": [
+             {
+                "name": "Wu Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },{
+                "name": "Adeel MM",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Xia D",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Li W",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2024",
+        "journal": "Nucleic Acids Research",
+        "volume": "51 ",
+        "issue": " ",
+        "pages": " 1-16 ",
+        "doi": "10.1093/nar/gkae755",
+        "sortpubdate": "2024/9/15 00:00"
+    },
   {
         "pmid": "38359290",
         "title": "Mutations of the circadian clock genes Cry, Per, or Bmal1 have different effects on the transcribed and nontranscribed strands of cycling genes.",
@@ -4993,7 +5030,7 @@
             }
         ],
         "pubYear": "2010",
-        "journal": "The Journal of biological chemistry",
+        "journal": "The Journal of Biological Chemistry",
         "volume": "285",
         "issue": "8",
         "pages": "5974-82",
@@ -5119,7 +5156,7 @@
             }
         ],
         "pubYear": "2010",
-        "journal": "The Journal of biological chemistry",
+        "journal": "The Journal of Biological Chemistry",
         "volume": "285",
         "issue": "7",
         "pages": "4788-97",
@@ -5152,7 +5189,7 @@
             }
         ],
         "pubYear": "2009",
-        "journal": "The Journal of biological chemistry",
+        "journal": "The Journal of Biological Chemistry",
         "volume": "284",
         "issue": "48",
         "pages": "33107-14",
@@ -5228,7 +5265,7 @@
             }
         ],
         "pubYear": "2009",
-        "journal": "Current biology : CB",
+        "journal": "Current Biology",
         "volume": "19",
         "issue": "17",
         "pages": "R733-4",
@@ -5291,7 +5328,7 @@
             }
         ],
         "pubYear": "2009",
-        "journal": "Chemical research in toxicology",
+        "journal": "Chemical Research in Toxicology",
         "volume": "22",
         "issue": "8",
         "pages": "1464-72",
@@ -5314,7 +5351,7 @@
             }
         ],
         "pubYear": "2009",
-        "journal": "Cell cycle (Georgetown, Tex.)",
+        "journal": "Cell Cycle",
         "volume": "8",
         "issue": "11",
         "pages": "1665-7",
@@ -5351,7 +5388,7 @@
             }
         ],
         "pubYear": "2009",
-        "journal": "The Journal of biological chemistry",
+        "journal": "The Journal of Biological Chemistry",
         "volume": "284",
         "issue": "22",
         "pages": "15158-72",
@@ -5379,7 +5416,7 @@
             }
         ],
         "pubYear": "2009",
-        "journal": "Methods (San Diego, Calif.)",
+        "journal": "Methods",
         "volume": "48",
         "issue": "1",
         "pages": "3-7",
@@ -5407,7 +5444,7 @@
             }
         ],
         "pubYear": "2009",
-        "journal": "Nucleic acids research",
+        "journal": "Nucleic Acids Research",
         "volume": "37",
         "issue": "5",
         "pages": "1501-9",
@@ -5491,7 +5528,7 @@
             }
         ],
         "pubYear": "2008",
-        "journal": "The Journal of biological chemistry",
+        "journal": "The Journal of Biological Chemistry",
         "volume": "283",
         "issue": "47",
         "pages": "32153-7",
@@ -5645,7 +5682,7 @@
             }
         ],
         "pubYear": "2008",
-        "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+        "journal": "The Journal of Neuroscience",
         "volume": "28",
         "issue": "28",
         "pages": "7193-201",
@@ -5789,7 +5826,7 @@
             }
         ],
         "pubYear": "2008",
-        "journal": "The Journal of biological chemistry",
+        "journal": "The Journal of Biological Chemistry",
         "volume": "283",
         "issue": "6",
         "pages": "3256-63",
@@ -5806,7 +5843,7 @@
             }
         ],
         "pubYear": "2008",
-        "journal": "Nature structural &amp; molecular biology",
+        "journal": "Nature Structural Molecular Biology",
         "volume": "15",
         "issue": "1",
         "pages": "23-4",
@@ -5950,7 +5987,7 @@
             }
         ],
         "pubYear": "2007",
-        "journal": "The Journal of biological chemistry",
+        "journal": "The Journal of Biological Chemistry",
         "volume": "282",
         "issue": "24",
         "pages": "17608-12",
@@ -5997,7 +6034,7 @@
             }
         ],
         "pubYear": "2007",
-        "journal": "Molecular and cellular biology",
+        "journal": "Molecular and Cellular Biology",
         "volume": "27",
         "issue": "8",
         "pages": "3131-42",
@@ -6285,7 +6322,7 @@
     },
     {
         "pmid": "16731526",
-        "title": "Mechanism of stimulation of human DNA ligase I by the Rad9-rad1-Hus1 checkpoint complex.",
+        "title": "Mechanism of stimulation of human DNA ligase I by the Rad9-Rad1-Hus1 checkpoint complex.",
         "authors": [
             {
                 "name": "Wang W",
@@ -6309,7 +6346,7 @@
             }
         ],
         "pubYear": "2006",
-        "journal": "The Journal of biological chemistry",
+        "journal": "The Journal of Biological Chemistry",
         "volume": "281",
         "issue": "30",
         "pages": "20865-72",
@@ -6373,7 +6410,7 @@
             }
         ],
         "pubYear": "2006",
-        "journal": "Cell cycle (Georgetown, Tex.)",
+        "journal": "Cell Cycle",
         "volume": "5",
         "issue": "13",
         "pages": "1366-70",
@@ -6417,7 +6454,7 @@
             }
         ],
         "pubYear": "2006",
-        "journal": "Molecular and cellular biology",
+        "journal": "Molecular and Cellular Biology",
         "volume": "26",
         "issue": "1",
         "pages": "39-49",
@@ -6439,7 +6476,7 @@
             }
         ],
         "pubYear": "2006",
-        "journal": "Methods in enzymology",
+        "journal": "Methods in Enzymology",
         "volume": "408",
         "issue": "",
         "pages": "189-213",
@@ -6461,7 +6498,7 @@
             }
         ],
         "pubYear": "2006",
-        "journal": "Methods in enzymology",
+        "journal": "Methods in Enzymology",
         "volume": "408",
         "issue": "",
         "pages": "121-56",
@@ -6525,7 +6562,7 @@
             }
         ],
         "pubYear": "2005",
-        "journal": "Molecular and cellular biology",
+        "journal": "Molecular and Cellular Biology",
         "volume": "25",
         "issue": "22",
         "pages": "9784-92",
@@ -6596,7 +6633,7 @@
             }
         ],
         "pubYear": "2005",
-        "journal": "Cancer research",
+        "journal": "Cancer Research",
         "volume": "65",
         "issue": "15",
         "pages": "6828-34",
@@ -6665,7 +6702,7 @@
             }
         ],
         "pubYear": "2005",
-        "journal": "Molecular and cellular biology",
+        "journal": "Molecular and Cellular Biology",
         "volume": "25",
         "issue": "8",
         "pages": "3109-16",
