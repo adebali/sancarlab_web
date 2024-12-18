@@ -1,5 +1,76 @@
 [
      {
+        "pmid": "39621923",
+        "title": "Dynamics and mechanism of DNA repair by a bifunctional cryptochrome.",
+        "authors": [
+             {
+                "name": "Yan L",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Cao X",
+                "authtype": "Author",
+                "clusterid": ""
+            }, 
+          {
+                "name": "Wang L",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Chen J",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Zhong D",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2024",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "volume": "121 ",
+        "issue": "50",
+        "pages": " e2417633121 ",
+        "doi": "10.1073/pnas.2417633121",
+        "sortpubdate": "2024/12/1 00:00"
+    },     
+  {
+        "pmid": "39441633",
+        "title": "Dynamics of transcription-coupled repair of cyclobutane pyrimidine dimers and (6-4) photoproducts in Escherichia coli.",
+        "authors": [
+             {
+                "name": "Adebali O",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Selby CP",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2024",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "volume": "121 ",
+        "issue": "44",
+        "pages": " e2416877121 ",
+        "doi": "10.1073/pnas.2416877121",
+        "sortpubdate": "2024/11/1 00:00"
+    },
+  {
         "pmid": "39028758",
         "title": "Genome-wide analysis of transcription-coupled repair reveals novel transcription events in Caenorhabditis elegans.",
         "authors": [
@@ -62,9 +133,9 @@
         ],
         "pubYear": "2024",
         "journal": "Nucleic Acids Research",
-        "volume": "51 ",
-        "issue": " ",
-        "pages": " 1-16 ",
+        "volume": "52 ",
+        "issue": "19 ",
+        "pages": " 11704-11719 ",
         "doi": "10.1093/nar/gkae755",
         "sortpubdate": "2024/9/15 00:00"
     },
@@ -257,7 +328,7 @@
         "pubYear": "2023",
         "journal": "The Journal of Biological Chemistry",
         "volume": "299 ",
-        "issue": "",
+        "issue": "10 ",
         "pages": "105251 ",
         "doi": "10.1016/j.jbc.2023.105251",
         "sortpubdate": "2023/09/19 00:00"
