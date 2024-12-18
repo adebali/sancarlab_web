@@ -1,3 +1,7 @@
+## 2024
+
+----------
+
 ## 2023
 
 ----------
@@ -9,6 +13,9 @@ Congratulations to Dr. Xuemei Cao on her promotion to Research Associate on Sep 
 
 ### [Welcome Dr. Yasemin Kübra Akyel Visiting Scientist to the Sancar lab and our department](https://www.med.unc.edu/biochem/news/welcome-dr-yasemin-kubra-akyel-visiting-scientist-to-the-sancar-lab-and-our-department/)
 Medipol University’s faculty member Dr. Yasemin Kübra Akyel started to work in the laboratory and supervision of Nobel Prize-winning scientist Prof. Dr. Aziz Sancar in December 2022. Akyel works in the fields of ‘DNA Repair’ and ‘Circadian Rhythm’ and has a fellowship from the TÜBİTAK Aziz Sancar Abroad Postdoctoral Research Program.
+
+### [Hub RTP breaks ground and names a street in honor of Dr. Aziz Sancar]([https://www.med.unc.edu/biochem/news/welcome-dr-yasemin-kubra-akyel-visiting-scientist-to-the-sancar-lab-and-our-department/](https://www.med.unc.edu/biochem/news/hub-rtp-breaks-ground-and-names-a-street-in-honor-of-dr-aziz-sancar/))
+Hub RTP breaks ground and names each street for a Nobel-awarded scientist, including Dr. Aziz Sancar (Sancar Way), whose collective discoveries paved the way for continued growth in the Park and the Triangle Region while offering advancements to the science and medical research community.
 
 ## 2022
 
