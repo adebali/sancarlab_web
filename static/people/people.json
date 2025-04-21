@@ -99,7 +99,10 @@
     "research": [
       "Circadian Clock"
     ],
-    "status": "current"
+   "status": "alumn",
+    "currentTitle": "Assistant Professor",
+    "move": " ",
+    "farewellDate": 2024
   },
   {
     "lastname": "Liu",
@@ -343,7 +346,7 @@
     "firstname": "Cansu",
     "degree": "",
     "img": "cansu.jpg",
-    "title": "Graduate Student / Fulbright Scholar",
+    "title": "Postdoctoral Fellow",
     "email": {"address":"cansuk", "domain": "live.unc.edu"},
     "phone": "(919) 966-7489",
     "web": "",
@@ -398,7 +401,10 @@
       "Circadian rhythm",
       "DNA repair"
     ],
-    "status": "current"
+   "status": "alumn",
+            "move": "ViiV Healthcare: a global specialist HIV company",
+    "currentTitle": "Senior Bioinformatics Scientist",
+    "farewellDate": 2024
   },
   {
     "lastname": "Wang",
@@ -508,7 +514,7 @@
     "Circadian rhythm",
       "DNA repair"
     ],
-    "status": "current"
+    "status": "past"
   },
   {
     "lastname": "Pütün",
@@ -537,7 +543,7 @@
     "research": [
     "DNA repair"
     ],
-    "status": "current"
+    "status": "past"
   },
   {
     "lastname": "Akyel",
@@ -594,7 +600,7 @@
     "research": [
     ],
      "linkedin": "quintencurtis",
-    "status": "current"
+    "status": "past"
   },
   {
     "lastname": "Li",
