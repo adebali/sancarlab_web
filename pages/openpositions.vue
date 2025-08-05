@@ -16,7 +16,7 @@
 <h2>2025</h2>
 
 <p>
-  We are not currently looking for <b>Postdoctoral Research Associates</b>.
+  We are not currently looking for new team members.
   
   
   <ul>
