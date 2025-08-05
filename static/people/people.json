@@ -622,7 +622,8 @@
     "title": "Postdoctoral Fellow",
     "email": {"address":"yangliu6", "domain":"email.unc.edu"},
     "web": "",
-    "research": [DNA Repair", "Circadian rhythm"
+    "research": ["DNA Repair",
+      "Circadian Clock"
     ],
     "status": "current"
  }
