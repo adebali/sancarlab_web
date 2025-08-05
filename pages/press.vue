@@ -11,7 +11,7 @@
     <h2>2023</h2>
 
 
-    <h3><a href="https://www.unc.edu/discover/drawn-to-explain-debuts-on-craige-deck”>In UNC News: A sculpture on campus honors Dr. Aziz Sancar Nobel Award winning research</a></h3>
+    <h3><a href="https://www.unc.edu/discover/drawn-to-explain-debuts-on-craige-deck">In UNC News: A sculpture on campus honors Dr. Aziz Sancar Nobel Award winning research</a></h3>
     <p>The sculpture “Drawn to Explain” by international artist Amalia Pica is in tribute to the teaching on Carolina’s campus and features a diagram inspired by research that won Dr. Aziz Sancar the Nobel Prize.</p>
 
     
