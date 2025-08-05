@@ -12,11 +12,14 @@
        <br></br>
     <h2>2025</h2>
  <hr>
-         <h3><a href="https://news.utdallas.edu/alumni/sancar-10th-anniversary-nobel-2025/">UTD Honors Nobel Prize-Winning Alum at 10th Anniversary Event</a></h3>
+     <h3><a href="https://www.dailysabah.com/turkiye/turkic-states-summit-honors-aziz-sancar-for-scientific-contributions/news">Turkic states summit honors Aziz Sancar for scientific contributions</a></h3>
+    <p>Aziz Sancar was honored with the “Ali-Shir Nava’i International Award” during the informal summit of the Organization of Turkic States (OTS), held in Budapest, Hungary.</p>
+    
+    <h3><a href="https://news.utdallas.edu/alumni/sancar-10th-anniversary-nobel-2025/">UTD Honors Nobel Prize-Winning Alum at 10th Anniversary Event</a></h3>
     <p>The University of Texas at Dallas recently honored one of its most distinguished alumni, Aziz Sancar, MD, PhD’77, for his enduring impact on science and society by marking the 10th anniversary of his Nobel Prize in chemistry.</p>
     
-    <h3><a href="https://www.dailysabah.com/turkiye/turkic-states-summit-honors-aziz-sancar-for-scientific-contributions/news">Turkic states summit honors Aziz Sancar for scientific contributions</a></h3>
-    <p>Aziz Sancar was honored with the “Ali-Shir Nava’i International Award” during the informal summit of the Organization of Turkic States (OTS), held in Budapest, Hungary.</p>
+    <h3><a href="https://www.med.unc.edu/biochem/news/graduate-students-present-findings-at-aacr-annual-meeting/">Graduate students present findings at AACR annual meeting</a></h3>
+    <p>Graduate student Humeyra Kaanoglu in the Sancar Lab presented her research poster at the American Association for Cancer Research (AACR) annual meeting in Chicago during the week of April 25-30, 2025.</p>
 
     <h3><a href="https://www.unc.edu/posts/2025/03/31/turkish-biology-student-joins-aziz-sancars-carolina-lab/">Sancar lab trainee in the news: Hümeyra Kaanoğlu</a></h3>
     <p>Through the Fulbright program, Hümeyra Kaanoğlu pursues research with the Nobel laureate Aziz Sancar.</p>
@@ -59,6 +62,9 @@
     <hr>
     <h3><a href="https://news.unchealthcare.org/2022/08/scientists-discover-surprise-anticancer-properties-of-common-lab-molecule/">Scientists Discover Surprise Anticancer Properties of Common Lab Molecule</a></h3>
     <p>Experiments from the UNC School of Medicine lab of Nobel Prize-winning scientist Aziz Sancar, MD, PhD, show how a common molecular tool for DNA labeling also has anticancer properties worthy of further investigation, especially for brain cancers.</p>
+
+     <h3><a href="https://www.med.unc.edu/biochem/news/yanyan-yang-promoted-to-research-assistant-professor/">Yanyan Yang promoted to Research Assistant Professor</a></h3>
+    <p>Congratulations to Dr. Yanyan Yang on her promotion to Research Assistant Professor on May 19, 2022. Dr. Yang joined Professor Sancar’s lab as a postdoc in 2015.</p>
 
     <h3><a href="https://www.med.unc.edu/biochem/news/nazli-deger-fulbright-scholar-in-sancar-lab-earns-her-phd-in-quantitative-biology/">Student Thesis Defense: Nazli Deger</a></h3>
     <p>Nazli Deger successfully defended her dissertation under the direction of Dr. Aziz Sancar on January 12th, 2022 and she has received her PhD. The title of her dissertation is “Nucleotide Excision Repair Map of Drosophila Melanogaster at a Single Nucleotide Resolution”.</p>
