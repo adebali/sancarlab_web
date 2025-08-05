@@ -32,6 +32,8 @@
               <li>2016 National Academy of Medicine</li>
               <li>2019 Hyman L. Battle Distinguished Cancer Research Award</li>
               <li>2023 Honorary Member of Azerbaijan National Academy of Science (ANAS)</li>
+              <li>2025 Appointed “Turkic World Culture Ambassador” by The International Organization of Turkic Culture (TURKSOY) Permanent Council of Culture Ministers</li>
+              <li>2025 Organization of Turkic States (OTS) Ali-Shir Nava’i International Gold Medal for Promoting Science</li>
             </ul>
         </div>
       </div>
