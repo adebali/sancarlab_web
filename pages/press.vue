@@ -8,13 +8,32 @@
       </div>
     </div>
   <div class="wrap">
-    <h2>2023</h2>
+   
+       <br></br>
+    <h2>2025</h2>
+ <hr>
+     <h3><a href="https://www.dailysabah.com/turkiye/turkic-states-summit-honors-aziz-sancar-for-scientific-contributions/news">Turkic states summit honors Aziz Sancar for scientific contributions</a></h3>
+    <p>Aziz Sancar was honored with the “Ali-Shir Nava’i International Award” during the informal summit of the Organization of Turkic States (OTS), held in Budapest, Hungary.</p>
+  
+     <h3><a href="https://news.utdallas.edu/alumni/sancar-10th-anniversary-nobel-2025/">UTD Honors Nobel Prize-Winning Alum at 10th Anniversary Event</a></h3>
+    <p>The University of Texas at Dallas recently honored one of its most distinguished alumni, Aziz Sancar, MD, PhD’77, for his enduring impact on science and society by marking the 10th anniversary of his Nobel Prize in chemistry.</p>
 
-
-    <h3><a href="https://www.unc.edu/discover/drawn-to-explain-debuts-on-craige-deck">In UNC News: A sculpture on campus honors Dr. Aziz Sancar Nobel Award winning research</a></h3>
-    <p>The sculpture “Drawn to Explain” by international artist Amalia Pica is in tribute to the teaching on Carolina’s campus and features a diagram inspired by research that won Dr. Aziz Sancar the Nobel Prize.</p>
-
+    <h3><a href="https://menafn.com/1109119258/TURKSOY-Names-Nobel-Laureate-Aziz-Sancar-As-Turkic-World-Culture-Ambassador">TURKSOY Names Nobel Laureate Aziz Sancar As Turkic World Culture Ambassador</a></h3>
+    <p>During a ceremony at the Aziz and Gwen Sancar Foundation Cultural Center in North Carolina, USA, on January 19, 2025, TURKSOY Secretary General Sultan Raev announced that the honorary title was conferred upon Sancar based on a unanimous decision from the TURKSOY Permanent Council of Culture Ministers.</p>
     
+    <h3><a href="https://www.unc.edu/posts/2025/03/31/turkish-biology-student-joins-aziz-sancars-carolina-lab/">Sancar lab trainee in the news: Hümeyra Kaanoğlu</a></h3>
+    <p>Through the Fulbright program, Hümeyra Kaanoğlu pursues research with the Nobel laureate Aziz Sanar.</p>
+    <br></br>
+    
+    <h2>2024</h2>
+
+    <hr>
+     <h3><a href="https://www.unc.edu/posts/2025/03/31/turkish-biology-student-joins-aziz-sancars-carolina-lab/">Sancar lab trainee in the news: Hümeyra Kaanoğlu</a></h3>
+    <p>Through the Fulbright program, Hümeyra Kaanoğlu pursues research with the Nobel laureate Aziz Sanar.</p>
+     <br></br>
+    
+    <h2>2023</h2>
+    <hr>
     <h3><a href="https://www.med.unc.edu/biochem/news/aziz-sancar-elected-an-honorary-member-of-anas/">Dr. Aziz Sancar was elected an honorary member of Azerbaijan National Academy of Science (ANAS)</a></h3>
     <p>Taking into account the petition of the General Meeting of the Department of Chemical Sciences of ANAS, an open voting was held at the General Meeting of ANAS and based on the voting results, Nobel laureate Aziz Sancar was elected an honorary member of ANAS.</p>
     
