@@ -9,6 +9,12 @@
     </div>
   <div class="wrap">
     <h2>2023</h2>
+
+
+    <h3><a href="https://www.unc.edu/discover/drawn-to-explain-debuts-on-craige-deck”>In UNC News: A sculpture on campus honors Dr. Aziz Sancar Nobel Award winning research</a></h3>
+    <p>The sculpture “Drawn to Explain” by international artist Amalia Pica is in tribute to the teaching on Carolina’s campus and features a diagram inspired by research that won Dr. Aziz Sancar the Nobel Prize.</p>
+
+    
     <h3><a href="https://www.med.unc.edu/biochem/news/aziz-sancar-elected-an-honorary-member-of-anas/">Dr. Aziz Sancar was elected an honorary member of Azerbaijan National Academy of Science (ANAS)</a></h3>
     <p>Taking into account the petition of the General Meeting of the Department of Chemical Sciences of ANAS, an open voting was held at the General Meeting of ANAS and based on the voting results, Nobel laureate Aziz Sancar was elected an honorary member of ANAS.</p>
     
