@@ -1,5 +1,27 @@
 [
-    {
+       {
+        "pmid": "40854106",
+        "title": "Biochemical mechanism of the mammalian circadian clock.",
+        "authors": [
+             {
+                "name": "Liu Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2025",
+        "journal": "FEBS Lett",
+        "volume": " ",
+        "issue": " ",
+        "pages": "  ",
+        "doi": "10.1002/1873-3468.70150",
+        "sortpubdate": "2025/8/1 00:00"
+    },     {
         "pmid": "40703065",
         "title": "Time of Day-Dependent Responses to Cisplatin Treatment in a Male Mouse Model of Hepatoma.",
         "authors": [
@@ -103,9 +125,9 @@
         ],
         "pubYear": "2025",
         "journal": "Mol Cancer Ther",
-        "volume": " ",
-        "issue": "",
-        "pages": "  ",
+        "volume": "24 ",
+        "issue": "8",
+        "pages": "1213–1225  ",
         "doi": "10.1158/1535-7163.MCT-24-1098",
         "sortpubdate": "2025/4/15 00:00"
     },     
