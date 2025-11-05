@@ -1,4 +1,70 @@
-[
+[ {
+        "pmid": "40130554",
+        "title": "Combinatorial Treatment of Glioblastoma with Temozolomide (TMZ) Plus 5-Ethynyl-2’-deoxyuridine (EdU).",
+        "authors": [
+             {
+                "name": "Kaanoglu H",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Akyel Y",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Adefolaju A",
+                "authtype": "Author",
+                "clusterid": ""
+            }, 
+          {
+                "name": "Valdivia A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Higgins D",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Moseley C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+            {
+                "name": "Haswell C",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+          {
+                "name": "Zamboni WC",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+         {
+                "name": "Hingtgen SD",
+                "authtype": "Author",
+                "clusterid": ""
+            },{
+                "name": "Satterlee AB",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2025",
+        "journal": "bioRxiv",
+        "volume": " ",
+        "issue": "",
+        "pages": " ",
+        "doi": "https://doi.org/10.1101/2025.10.21.683081",
+        "sortpubdate": "2025/11/1 00:00"
+    },     
  {
         "pmid": "41189058",
         "title": "Chromatin context shapes DNA damage formation and nucleotide excision repair dynamics in Caenorhabditis elegans.",
