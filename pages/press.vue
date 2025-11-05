@@ -39,7 +39,8 @@
     <h2>2024</h2>
 
     <hr>
-    
+    <h3><a href="https://www.dailytarheel.com/article/city-turkish-scholars-residence-sancar-20241202">Sancar Scholars Residence to accommodate Turkish scholars, offer sense of belonging</a></h3>
+    <p>The Aziz and Gwen Sancar Foundation is set to launch a new housing development in 2025 — the Sancar Scholars Residence — for Turkish students in the Triangle area.</p>
      <br></br>
     
     <h2>2023</h2>
