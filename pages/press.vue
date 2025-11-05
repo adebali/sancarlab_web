@@ -12,6 +12,9 @@
        <br></br>
     <h2>2025</h2>
  <hr>
+     <h3><a href="https://news.unchealthcare.org/2025/10/the-enduring-legacy-of-dr-aziz-sancar/">The Enduring Legacy of Dr. Aziz Sancar</a></h3>
+    <p>A decade after winning the Nobel Prize, the UNC professor continues to push the boundaries of discovery while inspiring the next generation and building cultural bridges between the United States and Türkiye.</p>
+    
      <h3><a href="https://www.dailysabah.com/turkiye/turkic-states-summit-honors-aziz-sancar-for-scientific-contributions/news">Turkic states summit honors Aziz Sancar for scientific contributions</a></h3>
     <p>Aziz Sancar was honored with the “Ali-Shir Nava’i International Award” during the informal summit of the Organization of Turkic States (OTS), held in Budapest, Hungary.</p>
     
