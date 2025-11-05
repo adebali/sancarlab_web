@@ -39,6 +39,9 @@
     <h2>2024</h2>
 
     <hr>
+    <h3><a href="https://www.med.unc.edu/biochem/news/associate-professor-ogun-adebali-was-awarded-the-tubitak-incentive-award/">Associate Professor Ogün Adebali was awarded the TÜBİTAK Incentive Award</a></h3>
+    <p>Associate Professor Ogün Adebali was awarded the TÜBİTAK Incentive Award for his internationally distinguished work in developing bioinformatics tools that enable the examination of DNA damage responses across various organisms.</p>
+
     <h3><a href="https://www.dailytarheel.com/article/city-turkish-scholars-residence-sancar-20241202">Sancar Scholars Residence to accommodate Turkish scholars, offer sense of belonging</a></h3>
     <p>The Aziz and Gwen Sancar Foundation is set to launch a new housing development in 2025 — the Sancar Scholars Residence — for Turkish students in the Triangle area.</p>
      <br></br>
