@@ -1,6 +1,6 @@
 [ {
-        "pmid": "40130554",
-        "title": "Combinatorial Treatment of Glioblastoma with Temozolomide (TMZ) Plus 5-Ethynyl-2’-deoxyuridine (EdU).",
+        "pmid": "41474743",
+        "title": "Combinatorial treatment of glioblastoma with Temozolomide (TMZ) plus 5-ethynyl-2’-deoxyuridine (EdU).",
         "authors": [
              {
                 "name": "Kaanoglu H",
@@ -22,8 +22,13 @@
                 "authtype": "Author",
                 "clusterid": ""
             },
-           {
+             {
                 "name": "Higgins D",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Sellers RS",
                 "authtype": "Author",
                 "clusterid": ""
             },
@@ -57,13 +62,45 @@
                 "clusterid": ""
             }
         ],
-        "pubYear": "2025",
-        "journal": "bioRxiv",
+        "pubYear": "2026",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
         "volume": " ",
         "issue": "",
         "pages": " ",
-        "doi": "https://doi.org/10.1101/2025.10.21.683081",
-        "sortpubdate": "2025/11/1 00:00"
+        "doi": "10.1073/pnas.2532187123",
+        "sortpubdate": "2026/1/1 00:00"
+    },     
+  {
+        "pmid": "41231941",
+        "title": "Genome-wide strand-specific UV mutagenesis in Escherichia coli is directed by the Mfd translocase.",
+        "authors": [
+             {
+                "name": "Adebali O",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+         {
+                "name": "Mieczkowski PA",
+                "authtype": "Author",
+                "clusterid": ""
+            },{
+                "name": "Sancar A",
+                "authtype": "Author",
+                "clusterid": ""
+            },
+           {
+                "name": "Selby CP",
+                "authtype": "Author",
+                "clusterid": ""
+            }
+        ],
+        "pubYear": "2025",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "volume": "122",
+        "issue": "46 ",
+        "pages": "e2523368122 ",
+        "doi": "10.1073/pnas.2523368122",
+        "sortpubdate": "2025/11/18 00:00"
     },     
  {
         "pmid": "41189058",
@@ -98,7 +135,7 @@
         "journal": "Nucleic Acids Research",
         "volume": "55 ",
         "issue": "20",
-        "pages": "  ",
+        "pages": "gkaf1080 ",
         "doi": "10.1093/nar/gkaf1080",
         "sortpubdate": "2025/11/1 00:00"
     },
@@ -147,7 +184,8 @@
         "pages": "  ",
         "doi": "10.1002/1873-3468.70150",
         "sortpubdate": "2025/8/1 00:00"
-    },     {
+    },     
+  {
         "pmid": "40703065",
         "title": "Time of Day-Dependent Responses to Cisplatin Treatment in a Male Mouse Model of Hepatoma.",
         "authors": [
