@@ -615,6 +615,18 @@
     "status": "current"
  },
    {
+    "lastname": "Wang",
+    "firstname": "Grace",
+    "degree": "",
+    "img": "Grace.jpg",
+    "title": "Undergraduate Student",
+    "email": {"address":"grawang", "domain":"email.unc.edu"},
+    "web": "",
+    "research": [
+    ],
+    "status": "current"
+ },
+   {
     "lastname": "Liu",
     "firstname": "Yang",
     "degree": "PhD",
