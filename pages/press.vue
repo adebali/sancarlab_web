@@ -269,7 +269,24 @@
     <p>A new study from Aziz Sancar’s group in the Dept. of Biochemistry & Biophysics at UNC-Chapel Hill suggests that chemotherapy is most effective at certain times of day because that is when a particular enzyme system – one that can reverse the actions of chemotherapeutic drugs – is at its lowest levels in the body.</p>
     
     <br></br>
+<h2>2008</h2>
+ <hr>
 
+
+   <h3><a href="https://www.med.unc.edu/biochem/news/structure-and-function-of-photolyase-and-in-vivo-enzymology-50th-anniversary/">Structure and function of photolyase and in vivo enzymology – 50th anniversary</a></h3>
+    <p>Dr. Aziz Sancar, Professor of Biochemistry and Biophysics, has dedicated his recent Journal of Biological Chemistry publication to Dr. Claud S. Rupert, his PhD advisor. This paper signifies the 50th anniversary of the discovery of photolyase by Dr. Rupert and his colleagues, an event marking the beginning of the DNA repair field. This anniversary coincides with Dr. Rupert’s 90th birthday.</p>
+    
+   <h3><a href="https://www.med.unc.edu/biochem/news/moving-to-new-genetic-medicine-building-in-summer-of-2008/">We’ve Moved!</a></h3>
+    <p>The Department of Biochemistry & Biophysics has moved into the new Genetic Medicine building. At over 330,000 square feet, it is one of the largest research facilities on campus.</p>
+
+      <br></br>
+<h2>2005</h2>
+ <hr>
+
+    <h3><a href="https://www.med.unc.edu/biochem/news/dr-aziz-sancar-elected-to-national-academy-of-sciences-and-the-american-academy-of-arts-sciences/">Aziz Sancar Elected to National Academy of Sciences and the American Academy of Arts & Sciences</a></h3>
+    <p>Professor Aziz Sancar, Sarah Graham Kenan Professor of Biochemistry & Biophysics, has been elected as a 2005 member to the distinguished National Academy of Sciences and to the American Academy of Arts & Sciences.</p>
+    
+    <br></br>
     <hr>  
   </div>
   </div>
