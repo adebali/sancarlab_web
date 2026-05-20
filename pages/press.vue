@@ -250,7 +250,14 @@
 
     <br></br>
     <h2>2009</h2>
+ <hr>
 
+
+    <h3><a href="https://www.med.unc.edu/biochem/news/dna-repair-mechanisms-the-work-of-aziz-sancar/">DNA Repair Mechanisms: the Work of Aziz Sancar</a></h3>
+    <p>Congratulations to Dr. Aziz Sancar, Distinguished Professor of Biochemistry & Biophysics whose work was reprinted as a classic to commemorate the centennial of the Journal of Biological Chemistry.</p>
+    
+
+    <br></br>
 
     <hr>  
   </div>
