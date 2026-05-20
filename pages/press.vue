@@ -205,9 +205,13 @@
 
     <h3><a href="https://www.med.unc.edu/biochem/news/aziz-sancar-honored-as-tar-heel-of-the-year">Aziz Sancar honored as Tar Heel of the Year</a></h3>
     <p>2015 Tar Heels of the Year are Aziz Sancar of the University of North Carolina and Paul Modrich of Duke University.</p>
+   
     <h3><a href="https://www.med.unc.edu/biochem/news/the-man-behind-the-nobel-prize">The Man Behind the Nobel Prize</a></h3>
     <p>In this video, learn more about Aziz Sancar, the Sarah Graham Kenan Professor of Biochemistry and Biophysics and Nobel Prize Laureate in Chemisty for 2015.</p>
+    
     <h3><a href="https://www.med.unc.edu/biochem/news/aziz-sancar-receives-2015-nobel-prize-in-chemistry">Aziz Sancar receives 2015 Nobel Prize in Chemistry</a></h3>
+     <p>Aziz Sancar, MD, PhD, the Sarah Graham Kenan Professor of Biochemistry and Biophysics at the UNC School of Medicine has been awarded the 2015 Nobel Prize for Chemistry for his groundbreaking work in mapping DNA repair.</p>
+    
     <p><h3><a href="https://www.med.unc.edu/biochem/news/unc-researchers-create-dna-repair-map-of-the-entire-human-genome">UNC researchers create DNA repair map of the entire human genome</a></h3></p>
     <p>The new experimental assay can help scientists find the precise locations of repair of DNA damage caused by UV radiation and common chemotherapies. The invention could lead to better cancer drugs or improvements in the potency of existing ones.</p>
     <br></br>
