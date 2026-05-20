@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^4.4.0",
-    "@nuxtjs/blog": "0.0.1-6",
     "@rollup/plugin-json": "^4.1.0",
     "axios": "^0.21.2",
     "foundation": "^4.2.1-1",
@@ -29,9 +28,6 @@
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10",
     "yarn": "^1.22.10"
-  },
-  "overrides": {
-    "node-sass": "^8.0.0"
   },
   "devDependencies": {
     "@nuxtjs/font-awesome": "^1.0.2",
