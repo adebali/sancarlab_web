@@ -22,7 +22,7 @@
     <h2>2025</h2>
  <hr>
     <h3><a href="https://www.med.unc.edu/biochem/news/humeyra-kaanoglu-and-yasemin-k-akyel-phd-first-co-authors-on-sancar-lab-glioblastoma-research-pub-in-pnas/">Humeyra Kaanoglu and Yasemin K. Akyel PhD first co-authors on Sancar lab glioblastoma research pub in PNAS</a></h3>
-    <p>A new study from the Sancar Lab and collaborators at UNC-Chapel Hill, published in PNAS, highlights a promising future therapeutic strategy for glioblastoma (GBM), one of the most aggressive and treatment-resistant brain cancers. Researchers found that combining 5-ethynyl-2′-deoxyuridine (EdU) with the standard-of-care drug temozolomide (TMZ) significantly improves antitumor efficacy in preclinical GBM mouse models. This approach not only enhances tumor cell targeting but also delivers strong survival benefits, with long-term survival achieved in a subset of models.</p>
+    <p>A new study from the Sancar Lab and collaborators at UNC-Chapel Hill, published in PNAS, highlights a promising future therapeutic strategy for glioblastoma (GBM), one of the most aggressive and treatment-resistant brain cancers. Researchers found that combining 5-ethynyl-2′-deoxyuridine (EdU) with the standard-of-care drug temozolomide (TMZ) significantly improves antitumor efficacy in preclinical GBM mouse models.</p>
     
     <h3><a href="https://news.unchealthcare.org/2025/10/the-enduring-legacy-of-dr-aziz-sancar/">The Enduring Legacy of Dr. Aziz Sancar</a></h3>
     <p>A decade after winning the Nobel Prize, the UNC professor continues to push the boundaries of discovery while inspiring the next generation and building cultural bridges between the United States and Türkiye.</p>
