@@ -253,10 +253,12 @@
  <hr>
 
 
-    <h3><a href="https://www.med.unc.edu/biochem/news/dna-repair-mechanisms-the-work-of-aziz-sancar/">DNA Repair Mechanisms: the Work of Aziz Sancar</a></h3>
+   <h3><a href="https://www.med.unc.edu/biochem/news/dna-repair-mechanisms-the-work-of-aziz-sancar/">DNA Repair Mechanisms: the Work of Aziz Sancar</a></h3>
     <p>Congratulations to Dr. Aziz Sancar, Distinguished Professor of Biochemistry & Biophysics whose work was reprinted as a classic to commemorate the centennial of the Journal of Biological Chemistry.</p>
     
-
+   <h3><a href="https://www.med.unc.edu/biochem/news/tae-hong-kang-receives-unc-postdoctoral-award-for-research-excellence/">Tae-Hong Kang receives UNC Postdoctoral Award for Research Excellence</a></h3>
+    <p>Congratulations to Tae-Hong Kang, postdoctoral fellow in Aziz Sancar’s lab in the Dept. of Biochemistry & Biophysics, who received a UNC Postdoctoral Award for Research Excellence for the 2009-2010 academic year.</p>
+    
     <br></br>
 
     <hr>  
