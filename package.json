@@ -30,6 +30,9 @@
     "vue-template-compiler": "^2.7.10",
     "yarn": "^1.22.10"
   },
+  "overrides": {
+    "node-sass": "^8.0.0"
+  },
   "devDependencies": {
     "@nuxtjs/font-awesome": "^1.0.2",
     "babel-eslint": "^7.2.3",
@@ -48,10 +51,10 @@
     "html-loader": "^0.5.1",
     "mini-toastr": "^0.6.6",
     "node-ncbi": "^0.5.1",
-    "node-sass": "^4.5.3",
+    "sass": "^1.77.0",
     "nouislider": "^10.1.0",
     "python-shell": "^0.4.0",
-    "sass-loader": "^6.0.6",
+    "sass-loader": "^7.3.1",
     "typeface-fjalla-one": "0.0.35",
     "vue-lightbox": "^1.1.6",
     "vue-no-ssr": "^0.2.0",
