@@ -242,10 +242,10 @@
     <hr>
 
 
-    <h3><a href="https://www.med.unc.edu/biochem/news/2011/sancar-lab-featured-on-in-this-issue-of-pnas-published-on-november-15-2011">Sancar lab featured on "In This Issue" of PNAS, published on November 15, 2011</a></h3>
+    <h3><a href="https://www.med.unc.edu/biochem/news/2011/sancar-lab-featured-on-in-this-issue-of-pnas-published-on-november-15-2011">Sancar lab featured on "In This Issue" of PNAS</a></h3>
     <p>Exposure to UV radiation triggers DNA lesions that can lead to skin cancer, the most common type of cancer in the United States. Previous studies in mice have shown that levels of a protein called XPA, involved in repairing UV-induced DNA lesions, waxes and wanes with the time of day. Shobhan Gaddameedhi et al. found that the protein's level and activity in mouse skin cells are at their lowest at 4 AM and their highest at 4PM.</p>
     
-    <h3><a href="https://www.med.unc.edu/biochem/news/2011/sancar--july-22-2011-cover-of-jbc">Sancar lab featured on the cover of JBC published on July 22, 2011</a></h3>
+    <h3><a href="https://www.med.unc.edu/biochem/news/2011/sancar--july-22-2011-cover-of-jbc">Sancar lab featured on the cover of JBC</a></h3>
     <p>On the JBC Cover: The circadian clock is the internal timekeeping molecular system that generates a daily rhythm in an organism's physiology and behavior.</p>
 
     <br></br>
@@ -261,6 +261,13 @@
 
     <h3><a href="https://www.med.unc.edu/biochem/news/aziz-sancar-receives-2009-distinguished-alumni-award-from-university-of-texas-dallas/">Aziz Sancar receives 2009 Distinguished Alumni Award from University of Texas, Dallas</a></h3>
     <p>Congratulations to Dr. Aziz Sancar, Distinguished Professor of Biochemistry & Biophysics, receives the highest honor bestowed upon alumni of the University of Texas, Dallas.</p>
+
+    <h3><a href="https://www.med.unc.edu/biochem/news/tinkering-with-the-circadian-clock-can-suppress-cancer-growth/">Tinkering with the circadian clock can suppress cancer growth</a></h3>
+    <p>Researchers in Aziz Sancar’s group in the Department of Biochemistry & Biophysics at UNC-Chapel Hill have shown that disruption of the circadian clock – the internal time-keeping mechanism that keeps the body running on a 24-hour cycle – can slow the progression of cancer.</p>
+    
+    <h3><a href="https://www.med.unc.edu/biochem/news/sancar-lab-study-supports-role-of-circadian-clock-in-response-to-chemotherapy/">UNC study supports role of circadian clock in response to chemotherapy</a></h3>
+    <p>A new study from Aziz Sancar’s group in the Dept. of Biochemistry & Biophysics at UNC-Chapel Hill suggests that chemotherapy is most effective at certain times of day because that is when a particular enzyme system – one that can reverse the actions of chemotherapeutic drugs – is at its lowest levels in the body.</p>
+    
     <br></br>
 
     <hr>  
