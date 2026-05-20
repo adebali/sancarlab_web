@@ -224,6 +224,18 @@
     <h3><a href="https://www.med.unc.edu/biochem/news/yunus-annayev-receives-his-phd?utm_source=spring&utm_medium=email&utm_campaign=18">Student Thesis Defense: Yunus Annayev</a></h3>
     <p>Yunus Annayev, under the direction of Dr. Aziz Sancar, successfully defended his dissertation and received his Ph.D. on April 17th, 2014! The title of his dissertation is “Characterization of New Mouse Circadian Clock Gene: GM129“.</p>
     <br></br>
+      <br></br>
+    <h2>2012</h2>
+
+
+    <hr>
+
+
+    <h3><a href="https://www.med.unc.edu/biochem/news/shobhan-gaddameedhi-places-third-at-the-poster-competition-of-the-oliver-smithies-nobel-symposium/">Shobhan Gaddameedhi places third at the poster competition of the Oliver Smithies Nobel Symposium</a></h3>
+    <p>Congratulations to Dr. Shobhan Gaddameedhi, postdoctoral fellow in the laboratory of Dr. Aziz Sancar, who received the third place award at the Postdoctoral Research Poster Forum of the 2nd annual Oliver Smithies Nobel Symposium.</p>
+    
+
+  </div>
     <h2>2011</h2>
 
 
@@ -232,6 +244,7 @@
 
     <h3><a href="https://www.med.unc.edu/biochem/news/2011/sancar-lab-featured-on-in-this-issue-of-pnas-published-on-november-15-2011">Sancar lab featured on "In This Issue" of PNAS, published on November 15, 2011</a></h3>
     <p>Exposure to UV radiation triggers DNA lesions that can lead to skin cancer, the most common type of cancer in the United States. Previous studies in mice have shown that levels of a protein called XPA, involved in repairing UV-induced DNA lesions, waxes and wanes with the time of day. Shobhan Gaddameedhi et al. found that the protein's level and activity in mouse skin cells are at their lowest at 4 AM and their highest at 4PM.</p>
+    
     <h3><a href="https://www.med.unc.edu/biochem/news/2011/sancar--july-22-2011-cover-of-jbc">Sancar lab featured on the cover of JBC published on July 22, 2011</a></h3>
     <p>On the JBC Cover: The circadian clock is the internal timekeeping molecular system that generates a daily rhythm in an organism's physiology and behavior.</p>
   </div>
