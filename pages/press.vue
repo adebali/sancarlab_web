@@ -258,7 +258,9 @@
     
    <h3><a href="https://www.med.unc.edu/biochem/news/tae-hong-kang-receives-unc-postdoctoral-award-for-research-excellence/">Tae-Hong Kang receives UNC Postdoctoral Award for Research Excellence</a></h3>
     <p>Congratulations to Tae-Hong Kang, postdoctoral fellow in Aziz Sancar’s lab in the Dept. of Biochemistry & Biophysics, who received a UNC Postdoctoral Award for Research Excellence for the 2009-2010 academic year.</p>
-    
+
+    <h3><a href="https://www.med.unc.edu/biochem/news/aziz-sancar-receives-2009-distinguished-alumni-award-from-university-of-texas-dallas/">Aziz Sancar receives 2009 Distinguished Alumni Award from University of Texas, Dallas</a></h3>
+    <p>Congratulations to Dr. Aziz Sancar, Distinguished Professor of Biochemistry & Biophysics, receives the highest honor bestowed upon alumni of the University of Texas, Dallas.</p>
     <br></br>
 
     <hr>  
