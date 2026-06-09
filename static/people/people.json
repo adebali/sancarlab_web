@@ -9,7 +9,6 @@
     "phone": "(919) 962-0115",
     "web": "",
     "research": [],
-    "twitter": "azizgwensancar",
     "status": "current"
   },
   {
@@ -586,8 +585,11 @@
     "web": "",
     "research": ["DNA repair"
     ],
-    "status": "past"
- },
+     "status": "alumn",
+    "move": "NIH",
+    "currentTitle": "Postbac Fellow",
+    "farewellDate": 2026
+  },
   {
     "lastname": "Curtis",
     "firstname": "Quinten",
