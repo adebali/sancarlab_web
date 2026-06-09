@@ -12,6 +12,9 @@
        <br></br>
     <h2>2026</h2>
  <hr>
+    <h3><a href="https://unclineberger.org/news/unc-lineberger-honors-graduate-and-postdoc-award-winners-in-annual-ceremony/">UNC Lineberger honors graduate and postdoc award winners in annual ceremony</a></h3>
+    <p>Humeyra Kaanoglu, a Ph.D. candidate and Fulbright scholar in Nobel laureate Dr. Aziz Sancar's lab at the University of North Carolina at Chapel Hill (UNC), was awarded the prestigious UNC Lineberger Comprehensive Cancer Center Graduate Fellow Award in Basic Science on May 20, 2026. The Graduate Fellow Award is designed to recognize excellence in basic science research, encourage high-quality graduate training, and support cancer-related discovery. Recipients are chosen based on their overall body of graduate work, including research accomplishments, publications, presentations, and contributions to the academic community. Kaanoglu's dissertation work in the Sancar lab focuses on discovering and exploring promising new therapeutic strategies for glioblastoma.</p>  
+    
     <h3><a href="https://www.med.unc.edu/biochem/news/2025-26-prestigious-external-fellowship-winners-announced/">2025-26 Prestigious External Fellowship Winners announced</a></h3>
     <p>During the 28th Annual Graduate Student Recognition Celebration by the UNC Graduate School, Humeyra Kaanoglu presented a research poster from Sancar lab.</p>  
     
