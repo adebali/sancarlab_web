@@ -18,7 +18,7 @@
                 <p><a href="/honors"><i class="fa fa-trophy fa-lg" aria-hidden="true"></i> Honors</a></p>
                 <p><a href="/press"><i class="fa fa-newspaper-o fa-lg" aria-hidden="true"></i> Press</a></p>
                 <p><a href="/contact"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> Contact</a></p>
-                <p><a href="https://giving.dev.unc.edu/donate?&p=mfbb&f=303165&a=100.00"><i class="fa fa-gift fa-lg" aria-hidden="true"></i> Make a Gift</a></p>
+                <p><a href="https://give.unc.edu/donate?r=1&f=303165&p="><i class="fa fa-gift fa-lg" aria-hidden="true"></i> Make a Gift</a></p>
                 <!-- <p><a href="https://www.med.unc.edu/biochem" target="_blank">Dept. of Biochemistry & Biophysics</a></p> -->
 
                 <!-- <li><a href="/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i> Lab Album</a></li> -->
