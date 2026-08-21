@@ -13,9 +13,9 @@
     </welcome>
     <hr>
     <div class="wrap text-center">
-   <h2>Join Our Team! </h2>
+   <h2> Help fund our research! </h2>
     <p>
-      We are hiring! View open positions <nuxt-link to="/openpositions" target="_blank">here</nuxt-link>.
+      We are accepting donations <nuxt-link to="https://give.unc.edu/donate?r=1&f=303165&p=" target="_blank">here</nuxt-link>.
     </p>
     </div>
 
