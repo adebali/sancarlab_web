@@ -15,7 +15,7 @@
     <div class="wrap text-center">
    <h2> Help fund our research! </h2>
     <p>
-      We are accepting donations <nuxt-link href="https://give.unc.edu/donate?r=1&f=303165&p=" target="_blank">here</nuxt-link>.
+      We are accepting donations <a href="https://give.unc.edu/donate?r=1&amp;f=303165&amp;p=" target="_blank" rel="noopener noreferrer">here</a>.
     </p>
     </div>
 
