@@ -88,15 +88,15 @@
       ]
     },
     methods: {
-      sort: function (a, b) {
-        if (a.lastname > b.lastname) {
-          return 1
-        }
-        if (a.lastname < b.lastname) {
-          return -1
-        }
-        return 0
-      },
+     sort: function (a, b) {
+  if (a.firstname > b.firstname) {
+    return 1
+  }
+  if (a.firstname < b.firstname) {
+    return -1
+  }
+  return 0
+},
       sortYear: function (a, b) {
         if (a.farewellDate < b.farewellDate) {
           return 1
