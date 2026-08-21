@@ -256,7 +256,10 @@
     "web": "",
     "research": [
     ],
-    "status": "past"
+ "status": "alumn",
+    "move": "University of Wisconsin-Madison",
+    "currentTitle": "Graduate Student",
+    "farewellDate": 2019
   },
   {
     "lastname": "Meydaneri",
@@ -370,7 +373,10 @@
       "DNA damage"
     ],
     "linkedin": "hümeyra-kaanoğlu-51686b10b",
-    "status": "current"
+    "status": "alumn",
+    "move": "Harvard",
+    "currentTitle": "Postdoctoral Fellow",
+    "farewellDate": 2026
   },
   {
     "lastname": "Wang",
