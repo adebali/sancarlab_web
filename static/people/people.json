@@ -636,6 +636,20 @@
     ],
     "status": "current"
  },
+     {
+    "lastname": "Tarannum",
+    "firstname": "Tabia",
+    "degree": "",
+    "img": "Tabia.jpg",
+    "title": "Undergraduate Student",
+    "email": {"address":"tabiat", "domain":"unc.edu"},
+     "phone": "(919) 966-7489",
+    "web": "",
+       "linkedin": "tabia-tarannum",
+    "research": [
+    ],
+    "status": "current"
+ },
    {
     "lastname": "Liu",
     "firstname": "Yang",
